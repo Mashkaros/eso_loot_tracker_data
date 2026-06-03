@@ -1,0 +1,80 @@
+[
+  {
+    "id": "lead.aetherquartz_prayer_beads",
+    "mythic_id": "myth.pearls_ehlnofey",
+    "source_id": "src.auridon",
+    "name": {
+      "en": "Aetherquartz Prayer Beads",
+      "ru": "Четки из эфирного кварца"
+    },
+    "notes": {
+      "en": "Auridon Delve Bosses",
+      "ru": "Логово «Ондил», босс"
+    }
+  },
+  {
+    "id": "lead.inert_anemone_inlay",
+    "mythic_id": "myth.thrassian_stranglers",
+    "source_id": "src.auridon",
+    "name": {
+      "en": "Inert Anemone Inlay",
+      "ru": "Неподвижная анемоновая вставка"
+    },
+    "notes": {
+      "en": "All World Bosses in Auridon",
+      "ru": "Мировые боссы"
+    }
+  },
+  {
+    "id": "lead.vitharn_crafted_bail",
+    "mythic_id": "myth.saint_seducer",
+    "source_id": "src.auridon",
+    "name": {
+      "en": "Vitharn-crafted Bail",
+      "ru": "Застежка из Вайтарна"
+    },
+    "notes": {
+      "en": "Auridon Dolmens (Likely All Dolmens in any zone)",
+      "ru": "Темные якоря"
+    }
+  },
+  {
+    "id": "lead.nilumin_river_pearls",
+    "mythic_id": "myth.pearls_ehlnofey",
+    "source_id": "src.banished_cells_1.normal",
+    "name": {
+      "en": "Nilumin River Pearls",
+      "ru": "Нилуминский речной жемчуг"
+    },
+    "notes": {
+      "en": "Banished Cells 1 Last Boss High Kinlord Rilis",
+      "ru": "Групповое подземелье «Темницы Изгнанников 1», последний босс"
+    }
+  },
+  {
+    "id": "lead.ruinblood_coil",
+    "mythic_id": "myth.markyn_ring",
+    "source_id": "src.banished_cells_1.normal",
+    "name": {
+      "en": "Ruinblood Coil",
+      "ru": "Кольцо Осквернителей Крови"
+    },
+    "notes": {
+      "en": "Trash mobs in The Banished Cells 1 and 2",
+      "ru": "Групповые подземелья «Темницы Изгнанников 1 и 2», любые мобы"
+    }
+  },
+  {
+    "id": "lead.silverthread_stitching",
+    "mythic_id": "myth.syrabane_ward",
+    "source_id": "src.banished_cells_2.normal",
+    "name": {
+      "en": "Silverthread Stitching",
+      "ru": "Шитье серебряной нитью"
+    },
+    "notes": {
+      "en": "Banished Cells 2 Endboss, Auridion zone",
+      "ru": "Групповое подземелье «Темница Изгнанников 2», последний босс"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "src.crafting_station",
+    "type": "crafting_station",
+    "name": {
+      "en": "Crafting Station",
+      "ru": "Крафтовая станция"
+    }
+  },
+  {
+    "id": "src.auridon",
+    "type": "overland",
+    "name": {
+      "en": "Auridon",
+      "ru": "Ауридон"
+    }
+  },
+  {
+    "id": "src.banished_cells_1.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "The Banished Cells I Normal",
+      "ru": "Темница Изгнанников I Обычное"
+    }
+  },
+  {
+    "id": "src.banished_cells_1.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "The Banished Cells I Vet",
+      "ru": "Темница Изгнанников I Ветеранское"
+    }
+  },
+  {
+    "id": "src.banished_cells_2.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "The Banished Cells II Normal",
+      "ru": "Темница Изгнанников II Обычное"
+    }
+  },
+  {
+    "id": "src.banished_cells_2.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "The Banished Cells II Vet",
+      "ru": "Темница Изгнанников II Ветеранское"
+    }
+  }
+]

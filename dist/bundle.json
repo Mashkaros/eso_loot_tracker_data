@@ -1,0 +1,454 @@
+{
+  "version": "2026-06-03.1",
+  "generated_at": "2026-06-03T16:47:14Z",
+  "sources": [
+    {
+      "id": "src.crafting_station",
+      "type": "crafting_station",
+      "name": {
+        "en": "Crafting Station",
+        "ru": "Крафтовая станция"
+      }
+    },
+    {
+      "id": "src.auridon",
+      "type": "overland",
+      "name": {
+        "en": "Auridon",
+        "ru": "Ауридон"
+      }
+    },
+    {
+      "id": "src.banished_cells_1.normal",
+      "type": "dungeon",
+      "name": {
+        "en": "The Banished Cells I Normal",
+        "ru": "Темница Изгнанников I Обычное"
+      }
+    },
+    {
+      "id": "src.banished_cells_1.vet",
+      "type": "dungeon",
+      "name": {
+        "en": "The Banished Cells I Vet",
+        "ru": "Темница Изгнанников I Ветеранское"
+      }
+    },
+    {
+      "id": "src.banished_cells_2.normal",
+      "type": "dungeon",
+      "name": {
+        "en": "The Banished Cells II Normal",
+        "ru": "Темница Изгнанников II Обычное"
+      }
+    },
+    {
+      "id": "src.banished_cells_2.vet",
+      "type": "dungeon",
+      "name": {
+        "en": "The Banished Cells II Vet",
+        "ru": "Темница Изгнанников II Ветеранское"
+      }
+    }
+  ],
+  "sets": [
+    {
+      "id": "set.veiled_heritance",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "heavy",
+      "name": {
+        "en": "Armor of the Veiled Heritance",
+        "ru": "Доспех Скрытого Наследия"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 1487 Armor(4 items) Adds 1487 Armor(5 items) When you interrupt an enemy, you gain 516 Weapon and Spell Damage for 15 seconds. Your Bash attacks deal 516 more damage.",
+        "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Броня +1487(4 предмета) Броня +1487(5 предметов) Когда вы прерываете атаку врага ваша сила оружия и заклинаний увеличивается на 516 на 15 сек. Ваши прерывающие удары наносят на 516 ед. больше урона."
+      }
+    },
+    {
+      "id": "set.queens_elegance",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "light",
+      "name": {
+        "en": "Queen's Elegance",
+        "ru": "Элегантность королевы"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 1096 Maximum Magicka(4 items) Adds 1096 Maximum Magicka(5 items) When you use a Light Attack you reduce the Health, Magicka, or Stamina cost of your next active ability cast within 2 seconds by 10%. When you use a fully-charged Heavy Attack you gain Empower for 3 seconds, increasing the damage of your Heavy Attacks against monsters by 70%. Each of these effects can occur once every second.",
+        "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Макс. магия +1096(4 предмета) Макс. магия +1096(5 предметов) При использовании обычной атаки затраты здоровья магии или запаса сил на следующую активную способность примененную в течение 2 сек. уменьшаются на 10%. При использовании полностью заряженной силовой атаки вы на 3 сек. получаете эффект Усиление который увеличивает урон от ваших силовых атак наносимый монстрам на 70%. Каждый из этих эффектов может срабатывать не чаще чем раз в секунду."
+      }
+    },
+    {
+      "id": "set.twin_sisters",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "medium",
+      "name": {
+        "en": "Twin Sisters",
+        "ru": "Сестры-близнецы"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Stamina Recovery(3 items) Adds 1096 Maximum Stamina(4 items) Adds 657 Critical Chance(5 items) When you Block, you cause all enemies within 5 meters of you to bleed for 1932 Bleed damage over 10 seconds. This effect can occur once every 10 seconds and scales off the higher of your Weapon or Spell Damage.",
+        "ru": "(2 предмета) Восст. запаса сил +129(3 предмета) Макс. запас сил +1096(4 предмета) Шанс крит. удара +657(5 предметов) При блокировании вы вызываете у всех противников в пределах 5 метров кровотечение которое наносит 1932 ед. вызванного кровотечением урона в течение 10 сек. Этот эффект может срабатывать не чаще чем раз в 10 сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+      }
+    },
+    {
+      "id": "set.ashen_grip",
+      "type": "usual",
+      "farm_way": "craft",
+      "weight": "mixed",
+      "name": {
+        "en": "Ashen Grip",
+        "ru": "Пепельная хватка"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 657 Critical Chance(5 items) When you deal Martial melee damage, you breathe fire to all enemies in front of you for 774 Flame damage. This effect can occur once every 4 seconds and scales off the higher of your Weapon or Spell Damage.",
+        "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Сила оружия и заклинаний +129(4 предмета) Шанс крит. удара +657(5 предметов) При нанесении боевого урона в ближнем бою вы выдыхаете огонь во всех противников перед вами нанося 774 ед. огненного урона. Этот эффект может срабатывать не чаще чем раз в 4 сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+      }
+    },
+    {
+      "id": "set.deaths_wind",
+      "type": "usual",
+      "farm_way": "craft",
+      "weight": "mixed",
+      "name": {
+        "en": "Death's Wind",
+        "ru": "Ветер смерти"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1487 Armor(3 items) Adds 1206 Maximum Health(4 items) Adds 1206 Maximum Health(5 items) When you take melee damage while you are under 35% Health, you knockback and stun all enemies within 8 meters of you for 4 seconds. This effect can occur once every 15 seconds.",
+        "ru": "(2 предмета) Броня +1487(3 предмета) Макс. здоровье +1206(4 предмета) Макс. здоровье +1206(5 предметов) Если вы получаете урон в ближнем бою когда уровень вашего здоровья ниже 35% все противники в пределах 8 метров от вас отбрасываются и оглушаются на 4 сек. Этот эффект может срабатывать не чаще чем раз в 15 сек."
+      }
+    },
+    {
+      "id": "set.night_silence",
+      "type": "usual",
+      "farm_way": "craft",
+      "weight": "mixed",
+      "name": {
+        "en": "Night's Silence",
+        "ru": "Молчание ночи"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 129 Stamina Recovery(4 items) Adds 657 Critical Chance(5 items) Ignore the Movement Speed penalty of Sneak.",
+        "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Восст. запаса сил +129(4 предмета) Шанс крит. удара +657(5 предметов) Ваша скорость передвижения в режиме скрытности больше не снижается."
+      }
+    },
+    {
+      "id": "set.jailbreaker",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "medium",
+      "name": {
+        "en": "Jailbreaker",
+        "ru": "Беглец"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 129 Stamina Recovery(4 items) Adds 129 Stamina Recovery(5 items) Adds 142 Stamina Recovery, Gain Minor Expedition at all times, increasing your Movement Speed by 15%.",
+        "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Восст. запаса сил +129(4 предмета) Восст. запаса сил +129(5 предметов) Восст. запаса сил +142, Вы получаете постоянный эффект Малое ускорение увеличивающий скорость передвижения на 15%."
+      }
+    },
+    {
+      "id": "set.sanctuary",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "light",
+      "name": {
+        "en": "Sanctuary",
+        "ru": "Святилище"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 4% Healing Taken(4 items) Adds 1096 Maximum Magicka(5 items) Increases your healing received by 10% for you and up to 11 group members within 10 meters of you. This bonus persists through death.",
+        "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Получаемое лечение +4%(4 предмета) Макс. магия +1096(5 предметов) Лечение получаемое вами и 11 членами группы в радиусе 10 метров от вас увеличивается на 10%. Этот бонус будет действовать до вашей гибели."
+      }
+    },
+    {
+      "id": "set.tormentor",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "heavy",
+      "name": {
+        "en": "Tormentor",
+        "ru": "Истязатель"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 4% Healing Taken(4 items) Adds 4% Healing Taken(5 items) When you deal direct damage with a Blink, Charge, Leap, Teleport, or Pull ability, you gain 3642 Physical and Spell Resistance, taunt the first enemy hit to attack you for 15 seconds, and heal for 45% of the damage done.",
+        "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Получаемое лечение +4%(4 предмета) Получаемое лечение +4%(5 предметов) При нанесении прямого урона способностью позволяющей совершить мгновенное перемещение рывок прыжок телепортироваться или притянуть противника к себе ваша физическая и магическая сопротивляемость увеличивается на 3642 вы провоцируете первого пораженного противника в течение 15 сек. и исцеляетесь на 45% от нанесенного урона."
+      }
+    },
+    {
+      "id": "set.shadowrend",
+      "type": "monster",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Shadowrend",
+        "ru": "Теневик"
+      },
+      "bonuses": {
+        "en": "(1 item) Adds 129 Magicka Recovery(2 items) When you take damage, you summon a shadowy Clannfear for 15 seconds. The Clannfear's attacks deal 615 Magic damage and apply Minor Maim, reducing the target's damage done by 5% for 2 seconds. The Clannfear can be summoned once every 15 seconds and its damage scales off your Max Health.",
+        "ru": "(1 предмет) Восст. магии +129(2 предмета) При получении урона вы призываете теневого кланфира на 15 сек. Атаки кланфира наносят 615 ед. магического урона и накладывают на цель эффект Малое повреждение на 2 сек. уменьшая наносимый ею урон на 5%. Кланфира можно призывать не чаще чем раз в 15 сек. а количество наносимого им урона зависит от вашего максимального запаса здоровья."
+      }
+    },
+    {
+      "id": "set.maw_infernal",
+      "type": "monster",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Maw of the Infernal",
+        "ru": "Огненная Пасть"
+      },
+      "bonuses": {
+        "en": "(1 item) Adds 129 Weapon and Spell Damage(2 items) When you deal damage with a Light or Heavy Attack, you have a 33% chance to summon a fire breathing Daedroth for 15 seconds. The Daedroth's attacks deal 599 Flame damage every 2 seconds. The Daedroth can only be summoned once every 15 seconds and its damage scales off the higher of your Weapon or Spell Damage.",
+        "ru": "(1 предмет) Сила оружия и заклинаний +129(2 предмета) При нанесении урона обычной или силовой атакой вы с вероятностью 33% призываете огнедышащего даэдрота на 15 сек. Атаки даэдрота наносят 599 ед. огненного урона раз в 2 сек. Даэдрота можно призывать не чаще чем раз в 15 сек. а количество наносимого им урона зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+      }
+    }
+  ],
+  "set_sources": [
+    {
+      "id": "ss.set.veiled_heritance.src.auridon",
+      "set_id": "set.veiled_heritance",
+      "source_id": "src.auridon"
+    },
+    {
+      "id": "ss.set.queens_elegance.src.auridon",
+      "set_id": "set.queens_elegance",
+      "source_id": "src.auridon"
+    },
+    {
+      "id": "ss.set.twin_sisters.src.auridon",
+      "set_id": "set.twin_sisters",
+      "source_id": "src.auridon"
+    },
+    {
+      "id": "ss.set.ashen_grip.src.crafting_station",
+      "set_id": "set.ashen_grip",
+      "source_id": "src.crafting_station"
+    },
+    {
+      "id": "ss.set.deaths_wind.src.crafting_station",
+      "set_id": "set.deaths_wind",
+      "source_id": "src.crafting_station"
+    },
+    {
+      "id": "ss.set.night_silence.src.crafting_station",
+      "set_id": "set.night_silence",
+      "source_id": "src.crafting_station"
+    },
+    {
+      "id": "ss.set.jailbreaker.src.banished_cells_1.normal",
+      "set_id": "set.jailbreaker",
+      "source_id": "src.banished_cells_1.normal"
+    },
+    {
+      "id": "ss.set.jailbreaker.src.banished_cells_1.vet",
+      "set_id": "set.jailbreaker",
+      "source_id": "src.banished_cells_1.vet"
+    },
+    {
+      "id": "ss.set.jailbreaker.src.banished_cells_2.normal",
+      "set_id": "set.jailbreaker",
+      "source_id": "src.banished_cells_2.normal"
+    },
+    {
+      "id": "ss.set.jailbreaker.src.banished_cells_2.vet",
+      "set_id": "set.jailbreaker",
+      "source_id": "src.banished_cells_2.vet"
+    },
+    {
+      "id": "ss.set.sanctuary.src.banished_cells_1.normal",
+      "set_id": "set.sanctuary",
+      "source_id": "src.banished_cells_1.normal"
+    },
+    {
+      "id": "ss.set.sanctuary.src.banished_cells_1.vet",
+      "set_id": "set.sanctuary",
+      "source_id": "src.banished_cells_1.vet"
+    },
+    {
+      "id": "ss.set.sanctuary.src.banished_cells_2.normal",
+      "set_id": "set.sanctuary",
+      "source_id": "src.banished_cells_2.normal"
+    },
+    {
+      "id": "ss.set.sanctuary.src.banished_cells_2.vet",
+      "set_id": "set.sanctuary",
+      "source_id": "src.banished_cells_2.vet"
+    },
+    {
+      "id": "ss.set.tormentor.src.banished_cells_1.normal",
+      "set_id": "set.tormentor",
+      "source_id": "src.banished_cells_1.normal"
+    },
+    {
+      "id": "ss.set.tormentor.src.banished_cells_1.vet",
+      "set_id": "set.tormentor",
+      "source_id": "src.banished_cells_1.vet"
+    },
+    {
+      "id": "ss.set.tormentor.src.banished_cells_2.normal",
+      "set_id": "set.tormentor",
+      "source_id": "src.banished_cells_2.normal"
+    },
+    {
+      "id": "ss.set.tormentor.src.banished_cells_2.vet",
+      "set_id": "set.tormentor",
+      "source_id": "src.banished_cells_2.vet"
+    },
+    {
+      "id": "ss.set.shadowrend.src.banished_cells_1.vet",
+      "set_id": "set.shadowrend",
+      "source_id": "src.banished_cells_1.vet"
+    },
+    {
+      "id": "ss.set.maw_infernal.src.banished_cells_2.vet",
+      "set_id": "set.maw_infernal",
+      "source_id": "src.banished_cells_2.vet"
+    }
+  ],
+  "mythics": [
+    {
+      "id": "myth.pearls_ehlnofey",
+      "slot": "necklace",
+      "name": {
+        "en": "Pearls of Ehlnofey",
+        "ru": "Жемчужины эльнофей"
+      },
+      "bonuses": {
+        "en": "(1 item) When you attempt to use resources to cast a healing ability while in combat and your dominant resource is under 50%, gain Major Heroism for 1.5 seconds, granting you 3 Ultimate every 1.5 seconds.",
+        "ru": "Расходуя ресурсы на применение исцеляющей способности в бою когда у вас остается менее 50% основного ресурса вы на 1,5 сек. получаете эффект Великий героизм который восстанавливает вам 3 очк. суперспособности раз в 1,5 сек."
+      }
+    },
+    {
+      "id": "myth.thrassian_stranglers",
+      "slot": "hands",
+      "name": {
+        "en": "Thrassian Stranglers",
+        "ru": "Трассианские душители"
+      },
+      "bonuses": {
+        "en": "(1 item) Killing an enemy grants you a stack of Sload's Call for 1 hour, up to a maximum of 50 stacks. Each stack increases your Weapon and Spell Damage by 23, reduces your Maximum Health by 120, and reduces effectiveness of your damage shields by 1%. Sload's Call is lost if you remove Thrassian Stranglers, go invisible, or crouch.",
+        "ru": "(1 предмет) Убивая противника вы на 1 ч. получаете один заряд эффекта Зов слоада (всего можно накопить до 50 зарядов). Каждый заряд увеличивает вашу силу оружия и заклинаний на 23 но при этом снижает ваш максимальный запас здоровья на 120 и снижает эффективность поглощающих урон щитов на 1%. Если вы снимаете Трассианские душители или входите в режим скрытности или невидимости эффект Зов слоада исчезает."
+      }
+    },
+    {
+      "id": "myth.saint_seducer",
+      "slot": "necklace",
+      "name": {
+        "en": "The Saint and the Seducer",
+        "ru": "Святой и соблазнитель"
+      },
+      "bonuses": {
+        "en": "While in combat, you gain one of five random Major buffs which changes every 10 seconds. Enemies within 12 meters of you gain one of five random Minor debuffs depending on which buff you have. The available effects are: Major Berserk and Minor MaimMajor Resolve and Minor BreachMajor Force and Minor BrittleMajor Evasion and Minor VulnerabilityMajor Courage and Minor Cowardice",
+        "ru": "Будучи в бою вы получаете один из пяти перечисленных положительных эффектов который меняется раз в 10 сек. Противники в радиусе 12 метров от вас получают один из пяти отрицательных эффектов в зависимости от действующего на вас положительного эффекта. Доступные эффекты: Великая ярость и Малое повреждение Великая решимость и Малый прорыв Великая сила и Малая хрупкость Великое уклонение и Малая уязвимость Великая храбрость и Малая трусость"
+      }
+    },
+    {
+      "id": "myth.markyn_ring",
+      "slot": "ring",
+      "name": {
+        "en": "Markyn Ring of Majesty",
+        "ru": "Кольцо величия Маркина"
+      },
+      "bonuses": {
+        "en": "(1 item) Gain 100 Weapon and Spell Damage and 1157 Armor for every set you are wearing 3 or more pieces of.",
+        "ru": "(1) Ваша сила оружия и заклинаний увеличивается на 100, а показатель брони — на 1157 за каждый набор, из которого вы используете 3 или более предмета."
+      }
+    },
+    {
+      "id": "myth.syrabane_ward",
+      "slot": "waist",
+      "name": {
+        "en": "Syrabane's Ward",
+        "ru": "Оберег Сирабейна"
+      },
+      "bonuses": {
+        "en": "(1 item) While actively Bracing, you create a 12 meter zone of protection but you can no longer move. Group members within the zone increase the amount of damage they can block by 30% and their Health Recovery by 950. The Health Recovery cannot affect yourself.",
+        "ru": "(1) Находясь в защитной стойке, вы не можете двигаться, но создаете вокруг себя защитную область радиусом 12 м. Количество урона, которое могут заблокировать находящиеся в области члены группы, увеличивается на 30%, а их восстановление здоровья — на 950. На вас эффект увеличения восстановления здоровья не распространяется."
+      }
+    }
+  ],
+  "mythic_leads": [
+    {
+      "id": "lead.aetherquartz_prayer_beads",
+      "mythic_id": "myth.pearls_ehlnofey",
+      "source_id": "src.auridon",
+      "name": {
+        "en": "Aetherquartz Prayer Beads",
+        "ru": "Четки из эфирного кварца"
+      },
+      "notes": {
+        "en": "Auridon Delve Bosses",
+        "ru": "Логово «Ондил», босс"
+      }
+    },
+    {
+      "id": "lead.inert_anemone_inlay",
+      "mythic_id": "myth.thrassian_stranglers",
+      "source_id": "src.auridon",
+      "name": {
+        "en": "Inert Anemone Inlay",
+        "ru": "Неподвижная анемоновая вставка"
+      },
+      "notes": {
+        "en": "All World Bosses in Auridon",
+        "ru": "Мировые боссы"
+      }
+    },
+    {
+      "id": "lead.vitharn_crafted_bail",
+      "mythic_id": "myth.saint_seducer",
+      "source_id": "src.auridon",
+      "name": {
+        "en": "Vitharn-crafted Bail",
+        "ru": "Застежка из Вайтарна"
+      },
+      "notes": {
+        "en": "Auridon Dolmens (Likely All Dolmens in any zone)",
+        "ru": "Темные якоря"
+      }
+    },
+    {
+      "id": "lead.nilumin_river_pearls",
+      "mythic_id": "myth.pearls_ehlnofey",
+      "source_id": "src.banished_cells_1.normal",
+      "name": {
+        "en": "Nilumin River Pearls",
+        "ru": "Нилуминский речной жемчуг"
+      },
+      "notes": {
+        "en": "Banished Cells 1 Last Boss High Kinlord Rilis",
+        "ru": "Групповое подземелье «Темницы Изгнанников 1», последний босс"
+      }
+    },
+    {
+      "id": "lead.ruinblood_coil",
+      "mythic_id": "myth.markyn_ring",
+      "source_id": "src.banished_cells_1.normal",
+      "name": {
+        "en": "Ruinblood Coil",
+        "ru": "Кольцо Осквернителей Крови"
+      },
+      "notes": {
+        "en": "Trash mobs in The Banished Cells 1 and 2",
+        "ru": "Групповые подземелья «Темницы Изгнанников 1 и 2», любые мобы"
+      }
+    },
+    {
+      "id": "lead.silverthread_stitching",
+      "mythic_id": "myth.syrabane_ward",
+      "source_id": "src.banished_cells_2.normal",
+      "name": {
+        "en": "Silverthread Stitching",
+        "ru": "Шитье серебряной нитью"
+      },
+      "notes": {
+        "en": "Banished Cells 2 Endboss, Auridion zone",
+        "ru": "Групповое подземелье «Темница Изгнанников 2», последний босс"
+      }
+    }
+  ]
+}

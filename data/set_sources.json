@@ -1,0 +1,82 @@
+[
+  {
+    "set_id": "set.veiled_heritance",
+    "source_id": "src.auridon"
+  },
+  {
+    "set_id": "set.queens_elegance",
+    "source_id": "src.auridon"
+  },
+  {
+    "set_id": "set.twin_sisters",
+    "source_id": "src.auridon"
+  },
+  {
+    "set_id": "set.ashen_grip",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.deaths_wind",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.night_silence",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.jailbreaker",
+    "source_id": "src.banished_cells_1.normal"
+  },
+  {
+    "set_id": "set.jailbreaker",
+    "source_id": "src.banished_cells_1.vet"
+  },
+  {
+    "set_id": "set.jailbreaker",
+    "source_id": "src.banished_cells_2.normal"
+  },
+  {
+    "set_id": "set.jailbreaker",
+    "source_id": "src.banished_cells_2.vet"
+  },
+  {
+    "set_id": "set.sanctuary",
+    "source_id": "src.banished_cells_1.normal"
+  },
+  {
+    "set_id": "set.sanctuary",
+    "source_id": "src.banished_cells_1.vet"
+  },
+  {
+    "set_id": "set.sanctuary",
+    "source_id": "src.banished_cells_2.normal"
+  },
+  {
+    "set_id": "set.sanctuary",
+    "source_id": "src.banished_cells_2.vet"
+  },
+  {
+    "set_id": "set.tormentor",
+    "source_id": "src.banished_cells_1.normal"
+  },
+  {
+    "set_id": "set.tormentor",
+    "source_id": "src.banished_cells_1.vet"
+  },
+  {
+    "set_id": "set.tormentor",
+    "source_id": "src.banished_cells_2.normal"
+  },
+  {
+    "set_id": "set.tormentor",
+    "source_id": "src.banished_cells_2.vet"
+  },
+  {
+    "set_id": "set.shadowrend",
+    "source_id": "src.banished_cells_1.vet"
+  },
+  {
+    "set_id": "set.maw_infernal",
+    "source_id": "src.banished_cells_2.vet"
+  }
+]

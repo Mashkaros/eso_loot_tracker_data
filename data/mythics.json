@@ -1,0 +1,62 @@
+[
+  {
+    "id": "myth.pearls_ehlnofey",
+    "slot": "necklace",
+    "name": {
+      "en": "Pearls of Ehlnofey",
+      "ru": "Жемчужины эльнофей"
+    },
+    "bonuses": {
+      "en": "(1 item) When you attempt to use resources to cast a healing ability while in combat and your dominant resource is under 50%, gain Major Heroism for 1.5 seconds, granting you 3 Ultimate every 1.5 seconds.",
+      "ru": "Расходуя ресурсы на применение исцеляющей способности в бою когда у вас остается менее 50% основного ресурса вы на 1,5 сек. получаете эффект Великий героизм который восстанавливает вам 3 очк. суперспособности раз в 1,5 сек."
+    }
+  },
+  {
+    "id": "myth.thrassian_stranglers",
+    "slot": "hands",
+    "name": {
+      "en": "Thrassian Stranglers",
+      "ru": "Трассианские душители"
+    },
+    "bonuses": {
+      "en": "(1 item) Killing an enemy grants you a stack of Sload's Call for 1 hour, up to a maximum of 50 stacks. Each stack increases your Weapon and Spell Damage by 23, reduces your Maximum Health by 120, and reduces effectiveness of your damage shields by 1%. Sload's Call is lost if you remove Thrassian Stranglers, go invisible, or crouch.",
+      "ru": "(1 предмет) Убивая противника вы на 1 ч. получаете один заряд эффекта Зов слоада (всего можно накопить до 50 зарядов). Каждый заряд увеличивает вашу силу оружия и заклинаний на 23 но при этом снижает ваш максимальный запас здоровья на 120 и снижает эффективность поглощающих урон щитов на 1%. Если вы снимаете Трассианские душители или входите в режим скрытности или невидимости эффект Зов слоада исчезает."
+    }
+  },
+  {
+    "id": "myth.saint_seducer",
+    "slot": "necklace",
+    "name": {
+      "en": "The Saint and the Seducer",
+      "ru": "Святой и соблазнитель"
+    },
+    "bonuses": {
+      "en": "While in combat, you gain one of five random Major buffs which changes every 10 seconds. Enemies within 12 meters of you gain one of five random Minor debuffs depending on which buff you have. The available effects are: Major Berserk and Minor MaimMajor Resolve and Minor BreachMajor Force and Minor BrittleMajor Evasion and Minor VulnerabilityMajor Courage and Minor Cowardice",
+      "ru": "Будучи в бою вы получаете один из пяти перечисленных положительных эффектов который меняется раз в 10 сек. Противники в радиусе 12 метров от вас получают один из пяти отрицательных эффектов в зависимости от действующего на вас положительного эффекта. Доступные эффекты: Великая ярость и Малое повреждение Великая решимость и Малый прорыв Великая сила и Малая хрупкость Великое уклонение и Малая уязвимость Великая храбрость и Малая трусость"
+    }
+  },
+  {
+    "id": "myth.markyn_ring",
+    "slot": "ring",
+    "name": {
+      "en": "Markyn Ring of Majesty",
+      "ru": "Кольцо величия Маркина"
+    },
+    "bonuses": {
+      "en": "(1 item) Gain 100 Weapon and Spell Damage and 1157 Armor for every set you are wearing 3 or more pieces of.",
+      "ru": "(1) Ваша сила оружия и заклинаний увеличивается на 100, а показатель брони — на 1157 за каждый набор, из которого вы используете 3 или более предмета."
+    }
+  },
+  {
+    "id": "myth.syrabane_ward",
+    "slot": "waist",
+    "name": {
+      "en": "Syrabane's Ward",
+      "ru": "Оберег Сирабейна"
+    },
+    "bonuses": {
+      "en": "(1 item) While actively Bracing, you create a 12 meter zone of protection but you can no longer move. Group members within the zone increase the amount of damage they can block by 30% and their Health Recovery by 950. The Health Recovery cannot affect yourself.",
+      "ru": "(1) Находясь в защитной стойке, вы не можете двигаться, но создаете вокруг себя защитную область радиусом 12 м. Количество урона, которое могут заблокировать находящиеся в области члены группы, увеличивается на 30%, а их восстановление здоровья — на 950. На вас эффект увеличения восстановления здоровья не распространяется."
+    }
+  }
+]
