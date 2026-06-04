@@ -8,6 +8,30 @@
     }
   },
   {
+    "id": "src.undaunted_maj",
+    "type": "vendor",
+    "name": {
+      "en": "Maj al-Ragath's Chest (Undaunted)",
+      "ru": "Сундук Мадж аль-Рагат (Неустрашимые)"
+    }
+  },
+  {
+    "id": "src.undaunted_urgarlag",
+    "type": "vendor",
+    "name": {
+      "en": "Urgarlag Chief-bane's Chest (Undaunted)",
+      "ru": "Сундук Ургаларг Военачальницы (Неустрашимые)"
+    }
+  },
+  {
+    "id": "src.undaunted_glirion",
+    "type": "vendor",
+    "name": {
+      "en": "Glirion the Redbeard's Chest (Undaunted)",
+      "ru": "Сундук Глириона Бородача (Неустрашимые)"
+    }
+  },
+  {
     "id": "src.auridon",
     "type": "overland",
     "name": {
@@ -45,6 +69,62 @@
     "name": {
       "en": "The Banished Cells II Vet",
       "ru": "Темница Изгнанников II Ветеранское"
+    }
+  },
+  {
+    "id": "src.deshaan",
+    "type": "overland",
+    "name": {
+      "en": "Deshaan",
+      "ru": "Дешаан"
+    }
+  },
+  {
+    "id": "src.darkshade_caverns_1.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Darkshade Caverns I Normal",
+      "ru": "Пещеры Глубокой Тени I Обычное"
+    }
+  },
+  {
+    "id": "src.darkshade_caverns_1.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Darkshade Caverns I Vet",
+      "ru": "Пещеры Глубокой Тени I Ветеранское"
+    }
+  },
+  {
+    "id": "src.darkshade_caverns_2.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Darkshade Caverns II Normal",
+      "ru": "Пещеры Глубокой Тени II Обычное"
+    }
+  },
+  {
+    "id": "src.darkshade_caverns_2.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Darkshade Caverns II Vet",
+      "ru": "Пещеры Глубокой Тени II Ветеранское"
+    }
+  },
+  {
+    "id": "src.the_cauldron.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "The Cauldron Normal",
+      "ru": "Котел Обычное"
+    }
+  },
+  {
+    "id": "src.the_cauldron.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "The Cauldron Vet",
+      "ru": "Котел Ветеранское"
     }
   }
 ]

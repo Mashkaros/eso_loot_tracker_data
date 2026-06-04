@@ -78,5 +78,133 @@
   {
     "set_id": "set.maw_infernal",
     "source_id": "src.banished_cells_2.vet"
+  },
+  {
+    "set_id": "set.shadowrend",
+    "source_id": "src.undaunted_maj"
+  },
+  {
+    "set_id": "set.maw_infernal",
+    "source_id": "src.undaunted_maj"
+  },
+  {
+    "set_id": "set.armor_seducer",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.mothers_sorrow",
+    "source_id": "src.deshaan"
+  },
+  {
+    "set_id": "set.night_mothers_embrace",
+    "source_id": "src.deshaan"
+  },
+  {
+    "set_id": "set.plague_doctor",
+    "source_id": "src.deshaan"
+  },
+  {
+    "set_id": "set.torugs_pact",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.twilights_embrace",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.armor_of_truth",
+    "source_id": "src.darkshade_caverns_1.normal"
+  },
+  {
+    "set_id": "set.armor_of_truth",
+    "source_id": "src.darkshade_caverns_1.vet"
+  },
+  {
+    "set_id": "set.armor_of_truth",
+    "source_id": "src.darkshade_caverns_2.normal"
+  },
+  {
+    "set_id": "set.armor_of_truth",
+    "source_id": "src.darkshade_caverns_2.vet"
+  },
+  {
+    "set_id": "set.netchs_touch",
+    "source_id": "src.darkshade_caverns_1.normal"
+  },
+  {
+    "set_id": "set.netchs_touch",
+    "source_id": "src.darkshade_caverns_1.vet"
+  },
+  {
+    "set_id": "set.netchs_touch",
+    "source_id": "src.darkshade_caverns_2.normal"
+  },
+  {
+    "set_id": "set.netchs_touch",
+    "source_id": "src.darkshade_caverns_2.vet"
+  },
+  {
+    "set_id": "set.strength_of_the_automaton",
+    "source_id": "src.darkshade_caverns_1.normal"
+  },
+  {
+    "set_id": "set.strength_of_the_automaton",
+    "source_id": "src.darkshade_caverns_1.vet"
+  },
+  {
+    "set_id": "set.strength_of_the_automaton",
+    "source_id": "src.darkshade_caverns_2.normal"
+  },
+  {
+    "set_id": "set.strength_of_the_automaton",
+    "source_id": "src.darkshade_caverns_2.vet"
+  },
+  {
+    "set_id": "set.sentinel_of_rkugamz",
+    "source_id": "src.darkshade_caverns_1.vet"
+  },
+  {
+    "set_id": "set.sentinel_of_rkugamz",
+    "source_id": "src.undaunted_maj"
+  },
+  {
+    "set_id": "set.engine_guardian",
+    "source_id": "src.darkshade_caverns_2.vet"
+  },
+  {
+    "set_id": "set.engine_guardian",
+    "source_id": "src.undaunted_maj"
+  },
+  {
+    "set_id": "set.baron_zaudrus",
+    "source_id": "src.the_cauldron.vet"
+  },
+  {
+    "set_id": "set.baron_zaudrus",
+    "source_id": "src.undaunted_urgarlag"
+  },
+  {
+    "set_id": "set.dagons_dominion",
+    "source_id": "src.the_cauldron.normal"
+  },
+  {
+    "set_id": "set.dagons_dominion",
+    "source_id": "src.the_cauldron.vet"
+  },
+  {
+    "set_id": "set.foolkillers_ward",
+    "source_id": "src.the_cauldron.normal"
+  },
+  {
+    "set_id": "set.foolkillers_ward",
+    "source_id": "src.the_cauldron.vet"
+  },
+  {
+    "set_id": "set.unleashed_ritualist",
+    "source_id": "src.the_cauldron.normal"
+  },
+  {
+    "set_id": "set.unleashed_ritualist",
+    "source_id": "src.the_cauldron.vet"
   }
 ]

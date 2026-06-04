@@ -76,5 +76,44 @@
       "en": "Banished Cells 2 Endboss, Auridion zone",
       "ru": "Групповое подземелье «Темница Изгнанников 2», последний босс"
     }
+  },
+  {
+    "id": "lead.meteoric_beads",
+    "mythic_id": "myth.sea_serpents_coil",
+    "source_id": "src.deshaan",
+    "name": {
+      "en": "Meteoric Beads",
+      "ru": "Метеоритные бусины"
+    },
+    "notes": {
+      "en": "Mages Guild daily quest reward coffer, you can get Mages Guild dailies at any Mages Guild location",
+      "ru": "Ежедневные задания Гильдии магов в любой столице"
+    }
+  },
+  {
+    "id": "lead.nisswo_sacramental_wraps",
+    "mythic_id": "myth.gaze_of_sithis",
+    "source_id": "src.deshaan",
+    "name": {
+      "en": "Niss'wo Sacramental Wraps",
+      "ru": "Священные повязки ниссво"
+    },
+    "notes": {
+      "en": "Public Dungeon Forgotten Crypts, All Bosses",
+      "ru": "Открытое подземелье «Забытые крипты», любые боссы"
+    }
+  },
+  {
+    "id": "lead.torc_strand_of_power",
+    "mythic_id": "myth.torc_of_tonal_constancy",
+    "source_id": "src.deshaan",
+    "name": {
+      "en": "Torc Strand of Power",
+      "ru": "Шейная нить Силы"
+    },
+    "notes": {
+      "en": "World Bosses",
+      "ru": "Мировые боссы"
+    }
   }
 ]

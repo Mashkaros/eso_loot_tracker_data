@@ -58,5 +58,41 @@
       "en": "(1 item) While actively Bracing, you create a 12 meter zone of protection but you can no longer move. Group members within the zone increase the amount of damage they can block by 30% and their Health Recovery by 950. The Health Recovery cannot affect yourself.",
       "ru": "(1) Находясь в защитной стойке, вы не можете двигаться, но создаете вокруг себя защитную область радиусом 12 м. Количество урона, которое могут заблокировать находящиеся в области члены группы, увеличивается на 30%, а их восстановление здоровья — на 950. На вас эффект увеличения восстановления здоровья не распространяется."
     }
+  },
+  {
+    "id": "myth.sea_serpents_coil",
+    "slot": "necklace",
+    "name": {
+      "en": "Sea-Serpent's Coil",
+      "ru": "Колье морского змея"
+    },
+    "bonuses": {
+      "en": "(1 item) While at full Health, you gain 40% damage reduction. After taking damage while at full Health in combat, you gain Serpent's Rebuke for 10 seconds, snaring yourself by 40% and gaining Major Berserk and Major Courage, increasing your damage done by 10% and Weapon and Spell Damage by 430. The damage resistance does not apply while Serpent's Rebuke is active.",
+      "ru": "(1)При полном запасе здоровья получаемый вами урон уменьшается на 40%. После получения урона в бою при полном запасе здоровья вы на 10 сек. получаете эффект «Змеиный отпор», который замедляет вас на 40% и накладывает эффекты «Великая ярость» и «Великая храбрость», увеличивающие наносимый вами урон на 10%, а вашу силу оружия и заклинаний — на 430. Во время действия эффекта «Змеиный отпор» сопротивление урону не увеличивается."
+    }
+  },
+  {
+    "id": "myth.gaze_of_sithis",
+    "slot": "head",
+    "name": {
+      "en": "Gaze of Sithis",
+      "ru": "Взгляд Ситиса"
+    },
+    "bonuses": {
+      "en": "(1 item) Adds 3276 Maximum Health, Adds 1025 Health Recovery, Adds 4000 Armor, Reduces your Block Mitigation to 0.",
+      "ru": "(1) Макс. здоровье +3276(1) Восст. здоровья +1025(1) Броня +4000(1) Эффективность блокирования уменьшается до 0."
+    }
+  },
+  {
+    "id": "myth.torc_of_tonal_constancy",
+    "slot": "necklace",
+    "name": {
+      "en": "Torc of Tonal Constancy",
+      "ru": "Ожерелье тонального постоянства"
+    },
+    "bonuses": {
+      "en": "(1 item) While your Stamina is less than 50%, increase your Magicka Recovery by 450. While your Magicka is less than 50%, increase your Stamina Recovery by 450.",
+      "ru": "(1)Когда у вас остается меньше 50% запаса сил, восстановление магии увеличивается на 450. Когда у вас остается меньше 50% магии, восстановление запаса сил увеличивается на 450."
+    }
   }
 ]
