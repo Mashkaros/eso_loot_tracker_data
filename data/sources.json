@@ -126,5 +126,61 @@
       "en": "The Cauldron Vet",
       "ru": "Котел Ветеранское"
     }
+  },
+  {
+    "id": "src.shadowfen",
+    "type": "overland",
+    "name": {
+      "en": "Shadowfen",
+      "ru": "Тенетопь"
+    }
+  },
+  {
+    "id": "src.arx_corinium.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Arx Corinium Normal",
+      "ru": "Аркс Кориниум Обычное"
+    }
+  },
+  {
+    "id": "src.arx_corinium.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Arx Corinium Vet",
+      "ru": "Аркс Кориниум Ветеранское"
+    }
+  },
+  {
+    "id": "src.cradle_of_shadows.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Cradle of Shadows Normal",
+      "ru": "Колыбель Теней Обычное"
+    }
+  },
+  {
+    "id": "src.cradle_of_shadows.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Cradle of Shadows Vet",
+      "ru": "Колыбель Теней Ветеранское"
+    }
+  },
+  {
+    "id": "src.ruins_of_mazzatun.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Ruins of Mazzatun Normal",
+      "ru": "Руины Маззатуна Обычное"
+    }
+  },
+  {
+    "id": "src.ruins_of_mazzatun.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Ruins of Mazzatun Vet",
+      "ru": "Руины Маззатуна Ветеранское"
+    }
   }
 ]

@@ -94,5 +94,29 @@
       "en": "(1 item) While your Stamina is less than 50%, increase your Magicka Recovery by 450. While your Magicka is less than 50%, increase your Stamina Recovery by 450.",
       "ru": "(1)Когда у вас остается меньше 50% запаса сил, восстановление магии увеличивается на 450. Когда у вас остается меньше 50% магии, восстановление запаса сил увеличивается на 450."
     }
+  },
+  {
+    "id": "myth.bloodlords_embrace",
+    "slot": "chest",
+    "name": {
+      "en": "Bloodlord's Embrace",
+      "ru": "Объятия кровавого лорда"
+    },
+    "bonuses": {
+      "en": "(1 item) Dealing damage with a Bash attack places a persistent, un-cleansable Blood Curse on an enemy. You can only have one Blood Cursed enemy at a time and dealing additional Bash damage moves the Blood Curse. When you Block a Blood Cursed enemy, restore 1605 Magicka to you. This effect can occur every 1 second.",
+      "ru": "(1)При нанесении урона прерывающим ударом вы накладываете на противника сохраняющийся эффект «Кровавое проклятие», который нельзя снять. Одновременно может действовать только один такой эффект; повторные прерывающие удары перемещают его. При блокировании атаки противника, на которого наложено «Кровавое проклятие», вы восстанавливаете 1605 ед. магии. Этот эффект может срабатывать не чаще чем раз в 1 сек."
+    }
+  },
+  {
+    "id": "myth.harpooners_wading_kilt",
+    "slot": "legs",
+    "name": {
+      "en": "Harpooner's Wading Kilt",
+      "ru": "Болотный килт гарпунера"
+    },
+    "bonuses": {
+      "en": "(1 item) Dealing direct damage grants you a stack of Hunter's Focus for 20 seconds, up to 10 stacks max. You can only gain 1 stack of Hunter's Focus per second. Each stack of Hunter's Focus increases your Critical Chance by 110 and your Critical Damage by 1%. Taking direct damage removes 5 stacks of Hunter's Focus, up to once per second. Removing Harpooner's Wading Kilt removes all stacks of Hunter's Focus.",
+      "ru": "(1)При нанесении прямого урона вы на 20 сек. получаете заряд эффекта «Сосредоточенность охотника» (всего можно накопить не более 10 зарядов). Получать заряды можно не чаще чем раз в секунду. Каждый заряд эффекта увеличивает ваш показатель критического удара на 110, а критический урон — на 1%. При получении прямого урона вы теряете 5 зарядов эффекта (не более одного заряда в секунду). При снятии болотного килта гарпунера вы теряете все заряды."
+    }
   }
 ]

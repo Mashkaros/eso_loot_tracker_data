@@ -115,5 +115,70 @@
       "en": "World Bosses",
       "ru": "Мировые боссы"
     }
+  },
+  {
+    "id": "lead.fanged_cuirass",
+    "mythic_id": "myth.bloodlords_embrace",
+    "source_id": "src.shadowfen",
+    "name": {
+      "en": "Fanged Cuirass",
+      "ru": "Клыкастая кираса"
+    },
+    "notes": {
+      "en": "Public Dungeon Boss (Sanguine’s Demense)",
+      "ru": "Открытое подземелье «Владение Сангвина», любые боссы"
+    }
+  },
+  {
+    "id": "lead.padSa_shark_teeth",
+    "mythic_id": "myth.gaze_of_sithis",
+    "source_id": "src.shadowfen",
+    "name": {
+      "en": "Pad-Sa Shark Teeth",
+      "ru": "Зубы акулы пад-са"
+    },
+    "notes": {
+      "en": "Onkobra Kwama Mine Delve",
+      "ru": "Логово «Шахта квама Онкобра», босс"
+    }
+  },
+  {
+    "id": "lead.tide_glass_beads",
+    "mythic_id": "myth.harpooners_wading_kilt",
+    "source_id": "src.shadowfen",
+    "name": {
+      "en": "Tide-Glass Beads",
+      "ru": "Бусы из приливного стекла"
+    },
+    "notes": {
+      "en": "All water and alchemy nodes",
+      "ru": "Сбор алхимических материалов: реагентов и растворителей"
+    }
+  },
+  {
+    "id": "lead.ritual_circlet",
+    "mythic_id": "myth.gaze_of_sithis",
+    "source_id": "src.cradle_of_shadows.normal",
+    "name": {
+      "en": "Ritual Circlet",
+      "ru": "Ритуальная диадема"
+    },
+    "notes": {
+      "en": "Cradle of Shadows last boss",
+      "ru": "Групповое подземелье «Колыбель Теней», последний босс"
+    }
+  },
+  {
+    "id": "lead.bogBlue_jasper_fetish",
+    "mythic_id": "myth.harpooners_wading_kilt",
+    "source_id": "src.ruins_of_mazzatun.normal",
+    "name": {
+      "en": "Bog-Blue Jasper Fetish",
+      "ru": "Амулет из болотной синей яшмы"
+    },
+    "notes": {
+      "en": "Ruins of Mazzatun Dungeon last boss",
+      "ru": "Групповое подземелье «Руины Маззатуна», последний босс"
+    }
   }
 ]

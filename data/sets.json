@@ -362,5 +362,257 @@
       "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) Increases your damage done with summoned pets by 20%.",
       "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) Призванные вами питомцы наносят на 20% больше урона."
     }
+  },
+  {
+    "id": "set.hatchlings_shell",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Hatchling's Shell",
+      "ru": "Скорлупа детеныша"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1487 Armor(3 items) Adds 1487 Armor(4 items) Adds 1206 Maximum Health(5 items) Whenever you take damage you gain a damage shield that absorbs up to 3200 damage for 6 seconds. This effect can occur once every 6 seconds and scales off your Max Health.",
+      "ru": "(2 предмета) Броня +1487(3 предмета) Броня +1487(4 предмета) Макс. здоровье +1206(5 предметов) При получении урона вы накладываете на себя щит поглощающий до 3200 ед. урона в течение 6 сек. Этот эффект может срабатывать не чаще чем раз в 6 сек. а его сила зависит от вашего максимального запаса здоровья."
+    }
+  },
+  {
+    "id": "set.hist_bark",
+    "type": "usual",
+    "farm_way": "craft",
+    "weight": "mixed",
+    "name": {
+      "en": "Hist Bark",
+      "ru": "Кора хиста"
+    },
+    "bonuses": {
+      "en": "2 items) Adds 1487 Armor(3 items) Adds 1096 Maximum Stamina(4 items) Adds 1206 Maximum Health(5 items) While you are Bracing, you gain Major Evasion, reducing damage from area attacks by 20%",
+      "ru": "(2 предмета) Броня +1487(3 предмета) Макс. запас сил +1096(4 предмета) Макс. здоровье +1206(5 предметов) Находясь в защитной стойке вы получаете эффект Великое уклонение который уменьшает урон от атак по площади на 20%."
+    }
+  },
+  {
+    "id": "set.magnus_gift",
+    "type": "usual",
+    "farm_way": "craft",
+    "weight": "mixed",
+    "name": {
+      "en": "Magnus' Gift",
+      "ru": "Дар Магнуса"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 129 Magicka Recovery(4 items) Adds 129 Weapon and Spell Damage(5 items) When you cast a Magicka ability, you have a 15% chance to negate that ability's cost.",
+      "ru": "(2 предмета) Макс. магия +1096(3 предмета) Восст. магии +129(4 предмета) Сила оружия и заклинаний +129(5 предметов) При использовании способности расходующей магию вы получаете 15%-й шанс использовать эту способность бесплатно."
+    }
+  },
+  {
+    "id": "set.robes_of_the_hist",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Robes of the Hist",
+      "ru": "Облачение хиста"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 1096 Maximum Magicka(5 items) After being hit by a disabling effect, immobilization, or snare, you heal for 2000 Health every 1 second for 5 seconds. The effect can apply once every second, but cannot stack.",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Сила оружия и заклинаний +129(4 предмета) Макс. магия +1096(5 предметов) Попав под действие эффекта контроля обездвиживания или замедления вы исцеляетесь на 2000 ед. здоровья раз в 1 сек. в течение 5 сек. Этот эффект срабатывает не чаще чем раз в секунду и не может накапливаться."
+    }
+  },
+  {
+    "id": "set.swamp_raider",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Swamp Raider",
+      "ru": "Болотный налетчик"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 1096 Maximum Stamina(4 items) Adds 129 Weapon and Spell Damage(5 items) Adds 600 Weapon and Spell Damage to your Poison and Disease Damage abilities.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Макс. запас сил +1096(4 предмета) Сила оружия и заклинаний +129(5 предметов) Сила оружия и заклинаний для ваших способностей с ядовитым и болезнетворным уроном увеличивается на 600."
+    }
+  },
+  {
+    "id": "set.whitestrakes_retribution",
+    "type": "usual",
+    "farm_way": "craft",
+    "weight": "mixed",
+    "name": {
+      "en": "Whitestrake's Retribution",
+      "ru": "Возмездие Вайтстрейка"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 1487 Armor(4 items) Adds 129 Health Recovery(5 items) When you take damage while you are under 30% Health, you gain a damage shield that absorbs 13035 damage for 6 seconds. This effect can occur once every 15 seconds.",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Броня +1487(4 предмета) Восст. здоровья +129(5 предметов) Если вы получаете урон когда уровень вашего здоровья ниже 30% вы получаете щит поглощающий 13035 ед. урона в течение 6 сек. Этот эффект может срабатывать не чаще чем раз в 15 сек."
+    }
+  },
+  {
+    "id": "set.lamias_song",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Lamia's Song",
+      "ru": "Песнь ламии"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 129 Magicka Recovery(4 items) Adds 1096 Maximum Magicka(5 items) When you use an Ultimate ability, you and your group members within 20 meters of you heal for 25 Health and restore 25 Magicka and Stamina per Ultimate spent.",
+      "ru": "(2 предмета) Макс. магия +1096(3 предмета) Восст. магии +129(4 предмета) Макс. магия +1096(5 предметов) При использовании суперспособности вы исцеляете себя и всех членов группы в пределах 20 метров от вас на 25 ед. здоровья а также восстанавливаете себе и им 25 ед. магии и запаса сил за каждое потраченное очко суперспособности."
+    }
+  },
+  {
+    "id": "set.medusa",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Medusa",
+      "ru": "Медуза"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 657 Critical Chance(4 items) Adds 657 Critical Chance(5 items) Adds 892 Critical Chance, Gain Minor Force at all times, increasing your Critical Damage by 10%.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Шанс крит. удара +657(4 предмета) Шанс крит. удара +657(5 предметов) Шанс крит. удара +892, Вы получаете постоянный эффект Малая сила увеличивающий критический урон на 10%."
+    }
+  },
+  {
+    "id": "set.sellistrix",
+    "type": "monster",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Sellistrix",
+      "ru": "Селлистрикс"
+    },
+    "bonuses": {
+      "en": "(1 item) Adds 1096 Maximum Stamina(2 items) When you deal damage you create an earthquake under the enemy that erupts after 1.5 seconds, dealing 975 Physical damage to all enemies within 4 meters and stunning them for 3 seconds. This effect can occur once every 6 seconds and the damage scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(1 предмет) Макс. запас сил +1096(2 предмета) При нанесении урона вы вызываете землетрясение под ногами противника которое спустя 1,5 сек. извергается нанося 975 ед. физического урона всем противникам в радиусе 4 метров и оглушая их на 3 сек. Этот эффект может срабатывать не чаще чем раз в 6 сек. а количество наносимого урона зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.undaunted_infiltrator",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Undaunted Infiltrator",
+      "ru": "Лазутчик Неустрашимых"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 1096 Maximum Stamina(4 items) Adds 657 Critical Chance(5 items) When you use an ability that costs Magicka while in combat, you increase the damage of your Light and Heavy Attacks against monsters by 1645 for 10 seconds.",
+      "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Макс. запас сил +1096(4 предмета) Шанс крит. удара +657(5 предметов) После использования в бою способности расходующей магию ваши обычные и силовые атаки наносят 1645 ед. дополнительного урона монстрам в течение 10 сек."
+    }
+  },
+  {
+    "id": "set.gossamer",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Gossamer",
+      "ru": "Паутинный"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Magicka Recovery(3 items) Adds 1096 Maximum Magicka(4 items) Adds 1096 Maximum Magicka(5 items) When you heal yourself or an ally, you grant them Major Evasion for 4 seconds, reducing damage from area attacks by 20%",
+      "ru": "(2 предмета) Восст. магии +129(3 предмета) Макс. магия +1096(4 предмета) Макс. магия +1096(5 предметов) При исцелении себя или союзника вы накладываете на цель эффект Великое уклонение на 4 сек. который уменьшает урон от атак по площади на 20%."
+    }
+  },
+  {
+    "id": "set.hand_of_mephala",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Hand of Mephala",
+      "ru": "Рука Мефалы"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 4% Healing Taken(3 items) Adds 1206 Maximum Health(4 items) Adds 1487 Armor(5 items) When you take damage, you encase the ground beneath you in webs for 5 seconds, reducing the Movement Speed of enemies within a 4 meter radius by 33% and applying Minor Breach to them, reducing their Physical and Spell Resistance by 2974. After 5 seconds the webs burst into venom, dealing 0 Poison Damage. This effect can occur once every 5 seconds and scales off the higher of your Physical or Spell Resistance.",
+      "ru": "(2 предмета) Получаемое лечение +4%(3 предмета) Макс. здоровье +1206(4 предмета) Броня +1487(5 предметов) Получая урон вы опутываете землю у себя под ногами паутиной на 5 сек. снижая скорость передвижения противников в радиусе 4 м на 33% и накладывая на них эффект Малый прорыв снижая их физическую и магическую сопротивляемость на 2974. Через 5 сек. паутина превращается в яд нанося 0 ед. ядовитого урона. Этот эффект может срабатывать не чаще чем раз в 5 сек. а его сила зависит от значения вашей физической или магической сопротивляемости (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.widowmaker",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Widowmaker",
+      "ru": "Вдоводел"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 657 Critical Chance(4 items) Adds 1096 Maximum Stamina(5 items) When your alchemical poison fires, you drop a poisonous spore in front of you that bursts after 1 second, dealing 2856 Poison Damage over 10 seconds to all enemies within 5 meters. This effect scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Шанс крит. удара +657(4 предмета) Макс. запас сил +1096(5 предметов) Когда срабатывает ваш алхимический яд вы выпускаете перед собой ядовитую спору которая взрывается через 1 сек. нанося 2856 ед. ядовитого урона всем противникам в пределах 5 м в течение 10 сек. Сила этого эффекта зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.velidreth",
+    "type": "monster",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Velidreth",
+      "ru": "Велидрет"
+    },
+    "bonuses": {
+      "en": "(1 item) Adds 129 Weapon and Spell Damage(2 items) When you deal damage, you have a 20% chance to spawn 3 disease spores in front of you after 1 second that deal 1557 Disease damage to any enemy they hit. This effect can occur once every 8 seconds and scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(1 предмет) Сила оружия и заклинаний +129(2 предмета) При нанесении урона вы с вероятностью 20% через 1 сек. вызываете перед собой 3 споры болезни которые наносят любому пораженному противнику 1557 ед. болезнетворного урона. Этот эффект может срабатывать не чаще чем раз в 8 сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.amber_plasm",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Amber Plasm",
+      "ru": "Янтарная плазма"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) Adds 245 Magicka Recovery, Adds 245 Stamina Recovery, Adds 245 Health Recovery",
+      "ru": "(2 предмета) Макс. магия +1096(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) Восст. магии +245, Восст. запаса сил +245, Восст. здоровья +245"
+    }
+  },
+  {
+    "id": "set.aspect_of_mazzatun",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Aspect of Mazzatun",
+      "ru": "Воплощение Маззатуна"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 1096 Maximum Stamina(4 items) Adds 1096 Maximum Magicka(5 items) When you take damage while under 30% Health, you heal for 10481 Health and restore 10481 Magicka and Stamina. This effect can occur once every 45 seconds.",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Макс. запас сил +1096(4 предмета) Макс. магия +1096(5 предметов) Если вы получаете урон когда уровень вашего здоровья ниже 30% вы исцеляетесь на 10481 ед. здоровья и восстанавливаете 10481 ед. магии и запаса сил. Этот эффект может срабатывать не чаще чем раз в 45 сек."
+    }
+  },
+  {
+    "id": "set.heemJas_retribution",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Heem-Jas' Retribution",
+      "ru": "Возмездие Хим-Джаса"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Stamina Recovery(3 items) Adds 1096 Maximum Stamina(4 items) Adds 657 Critical Chance(5 items) Adds 129 Weapon and Spell Damage, When you are within 28 meters of an enemy you are in combat with, and the enemy dies, you gain Major Berserk for 10 seconds, increasing your damage done by 10%.",
+      "ru": "(2 предмета) Восст. запаса сил +129(3 предмета) Макс. запас сил +1096(4 предмета) Шанс крит. удара +657(5 предметов) Сила оружия и заклинаний +129, Когда в пределах 28 метров от вас умирает противник с которым вы ведете бой вы получаете эффект Великая ярость на 10 сек. увеличивающий наносимый вами урон на 10%."
+    }
+  },
+  {
+    "id": "set.mighty_chudan",
+    "type": "monster",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Mighty Chudan",
+      "ru": "Могучая Чудан"
+    },
+    "bonuses": {
+      "en": "(1 item) Adds 1487 Armor(2 items) Adds 1206 Maximum Health, Gain Major Resolve at all times, increasing your Physical and Spell Resistance by 5948.",
+      "ru": "(1 предмет) Броня +1487(2 предмета) Макс. здоровье +1206, Вы получаете постоянный эффект Великая решимость увеличивающий вашу физическую и магическую сопротивляемость на 5948."
+    }
   }
 ]

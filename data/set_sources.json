@@ -206,5 +206,125 @@
   {
     "set_id": "set.unleashed_ritualist",
     "source_id": "src.the_cauldron.vet"
+  },
+  {
+    "set_id": "set.hatchlings_shell",
+    "source_id": "src.shadowfen"
+  },
+  {
+    "set_id": "set.hist_bark",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.magnus_gift",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.robes_of_the_hist",
+    "source_id": "src.shadowfen"
+  },
+  {
+    "set_id": "set.swamp_raider",
+    "source_id": "src.shadowfen"
+  },
+  {
+    "set_id": "set.whitestrakes_retribution",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.lamias_song",
+    "source_id": "src.arx_corinium.normal"
+  },
+  {
+    "set_id": "set.lamias_song",
+    "source_id": "src.arx_corinium.vet"
+  },
+  {
+    "set_id": "set.medusa",
+    "source_id": "src.arx_corinium.normal"
+  },
+  {
+    "set_id": "set.medusa",
+    "source_id": "src.arx_corinium.vet"
+  },
+  {
+    "set_id": "set.sellistrix",
+    "source_id": "src.arx_corinium.vet"
+  },
+  {
+    "set_id": "set.sellistrix",
+    "source_id": "src.undaunted_glirion"
+  },
+  {
+    "set_id": "set.undaunted_infiltrator",
+    "source_id": "src.arx_corinium.normal"
+  },
+  {
+    "set_id": "set.undaunted_infiltrator",
+    "source_id": "src.arx_corinium.vet"
+  },
+  {
+    "set_id": "set.gossamer",
+    "source_id": "src.cradle_of_shadows.normal"
+  },
+  {
+    "set_id": "set.gossamer",
+    "source_id": "src.cradle_of_shadows.vet"
+  },
+  {
+    "set_id": "set.hand_of_mephala",
+    "source_id": "src.cradle_of_shadows.normal"
+  },
+  {
+    "set_id": "set.hand_of_mephala",
+    "source_id": "src.cradle_of_shadows.vet"
+  },
+  {
+    "set_id": "set.widowmaker",
+    "source_id": "src.cradle_of_shadows.normal"
+  },
+  {
+    "set_id": "set.widowmaker",
+    "source_id": "src.cradle_of_shadows.vet"
+  },
+  {
+    "set_id": "set.velidreth",
+    "source_id": "src.cradle_of_shadows.vet"
+  },
+  {
+    "set_id": "set.velidreth",
+    "source_id": "src.undaunted_urgarlag"
+  },
+  {
+    "set_id": "set.amber_plasm",
+    "source_id": "src.ruins_of_mazzatun.normal"
+  },
+  {
+    "set_id": "set.amber_plasm",
+    "source_id": "src.ruins_of_mazzatun.vet"
+  },
+  {
+    "set_id": "set.aspect_of_mazzatun",
+    "source_id": "src.ruins_of_mazzatun.normal"
+  },
+  {
+    "set_id": "set.aspect_of_mazzatun",
+    "source_id": "src.ruins_of_mazzatun.vet"
+  },
+  {
+    "set_id": "set.heemJas_retribution",
+    "source_id": "src.ruins_of_mazzatun.normal"
+  },
+  {
+    "set_id": "set.heemJas_retribution",
+    "source_id": "src.ruins_of_mazzatun.vet"
+  },
+  {
+    "set_id": "set.mighty_chudan",
+    "source_id": "src.ruins_of_mazzatun.vet"
+  },
+  {
+    "set_id": "set.mighty_chudan",
+    "source_id": "src.undaunted_urgarlag"
   }
 ]
