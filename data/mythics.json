@@ -118,5 +118,41 @@
       "en": "(1 item) Dealing direct damage grants you a stack of Hunter's Focus for 20 seconds, up to 10 stacks max. You can only gain 1 stack of Hunter's Focus per second. Each stack of Hunter's Focus increases your Critical Chance by 110 and your Critical Damage by 1%. Taking direct damage removes 5 stacks of Hunter's Focus, up to once per second. Removing Harpooner's Wading Kilt removes all stacks of Hunter's Focus.",
       "ru": "(1)При нанесении прямого урона вы на 20 сек. получаете заряд эффекта «Сосредоточенность охотника» (всего можно накопить не более 10 зарядов). Получать заряды можно не чаще чем раз в секунду. Каждый заряд эффекта увеличивает ваш показатель критического удара на 110, а критический урон — на 1%. При получении прямого урона вы теряете 5 зарядов эффекта (не более одного заряда в секунду). При снятии болотного килта гарпунера вы теряете все заряды."
     }
+  },
+  {
+    "id": "myth.ring_of_the_pale_order",
+    "slot": "ring",
+    "name": {
+      "en": "Ring of the Pale Order",
+      "ru": "Кольцо Бледного ордена"
+    },
+    "bonuses": {
+      "en": "(1 item) Restore 20% of the damage you deal as Health. This value is decreased by 4% per ally you are grouped with. You cannot be healed by anyone but yourself, your pets, or your Companions.",
+      "ru": "(1)Вы восстанавливаете здоровье в размере 20% от нанесенного вами урона. Это значение уменьшается на 4% за каждого союзника в вашей группе. Вас могут исцелять только ваши питомцы, спутники или вы сами."
+    }
+  },
+  {
+    "id": "myth.rourken_steamguards",
+    "slot": "hands",
+    "name": {
+      "en": "Rourken Steamguards",
+      "ru": "Паровые щитки клана Руркен"
+    },
+    "bonuses": {
+      "en": "(1 item) While actively Bracing, you gain Steam Guardian for 0.5 seconds, reducing your damage taken by 90%. This effect activates only upon the start of Bracing and can occur once every 10 seconds. Blocking any attack while Steam Guardian is active reduces its cooldown by 5 seconds, up to once per application of the effect.",
+      "ru": "(1)Находясь в защитной стойке, вы на 0,5 сек. получаете эффект «Паровой страж», который уменьшает получаемый вами урон на 90%. Этот эффект активируется только при переходе в защитную стойку и может срабатывать не чаще чем раз в 10 сек. Блокирование любой атаки во время действия эффекта «Паровой страж» уменьшает время его перезарядки на 5 сек. (не чаще одного раза на каждое срабатывание эффекта)."
+    }
+  },
+  {
+    "id": "myth.lefthanders_aegis_belt",
+    "slot": "waist",
+    "name": {
+      "en": "Lefthander's Aegis Belt",
+      "ru": "Защитный пояс леворуких эльфов"
+    },
+    "bonuses": {
+      "en": "(1 item) Roll Dodge no longer evades attack and instead grants a damage shield that absorbs up to 20990 damage over 1 second. This damage shield is unaffected by Battle Spirit.",
+      "ru": "(1)Кувырок теперь не позволяет уклониться от атаки, а накладывает на вас щит, поглощающий до 20990 ед. урона в течение 1 сек. На этот щит не действует бонус «Боевой дух»."
+    }
   }
 ]

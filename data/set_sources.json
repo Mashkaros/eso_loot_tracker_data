@@ -326,5 +326,57 @@
   {
     "set_id": "set.mighty_chudan",
     "source_id": "src.undaunted_urgarlag"
+  },
+  {
+    "set_id": "set.alessias_bulwark",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.order_of_diagna",
+    "source_id": "src.alikr_desert"
+  },
+  {
+    "set_id": "set.robes_of_the_withered_hand",
+    "source_id": "src.alikr_desert"
+  },
+  {
+    "set_id": "set.song_of_lamae",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.swordSinger",
+    "source_id": "src.alikr_desert"
+  },
+  {
+    "set_id": "set.vampires_kiss",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.crusader",
+    "source_id": "src.volenfell.normal"
+  },
+  {
+    "set_id": "set.crusader",
+    "source_id": "src.volenfell.vet"
+  },
+  {
+    "set_id": "set.dunerippers_scales",
+    "source_id": "src.volenfell.normal"
+  },
+  {
+    "set_id": "set.dunerippers_scales",
+    "source_id": "src.volenfell.vet"
+  },
+  {
+    "set_id": "set.treasure_hunter",
+    "source_id": "src.volenfell.normal"
+  },
+  {
+    "set_id": "set.treasure_hunter",
+    "source_id": "src.volenfell.vet"
+  },
+  {
+    "set_id": "set.tremorscale",
+    "source_id": "src.volenfell.vet"
   }
 ]

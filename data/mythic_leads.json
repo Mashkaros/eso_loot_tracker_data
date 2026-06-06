@@ -180,5 +180,83 @@
       "en": "Ruins of Mazzatun Dungeon last boss",
       "ru": "Групповое подземелье «Руины Маззатуна», последний босс"
     }
+  },
+  {
+    "id": "lead.direnni_elegy_loop",
+    "mythic_id": "myth.ring_of_the_pale_order",
+    "source_id": "src.alikr_desert",
+    "name": {
+      "en": "Direnni Elegy Loop",
+      "ru": "Элегический ободок Диренни"
+    },
+    "notes": {
+      "en": "Coldrock Diggings Delve Boss",
+      "ru": "Логово «Гравийные копи», босс"
+    }
+  },
+  {
+    "id": "lead.golden_saint_cameo",
+    "mythic_id": "myth.saint_seducer",
+    "source_id": "src.alikr_desert",
+    "name": {
+      "en": "Golden Saint Cameo",
+      "ru": "Камея с золотой святой"
+    },
+    "notes": {
+      "en": "Lesser Circle World Boss in Alik'r Desert",
+      "ru": "Мировой босс «Малого круга»"
+    }
+  },
+  {
+    "id": "lead.santakian_construct_plating",
+    "mythic_id": "myth.rourken_steamguards",
+    "source_id": "src.alikr_desert",
+    "name": {
+      "en": "Santakian Construct Plating",
+      "ru": "Деталь механизма из Сантаки"
+    },
+    "notes": {
+      "en": "Santaki Delve Boss in the Alik'r Desert zone",
+      "ru": "Логово «Сантаки», босс"
+    }
+  },
+  {
+    "id": "lead.singersteel_clasp",
+    "mythic_id": "myth.lefthanders_aegis_belt",
+    "source_id": "src.alikr_desert",
+    "name": {
+      "en": "Singersteel Clasp",
+      "ru": "Пряжка из поющей стали"
+    },
+    "notes": {
+      "en": "Treasure Chests in the Alik'r Desert zone",
+      "ru": "Сундуки"
+    }
+  },
+  {
+    "id": "lead.torc_strand_of_lore",
+    "mythic_id": "myth.torc_of_tonal_constancy",
+    "source_id": "src.alikr_desert",
+    "name": {
+      "en": "Torc Strand of Lore",
+      "ru": "Шейная нить знания"
+    },
+    "notes": {
+      "en": "World Bosses",
+      "ru": "Мировые боссы"
+    }
+  },
+  {
+    "id": "lead.volenfell_etching_tools",
+    "mythic_id": "myth.rourken_steamguards",
+    "source_id": "src.volenfell.normal",
+    "name": {
+      "en": "Volenfell Etching Tools",
+      "ru": "Инструменты для гравировки из Воленфелла"
+    },
+    "notes": {
+      "en": "Volenfell Dungeon last boss",
+      "ru": "Групповое подземелье «Воленфелл», последний босс"
+    }
   }
 ]

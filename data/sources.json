@@ -182,5 +182,29 @@
       "en": "Ruins of Mazzatun Vet",
       "ru": "Руины Маззатуна Ветеранское"
     }
+  },
+  {
+    "id": "src.alikr_desert",
+    "type": "overland",
+    "name": {
+      "en": "Alik'r Desert",
+      "ru": "Пустыня Алик'р"
+    }
+  },
+  {
+    "id": "src.volenfell.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Volenfell Normal",
+      "ru": "Воленфелл Обычное"
+    }
+  },
+  {
+    "id": "src.volenfell.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Volenfell Vet",
+      "ru": "Воленфелл Ветеранское"
+    }
   }
 ]
