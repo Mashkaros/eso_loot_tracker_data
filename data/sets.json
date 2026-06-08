@@ -768,5 +768,19 @@
       "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 1096 Maximum Stamina(4 items) Adds 129 Weapon and Spell Damage(5 items) Damaging an enemy has a 10% chance to fire a Shadow Pearl at them, dealing 3% of the target's Max Health as Oblivion Damage every 1 second for 6 seconds. The Shadow Pearl cannot be reflected. Effect can occur every 6 seconds. This can deal a maximum of 3000 Oblivion Damage per tick.",
       "ru": "(2 предмета) Макс. магия +1096(3 предмета) Макс. запас сил +1096(4 предмета) Сила оружия и заклинаний +129(5 предметов) При нанесении урона противнику у вас есть 10%-й шанс запустить в него Теневую жемчужину которая наносит урон Обливиона в размере 3% от максимального запаса здоровья цели раз в 1 сек. в течение 6 сек. Теневую жемчужину нельзя отразить. Этот эффект может срабатывать не чаще чем раз в 6 сек. Всего можно нанести не более 3000 урона Обливиона за такт."
     }
+  },
+  {
+    "id": "set.armor_of_the_trainee",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Armor of the Trainee",
+      "ru": "Броня ученика"
+    },
+    "bonuses": {
+      "en": "(1 item) Adds 1454 Maximum Health(2 items) Adds 1454 Maximum Magicka(3 items) Adds 1454 Maximum Stamina",
+      "ru": "(1 предмет) Макс. здоровье +1454(2 предмета) Макс. магия +1454(3 предмета) Макс. запас сил +1454"
+    }
   }
 ]

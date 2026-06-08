@@ -1,6 +1,6 @@
 {
-  "version": "2026-06-08.1",
-  "generated_at": "2026-06-08T16:28:48Z",
+  "version": "2026-06-08.2",
+  "generated_at": "2026-06-08T16:52:11Z",
   "sources": [
     {
       "id": "src.crafting_station",
@@ -212,10 +212,26 @@
     },
     {
       "id": "src.artaeum",
-      "type": "dungeon",
+      "type": "overland",
       "name": {
         "en": "Artaeum",
         "ru": "Артеум"
+      }
+    },
+    {
+      "id": "src.bal_foyen",
+      "type": "overland",
+      "name": {
+        "en": "Bal Foyen",
+        "ru": "Бал-Фойен"
+      }
+    },
+    {
+      "id": "src.apocrypha",
+      "type": "overland",
+      "name": {
+        "en": "Apocrypha",
+        "ru": "Апокриф"
       }
     }
   ],
@@ -989,6 +1005,20 @@
         "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 1096 Maximum Stamina(4 items) Adds 129 Weapon and Spell Damage(5 items) Damaging an enemy has a 10% chance to fire a Shadow Pearl at them, dealing 3% of the target's Max Health as Oblivion Damage every 1 second for 6 seconds. The Shadow Pearl cannot be reflected. Effect can occur every 6 seconds. This can deal a maximum of 3000 Oblivion Damage per tick.",
         "ru": "(2 предмета) Макс. магия +1096(3 предмета) Макс. запас сил +1096(4 предмета) Сила оружия и заклинаний +129(5 предметов) При нанесении урона противнику у вас есть 10%-й шанс запустить в него Теневую жемчужину которая наносит урон Обливиона в размере 3% от максимального запаса здоровья цели раз в 1 сек. в течение 6 сек. Теневую жемчужину нельзя отразить. Этот эффект может срабатывать не чаще чем раз в 6 сек. Всего можно нанести не более 3000 урона Обливиона за такт."
       }
+    },
+    {
+      "id": "set.armor_of_the_trainee",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Armor of the Trainee",
+        "ru": "Броня ученика"
+      },
+      "bonuses": {
+        "en": "(1 item) Adds 1454 Maximum Health(2 items) Adds 1454 Maximum Magicka(3 items) Adds 1454 Maximum Stamina",
+        "ru": "(1 предмет) Макс. здоровье +1454(2 предмета) Макс. магия +1454(3 предмета) Макс. запас сил +1454"
+      }
     }
   ],
   "set_sources": [
@@ -1468,9 +1498,19 @@
       "source_id": "src.volenfell.vet"
     },
     {
+      "id": "ss.set.tremorscale.src.undaunted_glirion",
+      "set_id": "set.tremorscale",
+      "source_id": "src.undaunted_glirion"
+    },
+    {
       "id": "ss.set.sloads_semblance.src.crafting_station",
       "set_id": "set.sloads_semblance",
       "source_id": "src.crafting_station"
+    },
+    {
+      "id": "ss.set.armor_of_the_trainee.src.bal_foyen",
+      "set_id": "set.armor_of_the_trainee",
+      "source_id": "src.bal_foyen"
     }
   ],
   "mythics": [
@@ -1628,6 +1668,30 @@
       "bonuses": {
         "en": "(1 item) Roll Dodge no longer evades attack and instead grants a damage shield that absorbs up to 20990 damage over 1 second. This damage shield is unaffected by Battle Spirit.",
         "ru": "(1)Кувырок теперь не позволяет уклониться от атаки, а накладывает на вас щит, поглощающий до 20990 ед. урона в течение 1 сек. На этот щит не действует бонус «Боевой дух»."
+      }
+    },
+    {
+      "id": "myth.cryptcanon_vestments",
+      "slot": "chest",
+      "name": {
+        "en": "Cryptcanon Vestments",
+        "ru": "Одеяние могильного каноника"
+      },
+      "bonuses": {
+        "en": "(1 item) You can no longer cast Ultimate abilities. Instead, casting an Ultimate ability transfers your Ultimate resource to your living group members, divided equally among them. Gain Minor Heroism while you are in combat.",
+        "ru": "(1)Вы больше не можете применять суперспособности. Попытавшись применить суперспособность, вы передадите свои очки суперспособности живым членам группы, разделив их поровну между ними. Находясь в бою, вы получаете эффект «Малый героизм»."
+      }
+    },
+    {
+      "id": "myth.velothi_urMages_amulet",
+      "slot": "necklace",
+      "name": {
+        "en": "Velothi Ur-Mage's Amulet",
+        "ru": "Амулет велотийского ур-мага"
+      },
+      "bonuses": {
+        "en": "(1 item) Adds 1650 Offensive Penetration, Increase your damage done to monsters by 15%, gain Minor Force at all times, increasing your Critical Damage done by 10%, and reduce your Light and Heavy Attack damage by 99%",
+        "ru": "(1)Пробивание +1650(1)Урон, наносимый монстрам, увеличивается на 15%. Вы получаете постоянный эффект «Малая сила», увеличивающий ваш критический урон на 10%, а урон от ваших обычных и силовых атак уменьшается на 99%."
       }
     }
   ],
@@ -1903,6 +1967,58 @@
       "notes": {
         "en": "Fishing in Artaeum",
         "ru": "Рыбалка в мистической воде"
+      }
+    },
+    {
+      "id": "lead.Silverweave Cord",
+      "mythic_id": "myth.harpooners_wading_kilt",
+      "source_id": "src.bal_foyen",
+      "name": {
+        "en": "Silverweave Cord",
+        "ru": "Шнур из серебряной пряжи"
+      },
+      "notes": {
+        "en": "Covenant Enemies, most likely all enemies",
+        "ru": "Любые мобы"
+      }
+    },
+    {
+      "id": "lead.ancestor_samite_stole",
+      "mythic_id": "myth.cryptcanon_vestments",
+      "source_id": "src.apocrypha",
+      "name": {
+        "en": "Ancestor Samite Stole",
+        "ru": "Парчовая стола предка"
+      },
+      "notes": {
+        "en": "Uzur the All-Seeing Delve Boss in The Disquiet Study Delve",
+        "ru": "Логово «Неспокойный кабинет», босс"
+      }
+    },
+    {
+      "id": "lead.ebony_shalk_mounting",
+      "mythic_id": "myth.velothi_urMages_amulet",
+      "source_id": "src.apocrypha",
+      "name": {
+        "en": "Ebony Shalk Mounting",
+        "ru": "Эбонитовый шалк"
+      },
+      "notes": {
+        "en": "Runemaster's Acropolis world boss, Apocrypha zone",
+        "ru": "Мировой босс «Акрополя повелителя рун»"
+      }
+    },
+    {
+      "id": "lead.lucent_cabochon",
+      "mythic_id": "myth.velothi_urMages_amulet",
+      "source_id": "src.apocrypha",
+      "name": {
+        "en": "Lucent Cabochon",
+        "ru": "Кабошон-люцент"
+      },
+      "notes": {
+        "en": "The Underweave Public Dungeon bosses, Apocrypha zone",
+        "ru": "Открытое подземелье «Архив Несотворённого», любые боссы"
       }
     }
   ]

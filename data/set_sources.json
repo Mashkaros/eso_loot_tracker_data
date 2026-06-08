@@ -380,7 +380,15 @@
     "source_id": "src.volenfell.vet"
   },
   {
+    "set_id": "set.tremorscale",
+    "source_id": "src.undaunted_glirion"
+  },
+  {
     "set_id": "set.sloads_semblance",
     "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.armor_of_the_trainee",
+    "source_id": "src.bal_foyen"
   }
 ]

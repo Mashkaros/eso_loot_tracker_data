@@ -271,5 +271,57 @@
       "en": "Fishing in Artaeum",
       "ru": "Рыбалка в мистической воде"
     }
+  },
+  {
+    "id": "lead.Silverweave Cord",
+    "mythic_id": "myth.harpooners_wading_kilt",
+    "source_id": "src.bal_foyen",
+    "name": {
+      "en": "Silverweave Cord",
+      "ru": "Шнур из серебряной пряжи"
+    },
+    "notes": {
+      "en": "Covenant Enemies, most likely all enemies",
+      "ru": "Любые мобы"
+    }
+  },
+  {
+    "id": "lead.ancestor_samite_stole",
+    "mythic_id": "myth.cryptcanon_vestments",
+    "source_id": "src.apocrypha",
+    "name": {
+      "en": "Ancestor Samite Stole",
+      "ru": "Парчовая стола предка"
+    },
+    "notes": {
+      "en": "Uzur the All-Seeing Delve Boss in The Disquiet Study Delve",
+      "ru": "Логово «Неспокойный кабинет», босс"
+    }
+  },
+  {
+    "id": "lead.ebony_shalk_mounting",
+    "mythic_id": "myth.velothi_urMages_amulet",
+    "source_id": "src.apocrypha",
+    "name": {
+      "en": "Ebony Shalk Mounting",
+      "ru": "Эбонитовый шалк"
+    },
+    "notes": {
+      "en": "Runemaster's Acropolis world boss, Apocrypha zone",
+      "ru": "Мировой босс «Акрополя повелителя рун»"
+    }
+  },
+  {
+    "id": "lead.lucent_cabochon",
+    "mythic_id": "myth.velothi_urMages_amulet",
+    "source_id": "src.apocrypha",
+    "name": {
+      "en": "Lucent Cabochon",
+      "ru": "Кабошон-люцент"
+    },
+    "notes": {
+      "en": "The Underweave Public Dungeon bosses, Apocrypha zone",
+      "ru": "Открытое подземелье «Архив Несотворённого», любые боссы"
+    }
   }
 ]

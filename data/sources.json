@@ -209,10 +209,26 @@
   },
   {
     "id": "src.artaeum",
-    "type": "dungeon",
+    "type": "overland",
     "name": {
       "en": "Artaeum",
       "ru": "Артеум"
+    }
+  },
+  {
+    "id": "src.bal_foyen",
+    "type": "overland",
+    "name": {
+      "en": "Bal Foyen",
+      "ru": "Бал-Фойен"
+    }
+  },
+  {
+    "id": "src.apocrypha",
+    "type": "overland",
+    "name": {
+      "en": "Apocrypha",
+      "ru": "Апокриф"
     }
   }
 ]
