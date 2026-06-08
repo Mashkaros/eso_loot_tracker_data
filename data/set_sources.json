@@ -378,5 +378,9 @@
   {
     "set_id": "set.tremorscale",
     "source_id": "src.volenfell.vet"
+  },
+  {
+    "set_id": "set.sloads_semblance",
+    "source_id": "src.crafting_station"
   }
 ]

@@ -258,5 +258,18 @@
       "en": "Volenfell Dungeon last boss",
       "ru": "Групповое подземелье «Воленфелл», последний босс"
     }
+  },
+  {
+    "id": "lead.coral_plating",
+    "mythic_id": "myth.thrassian_stranglers",
+    "source_id": "src.artaeum",
+    "name": {
+      "en": "Coral Plating",
+      "ru": "Коралловое покрытие"
+    },
+    "notes": {
+      "en": "Fishing in Artaeum",
+      "ru": "Рыбалка в мистической воде"
+    }
   }
 ]

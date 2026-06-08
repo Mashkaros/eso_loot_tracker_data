@@ -206,5 +206,13 @@
       "en": "Volenfell Vet",
       "ru": "Воленфелл Ветеранское"
     }
+  },
+  {
+    "id": "src.artaeum",
+    "type": "dungeon",
+    "name": {
+      "en": "Artaeum",
+      "ru": "Артеум"
+    }
   }
 ]

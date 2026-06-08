@@ -754,5 +754,19 @@
       "en": "(1 item) Adds 1096 Maximum Stamina(2 items) When you activate a taunt ability on an enemy, you cause a duneripper to burst from the ground beneath them after 1 second, dealing 0 Physical damage to all enemies within 4 meters and reducing their Armor by 0 for 15 seconds. This effect can occur once every 10 seconds and scales off the higher of your Physical or Spell Resistance.",
       "ru": "(1 предмет) Макс. запас сил +1096(2 предмета) При использовании атаки провоцирующей противника вы призываете дюнороя который спустя 1 секунду нападает на цель из-под земли нанося 0 ед. физического урона всем противникам в радиусе 4 метров и снижая их показатель брони на 0 в течение 15 сек. Этот эффект может срабатывать не чаще чем раз в 10 сек. а его сила зависит от значения вашей физической или магической сопротивляемости (учитывается характеристика с более высоким значением)."
     }
+  },
+  {
+    "id": "set.sloads_semblance",
+    "type": "usual",
+    "farm_way": "craft",
+    "weight": "mixed",
+    "name": {
+      "en": "Sload's Semblance",
+      "ru": "Подобие слоада"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 1096 Maximum Stamina(4 items) Adds 129 Weapon and Spell Damage(5 items) Damaging an enemy has a 10% chance to fire a Shadow Pearl at them, dealing 3% of the target's Max Health as Oblivion Damage every 1 second for 6 seconds. The Shadow Pearl cannot be reflected. Effect can occur every 6 seconds. This can deal a maximum of 3000 Oblivion Damage per tick.",
+      "ru": "(2 предмета) Макс. магия +1096(3 предмета) Макс. запас сил +1096(4 предмета) Сила оружия и заклинаний +129(5 предметов) При нанесении урона противнику у вас есть 10%-й шанс запустить в него Теневую жемчужину которая наносит урон Обливиона в размере 3% от максимального запаса здоровья цели раз в 1 сек. в течение 6 сек. Теневую жемчужину нельзя отразить. Этот эффект может срабатывать не чаще чем раз в 6 сек. Всего можно нанести не более 3000 урона Обливиона за такт."
+    }
   }
 ]
