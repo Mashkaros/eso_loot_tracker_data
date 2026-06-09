@@ -230,5 +230,21 @@
       "en": "Apocrypha",
       "ru": "Апокриф"
     }
+  },
+  {
+    "id": "src.infinite_archive.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Infinite Archive Normal",
+      "ru": "Бесконечный Архив Обычное"
+    }
+  },
+  {
+    "id": "src.infinite_archive.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Infinite Archive Vet",
+      "ru": "Бесконечный Архив Ветеранское"
+    }
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "version": "2026-06-08.2",
-  "generated_at": "2026-06-08T16:52:11Z",
+  "version": "2026-06-09.1",
+  "generated_at": "2026-06-09T15:48:54Z",
   "sources": [
     {
       "id": "src.crafting_station",
@@ -232,6 +232,22 @@
       "name": {
         "en": "Apocrypha",
         "ru": "Апокриф"
+      }
+    },
+    {
+      "id": "src.infinite_archive.normal",
+      "type": "dungeon",
+      "name": {
+        "en": "Infinite Archive Normal",
+        "ru": "Бесконечный Архив Обычное"
+      }
+    },
+    {
+      "id": "src.infinite_archive.vet",
+      "type": "dungeon",
+      "name": {
+        "en": "Infinite Archive Vet",
+        "ru": "Бесконечный Архив Ветеранское"
       }
     }
   ],
@@ -1019,6 +1035,202 @@
         "en": "(1 item) Adds 1454 Maximum Health(2 items) Adds 1454 Maximum Magicka(3 items) Adds 1454 Maximum Stamina",
         "ru": "(1 предмет) Макс. здоровье +1454(2 предмета) Макс. магия +1454(3 предмета) Макс. запас сил +1454"
       }
+    },
+    {
+      "id": "set.aeries_cry",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Aerie's Cry",
+        "ru": "Хищный крик"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1487 Offensive Penetration(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 129 Weapon and Spell Damage(5 items) Dealing damage with a Light Attack applies Eagle's Mark to your target for 12 seconds. Eagle's Mark causes an eagle to attack your target every 3 seconds after a 3 second delay, dealing 857 Physical Damage per attack. Applying Eagle's Mark grants you Aerie's Call for 12 seconds, increasing your damage done by 10% against enemies with Eagle's Mark. This effect can occur every 3 seconds. You can have one Eagle's Mark active at a time.",
+        "ru": "(2 предмета) Пробивание +1487(3 предмета) Сила оружия и заклинаний +129(4 предмета) Сила оружия и заклинаний +129(5 предметов) Нанося урон обычной атако4 вы накладываете эффект Знак орла на 12 сек. Спустя 3 секунды вашу цель начинает атаковать орел нанося 985 ед. физического урона каждым ударом раз в 3 сек. Применяя Знак орла вы на 12 сек. получаете эффект Горний зов увеличивающий ваш урон наносимый цели с эффектом Знак орла на 10%. Этот эффект может срабатывать не чаще чем раз в 3 сек. Одновременно может быть активен только один Знак орла"
+      }
+    },
+    {
+      "id": "set.aetheric_lancer",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Aetheric Lancer",
+        "ru": "Этерический копьеметатель"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) Dealing damage with Burning Light twice within 30 seconds creates a 5 meter area for 5 seconds. This effect can occur once every 3 seconds. While in the area, dealing damage with an Aedric Spear ability launches a spear at your target, dealing 1684 Magic Damage and applying Sundered and increasing your Weapon and Spell Damage by 300 for 10 seconds. The damage scales off the higher of your Weapon or Spell Damage.",
+        "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) Нанеся урон способностью Обжигающий свет дважды за 30 сек. вы на 5 сек. создаете область радиусом 5 метров. Этот эффект может срабатывать не чаще чем раз в 3 сек. Находясь в этой области и нанося урон способностью из ветки Копье аэдра вы бросаете в цель копье которое наносит 1936 ед. магического урона накладывает эффект Вспарывание и увеличивает вашу силу оружия и заклинаний на 300 на 10 сек. Количество наносимого урона зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+      }
+    },
+    {
+      "id": "set.basaltBlooded_warrior",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Basalt-Blooded Warrior",
+        "ru": "Воин базальтовой крови"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Magicka Recovery(3 items) Adds 1206 Maximum Health(4 items) Adds 129 Weapon and Spell Damage(5 items) Casting an Earthen Heart ability grants you a Rock Stance for 10 seconds. While on your Primary Weapon you gain Molten Stance, granting you Major Heroism, generating 3 Ultimate every 1.5 seconds. While you are on your Secondary Weapon you gain Obsidian Stance, increasing your Healing Done and damage shields by 14%. Bar Swapping will swap your Stance automatically.",
+        "ru": "(2 предмета) Восст. магии +129(3 предмета) Макс. здоровье +1206(4 предмета) Сила оружия и заклинаний +129(5 предметов) При использовании способности из ветки Сердце земли вы на 10 сек. получаете каменную стойку. Находясь на основной панели вы получаете лавовую стойку которая накладывает на вас эффект Великий героизм и восстанавливает 3 очка суперспособности раз в 1,5 сек. Находясь на запасной панели вы получаете обсидиановую стойку которая увеличивает силу вашего исходящего лечения и прочность щитов на 14%. При переключении панелей смена стойки происходит автоматически."
+      }
+    },
+    {
+      "id": "set.beacon_of_oblivion",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Beacon of Oblivion",
+        "ru": "Светоч Обливиона"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1487 Armor(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 1206 Maximum Health(5 items) While you have a permanent pet active, gain 1840 Health and 1980 Armor. While you do not have a permanent pet active, increase your Damage Done and Healing Done by 15%. This value is reduced to 7% while affected by Battle Spirit.",
+        "ru": "(2 предмета) Броня +1487(3 предмета) Сила оружия и заклинаний +129(4 предмета) Макс. здоровье +1206(5 предметов) Пока у вас призвано постоянное существо ваш максимальный запас здоровья увеличивается на 1840 ед. а показатель брони — на 1980. Если у вас не призвано постоянное существо наносимый урон и исходящее лечение увеличиваются на 15%. Если на вас действует бонус Боевой дух это значение уменьшается до 7%."
+      }
+    },
+    {
+      "id": "set.corpseburster",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Corpseburster",
+        "ru": "Взрыватель трупов"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 657 Critical Chance(5 items) Consuming a corpse causes the corpse to explode, dealing 1298 Disease Damage to enemies within 5 meters and applying the Diseased status effect and Minor Breach to them for 5 seconds, reducing their Physical and Spell Resistance by 2974. This effect can occur once every 0.5 seconds, scales off the higher of your Weapon or Spell Damage, and deals 10% more damage for each Grave Lord ability slotted.",
+        "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Сила оружия и заклинаний +129(4 предмета) Шанс крит. удара +657(5 предметов) При поглощении трупа он взрывается нанося 1492 ед. болезнетворного урона противникам в радиусе 5 метров и на 5 сек. накладывая на них эффект состояния Болезнь и эффект Малый прорыв уменьшающий их физическую и магическую сопротивляемость на 2974. Этот эффект может срабатывать не чаще чем раз в 0,5 сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением). Каждая способность из ветки Могильный владыка размещенная на панели увеличивает урон еще на 10%."
+      }
+    },
+    {
+      "id": "set.gardener_of_seasons",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Gardener of Seasons",
+        "ru": "Садовник времен года"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 4% Healing Done(3 items) Adds 129 Magicka Recovery(4 items) Adds 129 Weapon and Spell Damage(5 items) Gain Herald of Spring, causing your Green Balance overheals to apply Minor Heroism for 3 seconds. Casting a Heal ability while Bracing consumes Herald of Spring and gives you Harbinger of Fall for 6 seconds, causing your Green Balance overheals to create an 8 meter area for 5 seconds, applying Major Cowardice to enemies and Minor Vitality to allies. You can create an area once every 5 seconds. When Harbinger of Fall ends, regain Herald of Spring.",
+        "ru": "(2 предмета) Исходящее лечение +4%(3 предмета) Восст. магии +129(4 предмета) Сила оружия и заклинаний +129(5 предметов) Вы получаете эффект Глашатай весны благодаря которому исцеление при 100% здоровья способностями из ветки Зеленое равновесие на 3 сек. накладывает эффект Малый героизм. Применение исцеляющей способности в защитной стойке поглощает эффект Глашатай весны и на 6 сек. накладывает эффект Предвестник осени: исцеление при 100% здоровья способностями из ветки Зеленое равновесие на 5 сек. создает область радиусом 8 м накладывающую эффекты Великая трусость на противников и Малая живучесть на союзников. Область можно создавать не чаще чем раз в 5 сек. По окончании действия эффекта Предвестник осени вы снова получите эффект Глашатай весны."
+      }
+    },
+    {
+      "id": "set.monolith_of_storms",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Monolith of Storms",
+        "ru": "Грозовой монолит"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 129 Weapon and Spell Damage(5 items) Dealing damage with a Storm Calling ability's initial hit or every 5th tick creates a Monolith near the enemy for 10 seconds, up to one every 1 second, up to 3 total. Your Monoliths within 28 meters of one another link together, dealing 743 Shock Damage, scaling off of the higher of your Weapon or Spell Damage, every 2 seconds to enemies near the links, up to once every 2 seconds per enemy. Each Monolith active grants you 100 Weapon and Spell Damage.",
+        "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Сила оружия и заклинаний +129(4 предмета) Сила оружия и заклинаний +129(5 предметов) При нанесении урона первоначальным попаданием или каждым пятым тактом способности из ветки Зов бури 6ы на 10 сек. создаете рядом с противником монолит (это может происходить не чаще чем раз в 1 сек.). Одновременно может быть активно не более 3 монолитов. Находясь в радиусе 28 метров друг от друга ваши монолиты создают между собой узы которые наносят противникам рядом с ними 854 ед. электрического урона раз в 2 сек. (не чаще чем раз в 2 сек. каждому противнику). Количество наносимого урона зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением). Каждый активный монолит увеличивает вашу силу оружия и заклинаний на 100."
+      }
+    },
+    {
+      "id": "set.nobility_in_decay",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Nobility in Decay",
+        "ru": "Упадок аристократии"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 4% Healing Taken(4 items) Adds 1206 Maximum Health(5 items) Casting a Bone Tyrant ability while in combat grants you Beautiful Corpse and Death's Favor for 16 seconds. Death's Favor increases your healing received and reduces damage taken by up to 12% based on your missing Health. This can occur once every 20 seconds, and is reduced by 2 seconds for each slotted Bone Tyrant ability. Casting a corpse consumer ability consumes Beautiful Corpse, treating you as a corpse.",
+        "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Получаемое лечение +4%(4 предмета) Макс. здоровье +1206(5 предметов) При использовании в бою способности из ветки Костяной тиран вы на 16 сек. получаете эффекты Прекрасный труп и Благосклонность смерти. Благосклонность смерти увеличивает получаемое вами лечение и уменьшает получаемый урон на 12% в зависимости от недостающего здоровья. Это может происходить не чаще чем раз в 20 сек. (каждая выбранная способность из ветки Костяной тиран уменьшает время перезарядки на 2 сек.). При использовании способности с поглощением трупов Прекрасный труп исчезает выдавая за труп вас."
+      }
+    },
+    {
+      "id": "set.pyrebrand",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Pyrebrand",
+        "ru": "Печать погребального костра"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1487 Offensive Penetration(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 129 Weapon and Spell Damage(5 items) Your Light Attacks deal 964 Flame Damage over 6 seconds. This effect can activate Wildfire Embers, up to once every 10 seconds. Your fully-charged Heavy Attacks consume up to 3 stacks of your Wildfire Embers to deal 630 Flame Damage around the target, dealing up to 200% more damage to enemies below 33% Health. The damage scales off the higher of your Weapon or Spell Damage increases by 25% per stack of Recursive Flame and Pyrebrand.",
+        "ru": "(2 предмета) Пробивание +1487(3 предмета) Сила оружия и заклинаний +129(4 предмета) Сила оружия и заклинаний +129(5 предметов) Ваши обычные атаки наносят 964 ед. огненного урона 630 течение 6 сек. и раз в 10 сек. могут создать заряд эффекта Угли пожара. Ваши полностью заряженные силовые атаки поглощают до 3 зарядов эффекта Угли пожара и наносят 724 ед. огненного урона по площади вокруг цели. Противники уровень здоровья которых ниже 33% получают на 200% больше урона. Количество наносимого урона зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением) и увеличивается на 25% за каждый заряд эффектов Неугасимое пламя и Печать погребального костра."
+      }
+    },
+    {
+      "id": "set.reawakened_hierophant",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Reawakened Hierophant",
+        "ru": "Пробудившийся жрец"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 731 Maximum Magicka, Adds 731 Maximum Stamina(3 items) Adds 731 Maximum Magicka, Adds 731 Maximum Stamina(4 items) Adds 731 Maximum Magicka, Adds 731 Maximum Stamina(5 items) Casting a non-Ultimate Curative Runeform ability grants an effect for 6 seconds to your affected allies based on how many Crux you had. At 1 Crux, allies gain a damage shield that absorbs 3618 damage. At 2 Crux, allies gain Minor Heroism, granting 1 Ultimate every 1.5 seconds. At 3 Crux, allies gain Major Protection, reducing damage taken by 10%.",
+        "ru": "(2 предмета) Макс. магия +731, Макс. запас сил +731(3 предмета) Макс. магия +731, Макс. запас сил +731(4 предмета) Макс. магия +731, Макс. запас сил +731(5 предметов) При использовании обычной способности из ветки Исцеляющие руны задетые союзники на 6 сек. получают эффект который зависит от количества ваших знаков. При одном знаке союзники получают щит поглощающий 3618 ед. урона. При двух — эффект Малый героизм восстанавливающий 1 очк. суперспособности раз в 1,5 сек. При трех — эффект Великая защита уменьшающий получаемый урон на 10%."
+      }
+    },
+    {
+      "id": "set.soulcleaver",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Soulcleaver",
+        "ru": "Рассекатель душ"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) While in combat, strengthens your Siphoning abilities at the cost of Ultimate: Increases the damage and healing of Siphoning abilities by 15%. Reduces the cost of Siphoning abilities by 15%. Casting Siphoning abilities drains you of 1 Ultimate and increases your damage done for 20 seconds by up to 12%, based on how high your current Health is.",
+        "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) Пока вы находитесь в бою ваши способности из ветки Поглощение усиливаются за счет очков суперспособности. Стоимость способностей из ветки Поглощение уменьшается на 15% а их урон и исцеление увеличиваются на 15%. При применении способностей из ветки Поглощение вы теряете 1 очк. суперспособности."
+      }
+    },
+    {
+      "id": "set.spattering_disjunction",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Spattering Disjunction",
+        "ru": "Разлетающиеся брызги"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 129 Weapon and Spell Damage(5 items) Dealing damage with an Arcanist ability applies two random status effects to your target and generates a Crux. This effect can occur once every 7 seconds. Dealing damage with a Herald of the Tome ability reduces this cooldown by 0.5 seconds, up to once every 1 second. Increases your damage done with status effects by 40%.",
+        "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Сила оружия и заклинаний +129(4 предмета) Сила оружия и заклинаний +129(5 предметов) Нанесение урона любой способностью мастера рун накладывает на противника два случайных эффекта состояния и создает знак. Этот эффект может срабатывать не чаще чем раз в 7 сек. Нанесение урона любой способностью из ветки Книжный вестник уменьшает время перезарядки на 0,5 сек. (не чаще чем раз в 1 сек.). Урон наносимый вашими эффектами состояния увеличивается на 40%."
+      }
+    },
+    {
+      "id": "set.umbral_edge",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Umbral Edge",
+        "ru": "Теневое острие"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 1487 Armor(4 items) Adds 1096 Maximum Stamina(5 items) When you cast a Shadow ability, you gain Umbral Riposte for 3 seconds, up to once every 6 seconds. Umbral Riposte causes you to dodge the next attack made against you and automatically curses the attacking enemy, applying Major Vulnerability for 5 seconds, increasing their damage taken by 10%.",
+        "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Броня +1487(4 предмета) Макс. запас сил +1096(5 предметов) При использовании способности из ветки Тень вы на 3 сек. получаете эффект Теневой контрудар (эффект можно получать не чаще чем раз в 6 сек.). Теневой контрудар заставляет вас уклониться от следующей направленной в вас атаки и автоматически проклинает атаковавшего противника на 5 сек. накладывая на него эффект Великая уязвимость который увеличивает получаемый им урон на 10%."
+      }
+    },
+    {
+      "id": "set.wrathsun",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Wrathsun",
+        "ru": "Гнев солнца"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) When you deal damage with a Dawn's Wrath ability, you gain a stack of Sunlight for 15 seconds, once per attack and up to 30 times. Each stack grants 21 Magicka Recovery. When at max stacks, stacks no longer refresh, your Templar skill line abilities deal 25% bonus damage but is reduced to 10% against players, and a Wrathful Nova is cast on the enemy. When Sunlight expires at max stacks, you lose 50% of your current Magicka.",
+        "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) При нанесении урона способностью из ветки Ярость рассвета вы на 15 сек. получаете заряд эффекта Солнечный свет (не чаще чем один раз за атаку; максимальное количество зарядов — 30). Каждый заряд увеличивает ваше восстановление магии на 21. При максимальном количестве зарядов эффект перестает обновляться. Ваши способности храмовника наносят на 25% больше урона (игрокам — на 10%) а к противнику применяется способность Яростная новая звезда. Если действие эффекта Солнечный свет заканчивается при максимальном количестве зарядов вы теряете 50% от текущего запаса магии."
+      }
     }
   ],
   "set_sources": [
@@ -1511,6 +1723,136 @@
       "id": "ss.set.armor_of_the_trainee.src.bal_foyen",
       "set_id": "set.armor_of_the_trainee",
       "source_id": "src.bal_foyen"
+    },
+    {
+      "id": "ss.set.aetheric_lancer.src.infinite_archive.normal",
+      "set_id": "set.aetheric_lancer",
+      "source_id": "src.infinite_archive.normal"
+    },
+    {
+      "id": "ss.set.aetheric_lancer.src.infinite_archive.vet",
+      "set_id": "set.aetheric_lancer",
+      "source_id": "src.infinite_archive.vet"
+    },
+    {
+      "id": "ss.set.basaltBlooded_warrior.src.infinite_archive.normal",
+      "set_id": "set.basaltBlooded_warrior",
+      "source_id": "src.infinite_archive.normal"
+    },
+    {
+      "id": "ss.set.basaltBlooded_warrior.src.infinite_archive.vet",
+      "set_id": "set.basaltBlooded_warrior",
+      "source_id": "src.infinite_archive.vet"
+    },
+    {
+      "id": "ss.set.beacon_of_oblivion.src.infinite_archive.normal",
+      "set_id": "set.beacon_of_oblivion",
+      "source_id": "src.infinite_archive.normal"
+    },
+    {
+      "id": "ss.set.beacon_of_oblivion.src.infinite_archive.vet",
+      "set_id": "set.beacon_of_oblivion",
+      "source_id": "src.infinite_archive.vet"
+    },
+    {
+      "id": "ss.set.corpseburster.src.infinite_archive.normal",
+      "set_id": "set.corpseburster",
+      "source_id": "src.infinite_archive.normal"
+    },
+    {
+      "id": "ss.set.corpseburster.src.infinite_archive.vet",
+      "set_id": "set.corpseburster",
+      "source_id": "src.infinite_archive.vet"
+    },
+    {
+      "id": "ss.set.gardener_of_seasons.src.infinite_archive.normal",
+      "set_id": "set.gardener_of_seasons",
+      "source_id": "src.infinite_archive.normal"
+    },
+    {
+      "id": "ss.set.gardener_of_seasons.src.infinite_archive.vet",
+      "set_id": "set.gardener_of_seasons",
+      "source_id": "src.infinite_archive.vet"
+    },
+    {
+      "id": "ss.set.monolith_of_storms.src.infinite_archive.normal",
+      "set_id": "set.monolith_of_storms",
+      "source_id": "src.infinite_archive.normal"
+    },
+    {
+      "id": "ss.set.monolith_of_storms.src.infinite_archive.vet",
+      "set_id": "set.monolith_of_storms",
+      "source_id": "src.infinite_archive.vet"
+    },
+    {
+      "id": "ss.set.nobility_in_decay.src.infinite_archive.normal",
+      "set_id": "set.nobility_in_decay",
+      "source_id": "src.infinite_archive.normal"
+    },
+    {
+      "id": "ss.set.nobility_in_decay.src.infinite_archive.vet",
+      "set_id": "set.nobility_in_decay",
+      "source_id": "src.infinite_archive.vet"
+    },
+    {
+      "id": "ss.set.pyrebrand.src.infinite_archive.normal",
+      "set_id": "set.pyrebrand",
+      "source_id": "src.infinite_archive.normal"
+    },
+    {
+      "id": "ss.set.pyrebrand.src.infinite_archive.vet",
+      "set_id": "set.pyrebrand",
+      "source_id": "src.infinite_archive.vet"
+    },
+    {
+      "id": "ss.set.reawakened_hierophant.src.infinite_archive.normal",
+      "set_id": "set.reawakened_hierophant",
+      "source_id": "src.infinite_archive.normal"
+    },
+    {
+      "id": "ss.set.reawakened_hierophant.src.infinite_archive.vet",
+      "set_id": "set.reawakened_hierophant",
+      "source_id": "src.infinite_archive.vet"
+    },
+    {
+      "id": "ss.set.soulcleaver.src.infinite_archive.normal",
+      "set_id": "set.soulcleaver",
+      "source_id": "src.infinite_archive.normal"
+    },
+    {
+      "id": "ss.set.soulcleaver.src.infinite_archive.vet",
+      "set_id": "set.soulcleaver",
+      "source_id": "src.infinite_archive.vet"
+    },
+    {
+      "id": "ss.set.spattering_disjunction.src.infinite_archive.normal",
+      "set_id": "set.spattering_disjunction",
+      "source_id": "src.infinite_archive.normal"
+    },
+    {
+      "id": "ss.set.spattering_disjunction.src.infinite_archive.vet",
+      "set_id": "set.spattering_disjunction",
+      "source_id": "src.infinite_archive.vet"
+    },
+    {
+      "id": "ss.set.umbral_edge.src.infinite_archive.normal",
+      "set_id": "set.umbral_edge",
+      "source_id": "src.infinite_archive.normal"
+    },
+    {
+      "id": "ss.set.umbral_edge.src.infinite_archive.vet",
+      "set_id": "set.umbral_edge",
+      "source_id": "src.infinite_archive.vet"
+    },
+    {
+      "id": "ss.set.wrathsun.src.infinite_archive.normal",
+      "set_id": "set.wrathsun",
+      "source_id": "src.infinite_archive.normal"
+    },
+    {
+      "id": "ss.set.wrathsun.src.infinite_archive.vet",
+      "set_id": "set.wrathsun",
+      "source_id": "src.infinite_archive.vet"
     }
   ],
   "mythics": [
@@ -1692,6 +2034,18 @@
       "bonuses": {
         "en": "(1 item) Adds 1650 Offensive Penetration, Increase your damage done to monsters by 15%, gain Minor Force at all times, increasing your Critical Damage done by 10%, and reduce your Light and Heavy Attack damage by 99%",
         "ru": "(1)Пробивание +1650(1)Урон, наносимый монстрам, увеличивается на 15%. Вы получаете постоянный эффект «Малая сила», увеличивающий ваш критический урон на 10%, а урон от ваших обычных и силовых атак уменьшается на 99%."
+      }
+    },
+    {
+      "id": "myth.torc_of_the_last_ayleid_king",
+      "slot": "necklace",
+      "name": {
+        "en": "Torc of the Last Ayleid King",
+        "ru": "Ожерелье последнего короля айлеидов"
+      },
+      "bonuses": {
+        "en": "(1 item) Reduce your damage taken by 15%. Adds 1337 Weapon and Spell Damage. Adds 500 Magicka and Stamina Recovery. Disable all other item set bonuses.",
+        "ru": "(1)Получаемый урон уменьшается на 15%. Сила оружия и заклинаний увеличивается на 1337. Восстановление магии и запаса сил увеличивается на 500. Эффекты всех остальных наборов снаряжения перестают действовать."
       }
     }
   ],
@@ -2019,6 +2373,71 @@
       "notes": {
         "en": "The Underweave Public Dungeon bosses, Apocrypha zone",
         "ru": "Открытое подземелье «Архив Несотворённого», любые боссы"
+      }
+    },
+    {
+      "id": "lead.silk_ribbon",
+      "mythic_id": "myth.torc_of_the_last_ayleid_king",
+      "source_id": "src.infinite_archive.normal",
+      "name": {
+        "en": "Silk Ribbon",
+        "ru": "Лента из шелка предков"
+      },
+      "notes": {
+        "en": "Infinite Archive Chest",
+        "ru": "Наградные сундуки"
+      }
+    },
+    {
+      "id": "lead.welkynd_jewel",
+      "mythic_id": "myth.torc_of_the_last_ayleid_king",
+      "source_id": "src.infinite_archive.normal",
+      "name": {
+        "en": "Welkynd Jewel",
+        "ru": "Велкиндский самоцвет"
+      },
+      "notes": {
+        "en": "Infinite Archive Chest",
+        "ru": "Наградные сундуки"
+      }
+    },
+    {
+      "id": "lead.palladium_talon",
+      "mythic_id": "myth.torc_of_the_last_ayleid_king",
+      "source_id": "src.infinite_archive.normal",
+      "name": {
+        "en": "Palladium Talon",
+        "ru": "Коготь из палладия"
+      },
+      "notes": {
+        "en": "Infinite Archive Chest",
+        "ru": "Наградные сундуки"
+      }
+    },
+    {
+      "id": "lead.meteoric_iron_triquetra",
+      "mythic_id": "myth.torc_of_the_last_ayleid_king",
+      "source_id": "src.infinite_archive.normal",
+      "name": {
+        "en": "Meteoric Iron Triquetra",
+        "ru": "Трилистник из метеоритного железа"
+      },
+      "notes": {
+        "en": "Infinite Archive Chest",
+        "ru": "Наградные сундуки"
+      }
+    },
+    {
+      "id": "lead.feathered_palladium_cradle",
+      "mythic_id": "myth.torc_of_the_last_ayleid_king",
+      "source_id": "src.infinite_archive.normal",
+      "name": {
+        "en": "Feathered Palladium Cradle",
+        "ru": "«Пернатая» оправа из палладия"
+      },
+      "notes": {
+        "en": "Infinite Archive Chest",
+        "ru": "Наградные сундуки"
       }
     }
   ]

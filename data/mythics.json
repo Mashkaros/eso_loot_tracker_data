@@ -178,5 +178,17 @@
       "en": "(1 item) Adds 1650 Offensive Penetration, Increase your damage done to monsters by 15%, gain Minor Force at all times, increasing your Critical Damage done by 10%, and reduce your Light and Heavy Attack damage by 99%",
       "ru": "(1)Пробивание +1650(1)Урон, наносимый монстрам, увеличивается на 15%. Вы получаете постоянный эффект «Малая сила», увеличивающий ваш критический урон на 10%, а урон от ваших обычных и силовых атак уменьшается на 99%."
     }
+  },
+  {
+    "id": "myth.torc_of_the_last_ayleid_king",
+    "slot": "necklace",
+    "name": {
+      "en": "Torc of the Last Ayleid King",
+      "ru": "Ожерелье последнего короля айлеидов"
+    },
+    "bonuses": {
+      "en": "(1 item) Reduce your damage taken by 15%. Adds 1337 Weapon and Spell Damage. Adds 500 Magicka and Stamina Recovery. Disable all other item set bonuses.",
+      "ru": "(1)Получаемый урон уменьшается на 15%. Сила оружия и заклинаний увеличивается на 1337. Восстановление магии и запаса сил увеличивается на 500. Эффекты всех остальных наборов снаряжения перестают действовать."
+    }
   }
 ]

@@ -390,5 +390,109 @@
   {
     "set_id": "set.armor_of_the_trainee",
     "source_id": "src.bal_foyen"
+  },
+  {
+    "set_id": "set.aetheric_lancer",
+    "source_id": "src.infinite_archive.normal"
+  },
+  {
+    "set_id": "set.aetheric_lancer",
+    "source_id": "src.infinite_archive.vet"
+  },
+  {
+    "set_id": "set.basaltBlooded_warrior",
+    "source_id": "src.infinite_archive.normal"
+  },
+  {
+    "set_id": "set.basaltBlooded_warrior",
+    "source_id": "src.infinite_archive.vet"
+  },
+  {
+    "set_id": "set.beacon_of_oblivion",
+    "source_id": "src.infinite_archive.normal"
+  },
+  {
+    "set_id": "set.beacon_of_oblivion",
+    "source_id": "src.infinite_archive.vet"
+  },
+  {
+    "set_id": "set.corpseburster",
+    "source_id": "src.infinite_archive.normal"
+  },
+  {
+    "set_id": "set.corpseburster",
+    "source_id": "src.infinite_archive.vet"
+  },
+  {
+    "set_id": "set.gardener_of_seasons",
+    "source_id": "src.infinite_archive.normal"
+  },
+  {
+    "set_id": "set.gardener_of_seasons",
+    "source_id": "src.infinite_archive.vet"
+  },
+  {
+    "set_id": "set.monolith_of_storms",
+    "source_id": "src.infinite_archive.normal"
+  },
+  {
+    "set_id": "set.monolith_of_storms",
+    "source_id": "src.infinite_archive.vet"
+  },
+  {
+    "set_id": "set.nobility_in_decay",
+    "source_id": "src.infinite_archive.normal"
+  },
+  {
+    "set_id": "set.nobility_in_decay",
+    "source_id": "src.infinite_archive.vet"
+  },
+  {
+    "set_id": "set.pyrebrand",
+    "source_id": "src.infinite_archive.normal"
+  },
+  {
+    "set_id": "set.pyrebrand",
+    "source_id": "src.infinite_archive.vet"
+  },
+  {
+    "set_id": "set.reawakened_hierophant",
+    "source_id": "src.infinite_archive.normal"
+  },
+  {
+    "set_id": "set.reawakened_hierophant",
+    "source_id": "src.infinite_archive.vet"
+  },
+  {
+    "set_id": "set.soulcleaver",
+    "source_id": "src.infinite_archive.normal"
+  },
+  {
+    "set_id": "set.soulcleaver",
+    "source_id": "src.infinite_archive.vet"
+  },
+  {
+    "set_id": "set.spattering_disjunction",
+    "source_id": "src.infinite_archive.normal"
+  },
+  {
+    "set_id": "set.spattering_disjunction",
+    "source_id": "src.infinite_archive.vet"
+  },
+  {
+    "set_id": "set.umbral_edge",
+    "source_id": "src.infinite_archive.normal"
+  },
+  {
+    "set_id": "set.umbral_edge",
+    "source_id": "src.infinite_archive.vet"
+  },
+  {
+    "set_id": "set.wrathsun",
+    "source_id": "src.infinite_archive.normal"
+  },
+  {
+    "set_id": "set.wrathsun",
+    "source_id": "src.infinite_archive.vet"
   }
 ]

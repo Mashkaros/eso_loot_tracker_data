@@ -323,5 +323,70 @@
       "en": "The Underweave Public Dungeon bosses, Apocrypha zone",
       "ru": "Открытое подземелье «Архив Несотворённого», любые боссы"
     }
+  },
+  {
+    "id": "lead.silk_ribbon",
+    "mythic_id": "myth.torc_of_the_last_ayleid_king",
+    "source_id": "src.infinite_archive.normal",
+    "name": {
+      "en": "Silk Ribbon",
+      "ru": "Лента из шелка предков"
+    },
+    "notes": {
+      "en": "Infinite Archive Chest",
+      "ru": "Наградные сундуки"
+    }
+  },
+  {
+    "id": "lead.welkynd_jewel",
+    "mythic_id": "myth.torc_of_the_last_ayleid_king",
+    "source_id": "src.infinite_archive.normal",
+    "name": {
+      "en": "Welkynd Jewel",
+      "ru": "Велкиндский самоцвет"
+    },
+    "notes": {
+      "en": "Infinite Archive Chest",
+      "ru": "Наградные сундуки"
+    }
+  },
+  {
+    "id": "lead.palladium_talon",
+    "mythic_id": "myth.torc_of_the_last_ayleid_king",
+    "source_id": "src.infinite_archive.normal",
+    "name": {
+      "en": "Palladium Talon",
+      "ru": "Коготь из палладия"
+    },
+    "notes": {
+      "en": "Infinite Archive Chest",
+      "ru": "Наградные сундуки"
+    }
+  },
+  {
+    "id": "lead.meteoric_iron_triquetra",
+    "mythic_id": "myth.torc_of_the_last_ayleid_king",
+    "source_id": "src.infinite_archive.normal",
+    "name": {
+      "en": "Meteoric Iron Triquetra",
+      "ru": "Трилистник из метеоритного железа"
+    },
+    "notes": {
+      "en": "Infinite Archive Chest",
+      "ru": "Наградные сундуки"
+    }
+  },
+  {
+    "id": "lead.feathered_palladium_cradle",
+    "mythic_id": "myth.torc_of_the_last_ayleid_king",
+    "source_id": "src.infinite_archive.normal",
+    "name": {
+      "en": "Feathered Palladium Cradle",
+      "ru": "«Пернатая» оправа из палладия"
+    },
+    "notes": {
+      "en": "Infinite Archive Chest",
+      "ru": "Наградные сундуки"
+    }
   }
 ]
