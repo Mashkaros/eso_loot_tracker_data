@@ -246,5 +246,13 @@
       "en": "Infinite Archive Vet",
       "ru": "Бесконечный Архив Ветеранское"
     }
+  },
+  {
+    "id": "src.betnikh",
+    "type": "overland",
+    "name": {
+      "en": "Betnikh",
+      "ru": "Бетник"
+    }
   }
 ]

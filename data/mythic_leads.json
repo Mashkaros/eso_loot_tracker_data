@@ -388,5 +388,18 @@
       "en": "Infinite Archive Chest",
       "ru": "Наградные сундуки"
     }
+  },
+  {
+    "id": "lead.malacaths_brutal_scourge_hoop",
+    "mythic_id": "myth.malacaths_band_of_brutality",
+    "source_id": "src.betnikh",
+    "name": {
+      "en": "Malacath's Brutal Scourge Hoop",
+      "ru": "Обруч свирепости Малаката"
+    },
+    "notes": {
+      "en": "Random Monster",
+      "ru": "Любые мобы"
+    }
   }
 ]

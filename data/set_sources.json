@@ -494,5 +494,9 @@
   {
     "set_id": "set.wrathsun",
     "source_id": "src.infinite_archive.vet"
+  },
+  {
+    "set_id": "set.armor_of_the_trainee",
+    "source_id": "src.betnikh"
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "version": "2026-06-09.1",
-  "generated_at": "2026-06-09T15:48:54Z",
+  "version": "2026-06-09.2",
+  "generated_at": "2026-06-09T15:58:24Z",
   "sources": [
     {
       "id": "src.crafting_station",
@@ -248,6 +248,14 @@
       "name": {
         "en": "Infinite Archive Vet",
         "ru": "Бесконечный Архив Ветеранское"
+      }
+    },
+    {
+      "id": "src.betnikh",
+      "type": "overland",
+      "name": {
+        "en": "Betnikh",
+        "ru": "Бетник"
       }
     }
   ],
@@ -1853,6 +1861,11 @@
       "id": "ss.set.wrathsun.src.infinite_archive.vet",
       "set_id": "set.wrathsun",
       "source_id": "src.infinite_archive.vet"
+    },
+    {
+      "id": "ss.set.armor_of_the_trainee.src.betnikh",
+      "set_id": "set.armor_of_the_trainee",
+      "source_id": "src.betnikh"
     }
   ],
   "mythics": [
@@ -2046,6 +2059,18 @@
       "bonuses": {
         "en": "(1 item) Reduce your damage taken by 15%. Adds 1337 Weapon and Spell Damage. Adds 500 Magicka and Stamina Recovery. Disable all other item set bonuses.",
         "ru": "(1)Получаемый урон уменьшается на 15%. Сила оружия и заклинаний увеличивается на 1337. Восстановление магии и запаса сил увеличивается на 500. Эффекты всех остальных наборов снаряжения перестают действовать."
+      }
+    },
+    {
+      "id": "myth.malacaths_band_of_brutality",
+      "slot": "ring",
+      "name": {
+        "en": "Malacath's Band of Brutality",
+        "ru": "Кольцо жестокости Малаката"
+      },
+      "bonuses": {
+        "en": "(1 item) Increases your damage done by 16% but decreases your Critical Damage done by 50%.",
+        "ru": "(1 предмет) Наносимый вами урон увеличивается на 16% а критический урон уменьшается на 50%."
       }
     }
   ],
@@ -2438,6 +2463,19 @@
       "notes": {
         "en": "Infinite Archive Chest",
         "ru": "Наградные сундуки"
+      }
+    },
+    {
+      "id": "lead.malacaths_brutal_scourge_hoop",
+      "mythic_id": "myth.malacaths_band_of_brutality",
+      "source_id": "src.betnikh",
+      "name": {
+        "en": "Malacath's Brutal Scourge Hoop",
+        "ru": "Обруч свирепости Малаката"
+      },
+      "notes": {
+        "en": "Random Monster",
+        "ru": "Любые мобы"
       }
     }
   ]
