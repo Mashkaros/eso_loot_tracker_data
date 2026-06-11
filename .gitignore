@@ -1,2 +1,6 @@
 tool/*
 template.json
+*.py
+*.sh
+*.txt
+.cache

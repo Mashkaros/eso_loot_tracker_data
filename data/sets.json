@@ -978,5 +978,257 @@
       "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) When you deal damage with a Dawn's Wrath ability, you gain a stack of Sunlight for 15 seconds, once per attack and up to 30 times. Each stack grants 21 Magicka Recovery. When at max stacks, stacks no longer refresh, your Templar skill line abilities deal 25% bonus damage but is reduced to 10% against players, and a Wrathful Nova is cast on the enemy. When Sunlight expires at max stacks, you lose 50% of your current Magicka.",
       "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) При нанесении урона способностью из ветки Ярость рассвета вы на 15 сек. получаете заряд эффекта Солнечный свет (не чаще чем один раз за атаку; максимальное количество зарядов — 30). Каждый заряд увеличивает ваше восстановление магии на 21. При максимальном количестве зарядов эффект перестает обновляться. Ваши способности храмовника наносят на 25% больше урона (игрокам — на 10%) а к противнику применяется способность Яростная новая звезда. Если действие эффекта Солнечный свет заканчивается при максимальном количестве зарядов вы теряете 50% от текущего запаса магии."
     }
+  },
+  {
+    "id": "set.hundings_rage",
+    "type": "usual",
+    "farm_way": "craft",
+    "weight": "mixed",
+    "name": {
+      "en": "Hunding's Rage",
+      "ru": "Ярость Хандинга"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 1096 Maximum Stamina(4 items) Adds 657 Critical Chance(5 items) Adds 300 Weapon and Spell Damage",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Макс. запас сил +1096(4 предмета) Шанс крит. удара +657(5 предметов) Сила оружия и заклинаний +300"
+    }
+  },
+  {
+    "id": "set.night_mothers_gaze",
+    "type": "usual",
+    "farm_way": "craft",
+    "weight": "mixed",
+    "name": {
+      "en": "Night Mother's Gaze",
+      "ru": "Взгляд Матери Ночи"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 657 Critical Chance(5 items) When you deal Critical Damage you apply Major Breach to the enemy, reducing their Physical and Spell Resistance by 5948 for 4 seconds.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Сила оружия и заклинаний +129(4 предмета) Шанс крит. удара +657(5 предметов) При нанесении критического урона вы накладываете на противника эффект Великий прорыв снижая его физическую и магическую сопротивляемость на 5948 на 4сек."
+    }
+  },
+  {
+    "id": "set.seventh_legion_brute",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Seventh Legion Brute",
+      "ru": "Громила Седьмого легиона"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 129 Health Recovery(4 items) Adds 657 Critical Chance(5 items) When you cast an ability that grants Major or Minor Resolve while in combat, you gain 341 Weapon and Spell Damage and 341 Health Recovery for 15 seconds. This effect can occur every 15 seconds.",
+      "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Восст. здоровья +129(4 предмета) Шанс крит. удара +657(5 предметов) При применении в бою способности которая накладывает эффекты Великая решимость или Малая решимость ваша сила оружия и заклинаний увеличивается на 341 а восстановление здоровья— на341 на15сек. Этот эффект может срабатывать не чаще чем раз в15сек."
+    }
+  },
+  {
+    "id": "set.spriggans_thorns",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Spriggan's Thorns",
+      "ru": "Шипы сприггана"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 1096 Maximum Stamina(4 items) Adds 129 Weapon and Spell Damage(5 items) Adds 3460 Offensive Penetration",
+      "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Макс. запас сил +1096(4 предмета) Сила оружия и заклинаний +129(5 предметов) Пробивание +3460"
+    }
+  },
+  {
+    "id": "set.vampire_lord",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Vampire Lord",
+      "ru": "Вампир-лорд"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 657 Critical Chance(5 items) Increases the bonuses and penalties of your Vampire Stage, depending on how far you've progressed. Stage 1/2/3/4 1%/2%/4%/6% additional Flame Damage Taken. 1%/2%/4%/6% increased Regular Ability cost. 5%/10%/15%/20% reduced Vampire Ability cost.",
+      "ru": "(2 предмета) Макс. магия +1096(3 предмета) Сила оружия и заклинаний +129(4 предмета) Шанс крит. удара +657(5 предметов) Бонусы и штрафы стадий вампиризма увеличиваются в зависимости от текущей стадии. Стадия 1/2/3/4 Урон получаемый от огня увеличивается на 1%/2%/4%/6%. Стоимость обычных способностей увеличивается на 1%/2%/4%/6%. Стоимость вампирских способностей уменьшается на 5%/10%/15%/20%."
+    }
+  },
+  {
+    "id": "set.willows_path",
+    "type": "usual",
+    "farm_way": "craft",
+    "weight": "mixed",
+    "name": {
+      "en": "Willow's Path",
+      "ru": "Ивовая тропа"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Magicka Recovery(3 items) Adds 129 Stamina Recovery(4 items) Adds 129 Health Recovery(5 items) Increases your Health, Magicka, and Stamina Recovery by 18%.",
+      "ru": "(2 предмета) Восст. магии +129(3 предмета) Восст. запаса сил +129(4 предмета) Восст. здоровья +129(5 предметов) Восстановление здоровья магии и запаса сил увеличивается на18%."
+    }
+  },
+  {
+    "id": "set.bone_pirates_tatters",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Bone Pirate's Tatters",
+      "ru": "Лохмотья костяного пирата"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 129 Stamina Recovery(4 items) Adds 1096 Maximum Stamina(5 items) While you have a drink buff active, your Max Stamina is increased by 2000 and Stamina Recovery by 133.",
+      "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Восст. запаса сил +129(4 предмета) Макс. запас сил +1096(5 предметов) Пока на вас действует положительный эффект от напитка ваш максимальный запас сил увеличивается на 2000ед. а восстановление запаса сил— на 133."
+    }
+  },
+  {
+    "id": "set.knight_errants_mail",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Knight-Errant's Mail",
+      "ru": "Доспех странствующего рыцаря"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 1096 Maximum Stamina(4 items) Adds 129 Weapon and Spell Damage(5 items) Adds 450 Weapon and Spell Damage to your One Hand and Shield abilities. When you use a One Hand and Shield ability, you heal for 1537 Health .",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Макс. запас сил +1096(4 предмета) Сила оружия и заклинаний +129(5 предметов) Сила оружия и заклинаний для ваших способностей из ветки Одноручное оружие и щит увеличивается на 450. При использовании способностей из ветки Одноручное оружие и щит вы исцеляетесь на 1537."
+    }
+  },
+  {
+    "id": "set.pirate_skeleton",
+    "type": "monster",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Pirate Skeleton",
+      "ru": "Скелет-пират"
+    },
+    "bonuses": {
+      "en": "(1 item) Adds 1487 Armor(2 items) When you take damage, you transform into a skeleton and gain Major Protection and Minor Defile for 15 seconds, reducing your damage taken by 10% but reducing your healing received and damage shield strength by 6%. This effect can occur once every 20 seconds.",
+      "ru": "(1 предмет) Броня +1487(2 предмета) При получении урона вы превращаетесь в скелета и на15сек. получаете эффекты Великая защита и Малое осквернение. Эффекты уменьшают получаемый вами урон на10% но при этом на6% уменьшают получаемое вами лечение и прочность щитов. Этот эффект может срабатывать не чаще чем разв20сек."
+    }
+  },
+  {
+    "id": "set.undaunted_unweaver",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Undaunted Unweaver",
+      "ru": "Развоплотитель Неустрашимых"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 1096 Maximum Magicka(4 items) Adds 657 Critical Chance(5 items) When you use an ability that costs Stamina while in combat, you increase the damage of your Light and Heavy Attacks against monsters by 1645 for 10 seconds.",
+      "ru": "(2 предмета) Макс. магия +1096(3 предмета) Макс. магия +1096(4 предмета) Шанс крит. удара +657(5 предметов) После использования в бою способности расходующей запас сил ваши обычные и силовые атаки наносят 1645ед. дополнительного урона монстрам в течение 10сек."
+    }
+  },
+  {
+    "id": "set.caluurions_legacy",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Caluurion's Legacy",
+      "ru": "Наследие Калуриона"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 657 Critical Chance(5 items) When you deal Critical Damage with a Light or Heavy Attack, you launch a projectile at your target that deals 895 Flame 895 Frost 895 Shock, or 895 Disease damage and applies the respective status effect. This effect can occur once every 5 seconds and scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Сила оружия и заклинаний +129(4 предмета) Шанс крит. удара +657(5 предметов) При нанесении критическо895о урона обычно895 или сило895ой атакой вы выпускаете в свою цель снаряд который наносит 1029ед. огненного урона , 1029ед. морозного урона , 1029ед. урона электричеством или 1029ед. болезнетворного урона и накладывает соответствующий эффект состояния. Этот эффект может срабатывать не чаще чем раз в 5сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.thurvokun",
+    "type": "monster",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Thurvokun",
+      "ru": "Турвокун"
+    },
+    "bonuses": {
+      "en": "(1 item) Adds 1206 Maximum Health(2 items) When you take damage from a nearby enemy, you summon a growing pool of desecrated bile for 8 seconds. Enemies in the bile take 195 Disease damage every 1 second and are afflicted with Minor Maim and the Diseased status for 4 seconds, reducing their damage done by 5% and healing received and Health Recovery by 6%. This effect can occur every 16 seconds and the damage scales off your Max Health.",
+      "ru": "(1 предмет) Макс. здоровье +1206(2 предмета) При получении урона от ближайше195о противника вы на 8сек. призываете растущую лужу оскверненной желчи. Противники оказавшиеся в луже получают 212ед. болезнетворного урона раз в 1сек. Кроме того на них на 4сек. накладываются эффекты Малое повреждение и Болезнь которые уменьшают наносимый ими урон на 5% а получаемое ими лечение и восстановление здоровья— на 6%. Эффект может срабатывать не чаще чем раз в 16сек. а количество наносимого им урона зависит от вашего максимального запаса здоровья."
+    }
+  },
+  {
+    "id": "set.trappings_of_invigoration",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Trappings of Invigoration",
+      "ru": "Второе дыхание"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Stamina Recovery(3 items) Adds 1096 Maximum Stamina(4 items) Adds 129 Stamina Recovery(5 items) When you cast an ability that costs resources while under 25% Stamina, you restore 11350 Stamina. This effect can occur once every 45 seconds.",
+      "ru": "(2 предмета) Восст. запаса сил +129(3 предмета) Макс. запас сил +1096(4 предмета) Восст. запаса сил +129(5 предметов) При использовании способности расходующей ресурсы когда у вас меньше 25% запаса сил вы восстанавливаете 11350ед. запаса сил. Этот эффект может срабатывать не чаще чем раз в 45сек."
+    }
+  },
+  {
+    "id": "set.ulfnors_favor",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Ulfnor's Favor",
+      "ru": "Благосклонность Ульфнора"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 129 Magicka Recovery , Adds 129 Stamina Recovery(4 items) Adds 4% Healing Taken(5 items) Increases the Magicka or Stamina your Heavy Attacks restore by 30%.",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Восст. магии +129 , Восст. запаса сил +129(4 предмета) Получаемое лечение +4%(5 предметов) Количество магии и запаса сил восстанавливаемое силовыми атаками увеличивается на 30%."
+    }
+  },
+  {
+    "id": "set.aegis_caller",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Aegis Caller",
+      "ru": "Призыватель стража"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) When you deal critical damage with a Martial melee attack, summon a Lesser Aegis for 11 seconds. After 2.5 seconds, the Lesser Aegis spins its blades, dealing 479 Bleed Damage every 1 second. This effect can occur once every 12 seconds and scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) При нанесении критического боево479о урона в ближнем бою вы на 11сек. призываете младшего стража. Спустя 2,5секунды младший страж начинает вращать клинками вызывая у противника кровотечение которое наносит 550ед. урона раз в 1сек. Этот эффект может срабатывать не чаще чем раз в 12сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.draugrkins_grip",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Draugrkin's Grip",
+      "ru": "Хватка Родичей Драугров"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 1487 Offensive Penetration(4 items) Adds 129 Magicka Recovery(5 items) Increases your damage done by 330 but reduces your healing received by 10%.",
+      "ru": "(2 предмета) Макс. магия +1096(3 предмета) Пробивание +1487(4 предмета) Восст. магии +129(5 предметов) Наносимый вами урон увеличивается на330 а получаемое лечение уменьшается на10%."
+    }
+  },
+  {
+    "id": "set.grave_guardian",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Grave Guardian",
+      "ru": "Защитник Могилы"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 1206 Maximum Health(4 items) Adds 1206 Maximum Health(5 items) Summon a stone aura while you are Bracing, hardening you and your nearby group members, increasing your Physical and Spell Resistance by 4430 .",
+      "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Макс. здоровье +1206(4 предмета) Макс. здоровье +1206(5 предметов) Находясь в защитной стойке вы призываете каменную ауру которая защищает вас и ближайших членов группы увеличивая ваши физическую и магическую сопротивляемости на 4430."
+    }
+  },
+  {
+    "id": "set.kjalnars_nightmare",
+    "type": "monster",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Kjalnar's Nightmare",
+      "ru": "Кошмар Кьялнара"
+    },
+    "bonuses": {
+      "en": "(1 item) Adds 129 Weapon and Spell Damage(2 items) Damaging an enemy with a Light Attack puts a Bone stack on them for 5 seconds, up to once every 0.5 seconds. At 5 stacks, an undodgeable skeletal hand attacks your enemy after 1 second, knocking them into the air and stunning them for 3 seconds, or dealing 2222 Magic damage if they cannot be stunned. Enemies then become immune to Kjalnar's Nightmare stacks for 4 seconds. The damage scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(1 предмет) Сила оружия и заклинаний +129(2 предмета) Нанося противнику урон обычной атакой вы на 5сек. накладываете на не2222о заряд эффекта Кость но не чаще чем раз в 0,5сек. Спустя 1сек. после накопления 5зарядов вашего противника атакует костяная рука от которой невозможно уклониться. Она подбрасывает его в воздух и оглушает на 3сек. а если его нельзя оглушить наносит 2555ед. магического урона . После этого противник получает невосприимчивость к зарядам эффекта Кошмар Кьялнара на 4сек. Количество наносимого урона зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
   }
 ]

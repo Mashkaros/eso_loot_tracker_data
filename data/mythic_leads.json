@@ -401,5 +401,31 @@
       "en": "Random Monster",
       "ru": "Любые мобы"
     }
+  },
+  {
+    "id": "lead.aurmine_ancestral_signet",
+    "mythic_id": "myth.ring_of_the_pale_order",
+    "source_id": "src.bangkorai",
+    "name": {
+      "en": "Aurmine Ancestral Signet",
+      "ru": "Родовая печатка Орминов"
+    },
+    "notes": {
+      "en": "Chests",
+      "ru": "Сундуки, сейфы"
+    }
+  },
+  {
+    "id": "lead.torc_strand_of_song",
+    "mythic_id": "myth.torc_of_tonal_constancy",
+    "source_id": "src.blackheart_haven.normal",
+    "name": {
+      "en": "Torc Strand of Song",
+      "ru": "Шейная нить песни"
+    },
+    "notes": {
+      "en": "Captain Blackheart (Endboss)",
+      "ru": "Групповое подземелье «Гавань Чёрного Сердца», последний босс"
+    }
   }
 ]

@@ -498,5 +498,125 @@
   {
     "set_id": "set.armor_of_the_trainee",
     "source_id": "src.betnikh"
+  },
+  {
+    "set_id": "set.hundings_rage",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.night_mothers_gaze",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.seventh_legion_brute",
+    "source_id": "src.bangkorai"
+  },
+  {
+    "set_id": "set.spriggans_thorns",
+    "source_id": "src.bangkorai"
+  },
+  {
+    "set_id": "set.vampire_lord",
+    "source_id": "src.bangkorai"
+  },
+  {
+    "set_id": "set.willows_path",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.bone_pirates_tatters",
+    "source_id": "src.blackheart_haven.normal"
+  },
+  {
+    "set_id": "set.bone_pirates_tatters",
+    "source_id": "src.blackheart_haven.vet"
+  },
+  {
+    "set_id": "set.knight_errants_mail",
+    "source_id": "src.blackheart_haven.normal"
+  },
+  {
+    "set_id": "set.knight_errants_mail",
+    "source_id": "src.blackheart_haven.vet"
+  },
+  {
+    "set_id": "set.pirate_skeleton",
+    "source_id": "src.blackheart_haven.vet"
+  },
+  {
+    "set_id": "set.pirate_skeleton",
+    "source_id": "src.undaunted_glirion"
+  },
+  {
+    "set_id": "set.undaunted_unweaver",
+    "source_id": "src.blackheart_haven.normal"
+  },
+  {
+    "set_id": "set.undaunted_unweaver",
+    "source_id": "src.blackheart_haven.vet"
+  },
+  {
+    "set_id": "set.caluurions_legacy",
+    "source_id": "src.fang_lair.normal"
+  },
+  {
+    "set_id": "set.caluurions_legacy",
+    "source_id": "src.fang_lair.vet"
+  },
+  {
+    "set_id": "set.thurvokun",
+    "source_id": "src.fang_lair.vet"
+  },
+  {
+    "set_id": "set.thurvokun",
+    "source_id": "src.undaunted_urgarlag"
+  },
+  {
+    "set_id": "set.trappings_of_invigoration",
+    "source_id": "src.fang_lair.normal"
+  },
+  {
+    "set_id": "set.trappings_of_invigoration",
+    "source_id": "src.fang_lair.vet"
+  },
+  {
+    "set_id": "set.ulfnors_favor",
+    "source_id": "src.fang_lair.normal"
+  },
+  {
+    "set_id": "set.ulfnors_favor",
+    "source_id": "src.fang_lair.vet"
+  },
+  {
+    "set_id": "set.aegis_caller",
+    "source_id": "src.unhallowed_grave.normal"
+  },
+  {
+    "set_id": "set.aegis_caller",
+    "source_id": "src.unhallowed_grave.vet"
+  },
+  {
+    "set_id": "set.draugrkins_grip",
+    "source_id": "src.unhallowed_grave.normal"
+  },
+  {
+    "set_id": "set.draugrkins_grip",
+    "source_id": "src.unhallowed_grave.vet"
+  },
+  {
+    "set_id": "set.grave_guardian",
+    "source_id": "src.unhallowed_grave.normal"
+  },
+  {
+    "set_id": "set.grave_guardian",
+    "source_id": "src.unhallowed_grave.vet"
+  },
+  {
+    "set_id": "set.kjalnars_nightmare",
+    "source_id": "src.unhallowed_grave.vet"
+  },
+  {
+    "set_id": "set.kjalnars_nightmare",
+    "source_id": "src.undaunted_urgarlag"
   }
 ]

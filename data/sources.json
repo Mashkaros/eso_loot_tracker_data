@@ -254,5 +254,61 @@
       "en": "Betnikh",
       "ru": "Бетник"
     }
+  },
+  {
+    "id": "src.bangkorai",
+    "type": "overland",
+    "name": {
+      "en": "Bangkorai",
+      "ru": "Банкорай"
+    }
+  },
+  {
+    "id": "src.blackheart_haven.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Blackheart Haven Normal",
+      "ru": "Гавань Черного Сердца Обычное"
+    }
+  },
+  {
+    "id": "src.blackheart_haven.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Blackheart Haven Vet",
+      "ru": "Гавань Черного Сердца Ветеранское"
+    }
+  },
+  {
+    "id": "src.fang_lair.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Fang lair Normal",
+      "ru": "Логово Клыка Обычное"
+    }
+  },
+  {
+    "id": "src.fang_lair.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Fang lair Vet",
+      "ru": "Логово Клыка Ветеранское"
+    }
+  },
+  {
+    "id": "src.unhallowed_grave.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Unhallowed Grave Normal",
+      "ru": "Нечестивая Могила Обычное"
+    }
+  },
+  {
+    "id": "src.unhallowed_grave.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Unhallowed Grave Vet",
+      "ru": "Нечестивая Могила Ветеранское"
+    }
   }
 ]
