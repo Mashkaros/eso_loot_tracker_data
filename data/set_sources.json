@@ -670,5 +670,125 @@
   {
     "set_id": "set.the_worms_raiment",
     "source_id": "src.vaults_of_madness.vet"
+  },
+  {
+    "set_id": "set.fortified_brass",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.innate_axiom",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.livewire",
+    "source_id": "src.clockwork_city"
+  },
+  {
+    "set_id": "set.mad_tinkerer",
+    "source_id": "src.clockwork_city"
+  },
+  {
+    "set_id": "set.mechanical_acuity",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.unfathomable_darkness",
+    "source_id": "src.clockwork_city"
+  },
+  {
+    "set_id": "set.chaotic_whirlwind",
+    "source_id": "src.asylum_sanctorium.normal"
+  },
+  {
+    "set_id": "set.chaotic_whirlwind",
+    "source_id": "src.asylum_sanctorium.vet"
+  },
+  {
+    "set_id": "set.concentrated_force",
+    "source_id": "src.asylum_sanctorium.normal"
+  },
+  {
+    "set_id": "set.concentrated_force",
+    "source_id": "src.asylum_sanctorium.vet"
+  },
+  {
+    "set_id": "set.defensive_position",
+    "source_id": "src.asylum_sanctorium.normal"
+  },
+  {
+    "set_id": "set.defensive_position",
+    "source_id": "src.asylum_sanctorium.vet"
+  },
+  {
+    "set_id": "set.disciplined_slash",
+    "source_id": "src.asylum_sanctorium.normal"
+  },
+  {
+    "set_id": "set.disciplined_slash",
+    "source_id": "src.asylum_sanctorium.vet"
+  },
+  {
+    "set_id": "set.perfected_chaotic_whirlwind",
+    "source_id": "src.asylum_sanctorium.vet"
+  },
+  {
+    "set_id": "set.perfected_concentrated_force",
+    "source_id": "src.asylum_sanctorium.vet"
+  },
+  {
+    "set_id": "set.perfected_defensive_position",
+    "source_id": "src.asylum_sanctorium.vet"
+  },
+  {
+    "set_id": "set.perfected_disciplined_slash",
+    "source_id": "src.asylum_sanctorium.vet"
+  },
+  {
+    "set_id": "set.piercing_spray",
+    "source_id": "src.asylum_sanctorium.normal"
+  },
+  {
+    "set_id": "set.piercing_spray",
+    "source_id": "src.asylum_sanctorium.vet"
+  },
+  {
+    "set_id": "set.timeless_blessing",
+    "source_id": "src.asylum_sanctorium.normal"
+  },
+  {
+    "set_id": "set.timeless_blessing",
+    "source_id": "src.asylum_sanctorium.vet"
+  },
+  {
+    "set_id": "set.perfected_piercing_spray",
+    "source_id": "src.asylum_sanctorium.vet"
+  },
+  {
+    "set_id": "set.perfected_timeless_blessing",
+    "source_id": "src.asylum_sanctorium.vet"
+  },
+  {
+    "set_id": "set.livewire",
+    "source_id": "src.asylum_sanctorium.normal"
+  },
+  {
+    "set_id": "set.mad_tinkerer",
+    "source_id": "src.asylum_sanctorium.normal"
+  },
+  {
+    "set_id": "set.unfathomable_darkness",
+    "source_id": "src.asylum_sanctorium.normal"
+  },
+  {
+    "set_id": "set.livewire",
+    "source_id": "src.asylum_sanctorium.vet"
+  },
+  {
+    "set_id": "set.mad_tinkerer",
+    "source_id": "src.asylum_sanctorium.vet"
+  },
+  {
+    "set_id": "set.unfathomable_darkness",
+    "source_id": "src.asylum_sanctorium.vet"
   }
 ]

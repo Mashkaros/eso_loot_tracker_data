@@ -1,6 +1,6 @@
 {
-  "version": "2026-06-12.2",
-  "generated_at": "2026-06-12T10:52:17Z",
+  "version": "2026-06-12.3",
+  "generated_at": "2026-06-12T11:38:26Z",
   "sources": [
     {
       "id": "src.crafting_station",
@@ -344,6 +344,30 @@
       "name": {
         "en": "Vaults of Madness Vet",
         "ru": "Своды Безумия Ветеранское"
+      }
+    },
+    {
+      "id": "src.clockwork_city",
+      "type": "overland",
+      "name": {
+        "en": "Clockwork City",
+        "ru": "Заводной город"
+      }
+    },
+    {
+      "id": "src.asylum_sanctorium.normal",
+      "type": "trial",
+      "name": {
+        "en": "Asylum Sanctorium Normal",
+        "ru": "Изоляционный санктуарий Обычное"
+      }
+    },
+    {
+      "id": "src.asylum_sanctorium.vet",
+      "type": "trial",
+      "name": {
+        "en": "Asylum Sanctorium Vet",
+        "ru": "Изоляционный санктуарий Ветеранское"
       }
     }
   ],
@@ -1705,6 +1729,258 @@
         "en": "(2 items) Adds 129 Magicka Recovery(3 items) Adds 1096 Maximum Magicka(4 items) Adds 129 Magicka Recovery(5 items) Grants 145 Magicka Recovery to you and up to 11 other group members within 28 meters of you. This bonus persists through death.",
         "ru": "(2 предмета) Восст. магии +129(3 предмета) Макс. магия +1096(4 предмета) Восст. магии +129(5 предметов) Восстановление магии увеличивается на 145 у вас и 11других членов вашей группы в пределах 28метров от вас. Этот бонус будет действовать до вашей гибели."
       }
+    },
+    {
+      "id": "set.fortified_brass",
+      "type": "usual",
+      "farm_way": "craft",
+      "weight": "mixed",
+      "name": {
+        "en": "Fortified Brass",
+        "ru": "Прочная латунь"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 1487 Armor(4 items) Adds 1487 Armor(5 items) Adds 3460 Armor",
+        "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Броня +1487(4 предмета) Броня +1487(5 предметов) Броня +3460"
+      }
+    },
+    {
+      "id": "set.innate_axiom",
+      "type": "usual",
+      "farm_way": "craft",
+      "weight": "mixed",
+      "name": {
+        "en": "Innate Axiom",
+        "ru": "Врожденная аксиома"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 1096 Maximum Magicka , Adds 1096 Maximum Stamina(4 items) Adds 657 Critical Chance(5 items) Adds 400 Weapon and Spell Damage to your Class abilities.",
+        "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Макс. магия +1096 , Макс. запас сил +1096(4 предмета) Шанс крит. удара +657(5 предметов) Сила оружия и заклинаний для ваших классовых способностей увеличивается на400."
+      }
+    },
+    {
+      "id": "set.livewire",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "heavy",
+      "name": {
+        "en": "Livewire",
+        "ru": "Высокое напряжение"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 4% Healing Taken(3 items) Adds 1206 Maximum Health(4 items) Adds 4% Healing Taken(5 items) When you take damage, you overload your circuits, applying Concussion to enemies within 8 meters of you and healing for 1000 Health for each enemy hit. This effect can occur once every 6 seconds.",
+        "ru": "(2 предмета) Получаемое лечение +4%(3 предмета) Макс. здоровье +1206(4 предмета) Получаемое лечение +4%(5 предметов) При получении урона вы перегрузив свои цепи контузите противников в пределах 8метров от вас и исцеляетесь на 1000ед. здоровья за каждого пораженного противника. Этот эффект может срабатывать не чаще чем раз в 6сек."
+      }
+    },
+    {
+      "id": "set.mad_tinkerer",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "light",
+      "name": {
+        "en": "Mad Tinkerer",
+        "ru": "Безумный изобретатель"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) When you deal damage, you summon a Verminous Fabricant that charges forward, dealing 1505 Shock Damage to all enemies in its path, and knocking up to 6 into the air, stunning them for 2 seconds. This effect can occur once every 8 seconds and scales off the higher of your Weapon or Spell Damage.",
+        "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) При нанесении урона вы призываете мерзкого фабриканта который несется вперед нанося 1730ед. электрического урона всем противникам у себя на пути и подбрасывает до 6противников в воздух оглушая их на2сек. Этот эффект может срабатывать не чаще чем раз в8сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+      }
+    },
+    {
+      "id": "set.mechanical_acuity",
+      "type": "usual",
+      "farm_way": "craft",
+      "weight": "mixed",
+      "name": {
+        "en": "Mechanical Acuity",
+        "ru": "Механическая точность"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 1096 Maximum Magicka(4 items) Adds 129 Weapon and Spell Damage(5 items) When you deal non Critical Damage, you gain a stack of Mechanical Acuity for 4 seconds, granting you 20% Critical Strike chance per stack, up to once every 1 second and stacking up to 5 times. Upon reaching max stacks or after the effect ends, this effect cannot occur again for 25 seconds.",
+        "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Макс. магия +1096(4 предмета) Сила оружия и заклинаний +129(5 предметов) При нанесении обычного не критического урона вы на 4сек. получаете заряд эффекта Механическая точность увеличивающий ваш шанс критического удара на 20%. Заряды можно получать не чаще чем раз в 1сек. Всего можно накопить до 5зарядов. После достижения максимального количества зарядов или окончания действия эффект сможет сработать повторно не ранее чем через 25сек."
+      }
+    },
+    {
+      "id": "set.unfathomable_darkness",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "medium",
+      "name": {
+        "en": "Unfathomable Darkness",
+        "ru": "Непроницаемая тьма"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 1487 Offensive Penetration(4 items) Adds 129 Weapon and Spell Damage(5 items) When you deal damage, you call a murder of crows around you for 12 seconds. Every 3 seconds a crow will be sent to peck the closest enemy within 12 meters of you, dealing 872 Physical Damage . This effect can occur once every 15 seconds and scales off the higher of your Weapon or Spell Damage.",
+        "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Пробивание +1487(4 предмета) Сила оружия и заклинаний +129(5 предметов) При нанесении урона вы призываете стаю 872орон которые будут кружиться вокруг вас в течение 12сек. Раз в 3сек. одна из ворон будет клевать ближайшего противника в пределах 12метров от вас нанося 1002ед. физического урона . Этот эффект может срабатывать не чаще чем раз в 15сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+      }
+    },
+    {
+      "id": "set.chaotic_whirlwind",
+      "type": "weapon",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Chaotic Whirlwind",
+        "ru": "Хаотичный вихрь"
+      },
+      "bonuses": {
+        "en": "(2 items) When you cast Whirlwind while in combat, you gain a stack of Chaotic Whirlwind for 5 seconds, granting you 5% Movement Speed per stack, up to a maximum of 5 times. While Chaotic Whirlwind is active, you gain 6 Weapon and Spell Damage for every 1% bonus Movement Speed you have, up to a maximum of 450. At 5 stacks, the duration doubles but cannot be refreshed.",
+        "ru": "(2 предмета) При каждом применении способности Вихрь во время боя вы на 5сек. получаете заряд эффекта Хаотичный вихрь повышающий вашу скорость передвижения на 5% вплоть до 5раз. Пока действует эффект Хаотичный вихрь ваша сила оружия и заклинаний увеличивается на 6 за каждый процент полученной прибавки к скорости передвижения но не более чем на 450. При накоплении 5зарядов продолжительность действия эффекта удваивается но ее больше нельзя обновить"
+      }
+    },
+    {
+      "id": "set.concentrated_force",
+      "type": "weapon",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Concentrated Force",
+        "ru": "Концентрированная сила"
+      },
+      "bonuses": {
+        "en": "(2 items) Every second cast of Force Shock will always apply the Burning, Concussion, and Chilled status effects. The Force Shock casts must be made within 5 seconds of each other for this effect to occur.",
+        "ru": "(2 предмета) Каждое второе применение способности Удар стихий всегда накладывает эффекты состояния Горение Контузия и Обморожение. Чтобы этот эффект сработал между применениями Удара стихий должно пройти не больше 5сек."
+      }
+    },
+    {
+      "id": "set.defensive_position",
+      "type": "weapon",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Defensive Position",
+        "ru": "Оборонительная позиция"
+      },
+      "bonuses": {
+        "en": "(2 items) When you reflect or absorb a spell projectile with Defensive Posture, you restore 2200 Magicka. If Defensive Posture expires without reflecting or absorbing a spell projectile, you restore 6600 Magicka instead.",
+        "ru": "(2 предмета) При отражении или поглощении снаряда заклинания с помощью способности Оборонительная стойка вы восстанавливаете 2200ед. магии. Если действие Оборонительной стойки заканчивается но вы так и не отразили и не поглотили ни одного снаряда заклинания вы восстанавливаете 6600ед. магии."
+      }
+    },
+    {
+      "id": "set.disciplined_slash",
+      "type": "weapon",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Disciplined Slash",
+        "ru": "Выверенный удар"
+      },
+      "bonuses": {
+        "en": "(2 items) When you deal damage with Reverse Slash, you generate up to 12 Ultimate based on how much execute bonus damage it dealt.",
+        "ru": "При нанесении урона способностью Круговой удар вы получаете до 12очков суперспособности в зависимости от того сколько дополнительного добивающего урона она нанесла."
+      }
+    },
+    {
+      "id": "set.perfected_chaotic_whirlwind",
+      "type": "weapon",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Perfected Chaotic Whirlwind",
+        "ru": "Совершенный хаотичный вихрь"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 526 Critical Chance, When you cast Whirlwind while in combat, you gain a stack of Chaotic Whirlwind for 5 seconds, granting you 5% Movement Speed per stack, up to a maximum of 5 times. While Chaotic Whirlwind is active, you gain 6 Weapon and Spell Damage for every 1% bonus Movement Speed you have, up to a maximum of 450. At 5 stacks, the duration doubles but cannot be refreshed.",
+        "ru": "(2 предмета) Шанс крит. удара +526, При каждом применении способности Вихрь во время боя вы на 5сек. получаете заряд эффекта Хаотичный вихрь повышающий вашу скорость передвижения на 5% вплоть до 5раз. Пока действует эффект Хаотичный вихрь ваша сила оружия и заклинаний увеличивается на 6 за каждый процент полученной прибавки к скорости передвижения но не более чем на 450. При накоплении 5зарядов продолжительность действия эффекта удваивается но ее больше нельзя обновить."
+      }
+    },
+    {
+      "id": "set.perfected_concentrated_force",
+      "type": "weapon",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Perfected Concentrated Force",
+        "ru": "Совершенная концентрированная сила"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 103 Weapon and Spell Damage, Every second cast of Force Shock will always apply the Burning, Concussion, and Chilled status effects. The Force Shock casts must be made within 5 seconds of each other for this effect to occur.",
+        "ru": "(2 предмета) Сила оружия и заклинаний +103, Каждое второе применение способности Удар стихий всегда накладывает эффекты состояния Горение Контузия и Обморожение. Чтобы этот эффект сработал между применениями Удара стихий должно пройти не больше 5сек."
+      }
+    },
+    {
+      "id": "set.perfected_defensive_position",
+      "type": "weapon",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Perfected Defensive Position",
+        "ru": "Совершенная оборонительная позиция"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 103 Stamina Recovery, When you reflect or absorb a spell projectile with Defensive Posture, you restore 2200 Magicka. If Defensive Posture expires without reflecting or absorbing a spell projectile, you restore 6600 Magicka instead.",
+        "ru": "(2 предмета) Восст. запаса сил +103, При отражении или поглощении снаряда заклинания с помощью способности Оборонительная стойка вы восстанавливаете 2200ед. магии. Если действие Оборонительной стойки заканчивается но вы так и не отразили и не поглотили ни одного снаряда заклинания вы восстанавливаете 6600ед. магии."
+      }
+    },
+    {
+      "id": "set.perfected_disciplined_slash",
+      "type": "weapon",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Perfected Disciplined Slash",
+        "ru": "Совершенный выверенный удар"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 877 Maximum Stamina, When you deal damage with Reverse Slash, you generate up to 12 Ultimate based on how much execute bonus damage it dealt.",
+        "ru": "(2 предмета) Макс. запас сил +877, При нанесении урона способностью Круговой удар вы получаете до 12очков суперспособности в зависимости от того сколько дополнительного добивающего урона она нанесла."
+      }
+    },
+    {
+      "id": "set.piercing_spray",
+      "type": "weapon",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Piercing Spray",
+        "ru": "Пробивающий веер"
+      },
+      "bonuses": {
+        "en": "(2 items) When you deal damage with Arrow Spray, you cause enemies hit to have 6600 less Armor against Bow attacks for 10 seconds.",
+        "ru": "(2 предмета) При нанесении урона способностью Веер стрел показатель брони пораженных противников против атак луком уменьшается на 6600 на 10сек."
+      }
+    },
+    {
+      "id": "set.perfected_piercing_spray",
+      "type": "weapon",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Perfected Piercing Spray",
+        "ru": "Совершенный пробивающий веер"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1190 Offensive Penetration, When you deal damage with Arrow Spray, you cause enemies hit to have 6600 less Armor against Bow attacks for 10 seconds.",
+        "ru": "(2 предмета) Пробивание +1190, При нанесении урона способностью Веер стрел показатель брони пораженных противников против атак луком уменьшается на 6600 на 10сек."
+      }
+    },
+    {
+      "id": "set.timeless_blessing",
+      "type": "weapon",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Timeless Blessing",
+        "ru": "Бесконечное благословение"
+      },
+      "bonuses": {
+        "en": "(2 items) When you cast Blessing of Protection, the cost of your Magicka and Stamina healing abilities are reduced by 21% for 3 seconds.",
+        "ru": "(2 предмета) При использовании способности Благословение защиты стоимость ваших исцеляющих способностей расходующих магию или запас сил уменьшается на 21% на 3сек."
+      }
+    },
+    {
+      "id": "set.perfected_timeless_blessing",
+      "type": "weapon",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Perfected Timeless Blessing",
+        "ru": "Совершенное бесконечное благословение"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 877 Maximum Magicka, When you cast Blessing of Protection, the cost of your Magicka and Stamina healing abilities are reduced by 21% for 3 seconds.",
+        "ru": "(2 предмета) Макс. магия +877, При использовании способности Благословение защиты стоимость ваших исцеляющих способностей расходующих магию или запас сил уменьшается на 21% на 3сек."
+      }
     }
   ],
   "set_sources": [
@@ -2547,6 +2823,156 @@
       "id": "ss.set.the_worms_raiment.src.vaults_of_madness.vet",
       "set_id": "set.the_worms_raiment",
       "source_id": "src.vaults_of_madness.vet"
+    },
+    {
+      "id": "ss.set.fortified_brass.src.crafting_station",
+      "set_id": "set.fortified_brass",
+      "source_id": "src.crafting_station"
+    },
+    {
+      "id": "ss.set.innate_axiom.src.crafting_station",
+      "set_id": "set.innate_axiom",
+      "source_id": "src.crafting_station"
+    },
+    {
+      "id": "ss.set.livewire.src.clockwork_city",
+      "set_id": "set.livewire",
+      "source_id": "src.clockwork_city"
+    },
+    {
+      "id": "ss.set.mad_tinkerer.src.clockwork_city",
+      "set_id": "set.mad_tinkerer",
+      "source_id": "src.clockwork_city"
+    },
+    {
+      "id": "ss.set.mechanical_acuity.src.crafting_station",
+      "set_id": "set.mechanical_acuity",
+      "source_id": "src.crafting_station"
+    },
+    {
+      "id": "ss.set.unfathomable_darkness.src.clockwork_city",
+      "set_id": "set.unfathomable_darkness",
+      "source_id": "src.clockwork_city"
+    },
+    {
+      "id": "ss.set.chaotic_whirlwind.src.asylum_sanctorium.normal",
+      "set_id": "set.chaotic_whirlwind",
+      "source_id": "src.asylum_sanctorium.normal"
+    },
+    {
+      "id": "ss.set.chaotic_whirlwind.src.asylum_sanctorium.vet",
+      "set_id": "set.chaotic_whirlwind",
+      "source_id": "src.asylum_sanctorium.vet"
+    },
+    {
+      "id": "ss.set.concentrated_force.src.asylum_sanctorium.normal",
+      "set_id": "set.concentrated_force",
+      "source_id": "src.asylum_sanctorium.normal"
+    },
+    {
+      "id": "ss.set.concentrated_force.src.asylum_sanctorium.vet",
+      "set_id": "set.concentrated_force",
+      "source_id": "src.asylum_sanctorium.vet"
+    },
+    {
+      "id": "ss.set.defensive_position.src.asylum_sanctorium.normal",
+      "set_id": "set.defensive_position",
+      "source_id": "src.asylum_sanctorium.normal"
+    },
+    {
+      "id": "ss.set.defensive_position.src.asylum_sanctorium.vet",
+      "set_id": "set.defensive_position",
+      "source_id": "src.asylum_sanctorium.vet"
+    },
+    {
+      "id": "ss.set.disciplined_slash.src.asylum_sanctorium.normal",
+      "set_id": "set.disciplined_slash",
+      "source_id": "src.asylum_sanctorium.normal"
+    },
+    {
+      "id": "ss.set.disciplined_slash.src.asylum_sanctorium.vet",
+      "set_id": "set.disciplined_slash",
+      "source_id": "src.asylum_sanctorium.vet"
+    },
+    {
+      "id": "ss.set.perfected_chaotic_whirlwind.src.asylum_sanctorium.vet",
+      "set_id": "set.perfected_chaotic_whirlwind",
+      "source_id": "src.asylum_sanctorium.vet"
+    },
+    {
+      "id": "ss.set.perfected_concentrated_force.src.asylum_sanctorium.vet",
+      "set_id": "set.perfected_concentrated_force",
+      "source_id": "src.asylum_sanctorium.vet"
+    },
+    {
+      "id": "ss.set.perfected_defensive_position.src.asylum_sanctorium.vet",
+      "set_id": "set.perfected_defensive_position",
+      "source_id": "src.asylum_sanctorium.vet"
+    },
+    {
+      "id": "ss.set.perfected_disciplined_slash.src.asylum_sanctorium.vet",
+      "set_id": "set.perfected_disciplined_slash",
+      "source_id": "src.asylum_sanctorium.vet"
+    },
+    {
+      "id": "ss.set.piercing_spray.src.asylum_sanctorium.normal",
+      "set_id": "set.piercing_spray",
+      "source_id": "src.asylum_sanctorium.normal"
+    },
+    {
+      "id": "ss.set.piercing_spray.src.asylum_sanctorium.vet",
+      "set_id": "set.piercing_spray",
+      "source_id": "src.asylum_sanctorium.vet"
+    },
+    {
+      "id": "ss.set.timeless_blessing.src.asylum_sanctorium.normal",
+      "set_id": "set.timeless_blessing",
+      "source_id": "src.asylum_sanctorium.normal"
+    },
+    {
+      "id": "ss.set.timeless_blessing.src.asylum_sanctorium.vet",
+      "set_id": "set.timeless_blessing",
+      "source_id": "src.asylum_sanctorium.vet"
+    },
+    {
+      "id": "ss.set.perfected_piercing_spray.src.asylum_sanctorium.vet",
+      "set_id": "set.perfected_piercing_spray",
+      "source_id": "src.asylum_sanctorium.vet"
+    },
+    {
+      "id": "ss.set.perfected_timeless_blessing.src.asylum_sanctorium.vet",
+      "set_id": "set.perfected_timeless_blessing",
+      "source_id": "src.asylum_sanctorium.vet"
+    },
+    {
+      "id": "ss.set.livewire.src.asylum_sanctorium.normal",
+      "set_id": "set.livewire",
+      "source_id": "src.asylum_sanctorium.normal"
+    },
+    {
+      "id": "ss.set.mad_tinkerer.src.asylum_sanctorium.normal",
+      "set_id": "set.mad_tinkerer",
+      "source_id": "src.asylum_sanctorium.normal"
+    },
+    {
+      "id": "ss.set.unfathomable_darkness.src.asylum_sanctorium.normal",
+      "set_id": "set.unfathomable_darkness",
+      "source_id": "src.asylum_sanctorium.normal"
+    },
+    {
+      "id": "ss.set.livewire.src.asylum_sanctorium.vet",
+      "set_id": "set.livewire",
+      "source_id": "src.asylum_sanctorium.vet"
+    },
+    {
+      "id": "ss.set.mad_tinkerer.src.asylum_sanctorium.vet",
+      "set_id": "set.mad_tinkerer",
+      "source_id": "src.asylum_sanctorium.vet"
+    },
+    {
+      "id": "ss.set.unfathomable_darkness.src.asylum_sanctorium.vet",
+      "set_id": "set.unfathomable_darkness",
+      "source_id": "src.asylum_sanctorium.vet"
     }
   ],
   "mythics": [

@@ -342,5 +342,29 @@
       "en": "Vaults of Madness Vet",
       "ru": "Своды Безумия Ветеранское"
     }
+  },
+  {
+    "id": "src.clockwork_city",
+    "type": "overland",
+    "name": {
+      "en": "Clockwork City",
+      "ru": "Заводной город"
+    }
+  },
+  {
+    "id": "src.asylum_sanctorium.normal",
+    "type": "trial",
+    "name": {
+      "en": "Asylum Sanctorium Normal",
+      "ru": "Изоляционный санктуарий Обычное"
+    }
+  },
+  {
+    "id": "src.asylum_sanctorium.vet",
+    "type": "trial",
+    "name": {
+      "en": "Asylum Sanctorium Vet",
+      "ru": "Изоляционный санктуарий Ветеранское"
+    }
   }
 ]
