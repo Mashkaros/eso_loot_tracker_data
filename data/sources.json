@@ -318,5 +318,29 @@
       "en": "Blackreach: Arkthzand Cavern",
       "ru": "Черный предел: Пещера Арктзанда"
     }
+  },
+  {
+    "id": "src.coldharbour",
+    "type": "overland",
+    "name": {
+      "en": "Coldharbour",
+      "ru": "Хладная Гавань"
+    }
+  },
+  {
+    "id": "src.vaults_of_madness.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Vaults of Madness Normal",
+      "ru": "Своды Безумия Обычное"
+    }
+  },
+  {
+    "id": "src.vaults_of_madness.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Vaults of Madness Vet",
+      "ru": "Своды Безумия Ветеранское"
+    }
   }
 ]

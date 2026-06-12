@@ -440,5 +440,57 @@
       "en": "Nighthollow Keep (East side of the map) Follow the way, down the stairs on the right, read the 'Ancient Text' paper on the table. (Long Respawn Time)",
       "ru": "Чёрный Предел: пещера Арктзанда — Крепость Ночной Пустоты, на столе"
     }
+  },
+  {
+    "id": "lead.gloamium_ring_bearing",
+    "mythic_id": "myth.monomyth_reforged",
+    "source_id": "src.coldharbour",
+    "name": {
+      "en": "Gloamium Ring Bearing",
+      "ru": "Подвижное кольцо из сумрачного металла"
+    },
+    "notes": {
+      "en": "Coldharbour zone, Aba Darre World Boss",
+      "ru": "Мировой босс «Аба-Дарре»"
+    }
+  },
+  {
+    "id": "lead.morpholith_shank",
+    "mythic_id": "myth.markyn_ring",
+    "source_id": "src.coldharbour",
+    "name": {
+      "en": "Morpholith Shank",
+      "ru": "Морфолитовый ободок"
+    },
+    "notes": {
+      "en": "Treasure chests",
+      "ru": "Сундуки"
+    }
+  },
+  {
+    "id": "lead.sanguine_doublet",
+    "mythic_id": "myth.bloodlords_embrace",
+    "source_id": "src.coldharbour",
+    "name": {
+      "en": "Sanguine Doublet",
+      "ru": "Кровавый дублет"
+    },
+    "notes": {
+      "en": "Public Dungeon Bosses Village of the Lost",
+      "ru": "Открытое подземелье «Поселение Забытых», любые боссы"
+    }
+  },
+  {
+    "id": "lead.chain_of_the_bone_goliath",
+    "mythic_id": "myth.shapeshifters_chain",
+    "source_id": "src.vaults_of_madness.normal",
+    "name": {
+      "en": "Chain of the Bone Goliath",
+      "ru": "Цепочка костяного исполина"
+    },
+    "notes": {
+      "en": "Vaults of Madness Dungeon last boss",
+      "ru": "Групповое подземелье «Своды Безумия», последний босс"
+    }
   }
 ]

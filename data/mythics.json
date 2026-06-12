@@ -202,5 +202,29 @@
       "en": "(1 item) Increases your damage done by 16% but decreases your Critical Damage done by 50%.",
       "ru": "(1 предмет) Наносимый вами урон увеличивается на 16% а критический урон уменьшается на 50%."
     }
+  },
+  {
+    "id": "myth.monomyth_reforged",
+    "slot": "ring",
+    "name": {
+      "en": "Monomyth Reforged",
+      "ru": "Восстановленный «Мономиф»"
+    },
+    "bonuses": {
+      "en": "(1 item) While in combat and on your Primary Weapon gain Major Force, Minor Berserk, and Minor Vulnerability. While in combat and on your Secondary Weapon gain Major Protection, Minor Vitality, and Minor Timidity.",
+      "ru": "(1 предмет) Находясь на основной панели в бою, вы получаете эффекты «Великая сила», «Малая ярость» и «Малая уязвимость».Находясь на запасной панели в бою, вы получаете эффекты «Великая защита», «Малая живучесть» и «Малая трусливость»."
+    }
+  },
+  {
+    "id": "myth.shapeshifters_chain",
+    "slot": "necklace",
+    "name": {
+      "en": "Shapeshifter's Chain",
+      "ru": "Цепочка перевертыша"
+    },
+    "bonuses": {
+      "en": "(1 item) Reduce the cost of your Transformation Ultimate and Werewolf abilities by 15%. While transformed, increase your Maximum Health, Stamina, and Magicka by 1707.",
+      "ru": "(1 предмет) Стоимость всех суперспособностей связанных с превращением и способностей из ветки Вервольф уменьшается на 15%. После превращения ваш максимальный запас сил здоровья и магии увеличивается на 1707ед."
+    }
   }
 ]

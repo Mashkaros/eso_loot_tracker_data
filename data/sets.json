@@ -1230,5 +1230,131 @@
       "en": "(1 item) Adds 129 Weapon and Spell Damage(2 items) Damaging an enemy with a Light Attack puts a Bone stack on them for 5 seconds, up to once every 0.5 seconds. At 5 stacks, an undodgeable skeletal hand attacks your enemy after 1 second, knocking them into the air and stunning them for 3 seconds, or dealing 2222 Magic damage if they cannot be stunned. Enemies then become immune to Kjalnar's Nightmare stacks for 4 seconds. The damage scales off the higher of your Weapon or Spell Damage.",
       "ru": "(1 предмет) Сила оружия и заклинаний +129(2 предмета) Нанося противнику урон обычной атакой вы на 5сек. накладываете на не2222о заряд эффекта Кость но не чаще чем раз в 0,5сек. Спустя 1сек. после накопления 5зарядов вашего противника атакует костяная рука от которой невозможно уклониться. Она подбрасывает его в воздух и оглушает на 3сек. а если его нельзя оглушить наносит 2555ед. магического урона . После этого противник получает невосприимчивость к зарядам эффекта Кошмар Кьялнара на 4сек. Количество наносимого урона зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
     }
+  },
+  {
+    "id": "set.meridias_blessed_armor",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Meridia's Blessed Armor",
+      "ru": "Благословенный доспех Меридии"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1487 Armor(3 items) Adds 129 Stamina Recovery(4 items) Adds 1487 Armor(5 items) When you Block, you gain Meridia's Blessed Armor for 5 seconds, causing you to dodge all incoming attacks. This effect can occur once every 25 seconds.",
+      "ru": "(2 предмета) Броня +1487(3 предмета) Восст. запаса сил +129(4 предмета) Броня +1487(5 предметов) При блокировании вы на 5сек. получаете благословенный доспех Меридии позволяющий вам уклоняться от всех атак противников. Этот эффект может срабатывать не чаще чем раз в 25сек."
+    }
+  },
+  {
+    "id": "set.oblivions_foe",
+    "type": "usual",
+    "farm_way": "craft",
+    "weight": "mixed",
+    "name": {
+      "en": "Oblivion's Foe",
+      "ru": "Враг Обливиона"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 1487 Offensive Penetration(4 items) Adds 657 Critical Chance(5 items) Adds 129 Weapon and Spell Damage , When you deal damage with Soul Magic, you mark the target's soul dealing 2155 Magic damage over 10 seconds, as long as they are not already marked from you. This effect scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Пробивание +1487(4 предмета) Шанс крит. удара +657(5 предметов) Сила оружия и заклинаний +129 , Нанося урон способностью из ветки Магия душ вы накладываете на душу противника метку которая наносит 2155ед. магического урона в течение 10сек. при условии что противник еще не был вами отмечен. Сила этого эффекта зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.prisoners_rags",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Prisoner's Rags",
+      "ru": "Лохмотья узника"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 129 Stamina Recovery(4 items) Adds 129 Stamina Recovery(5 items) Reduces the cost of Sprint by 50%. While Sprinting, restore 1035 Magicka every 1 second.",
+      "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Восст. запаса сил +129(4 предмета) Восст. запаса сил +129(5 предметов) Стоимость спринта уменьшается на 50%. Во время спринта вы восстанавливаете 1035ед. магии раз в 1сек."
+    }
+  },
+  {
+    "id": "set.spectres_eye",
+    "type": "usual",
+    "farm_way": "craft",
+    "weight": "mixed",
+    "name": {
+      "en": "Spectre's Eye",
+      "ru": "Глаз призрака"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1487 Armor(3 items) Adds 1096 Maximum Magicka(4 items) Adds 1206 Maximum Health(5 items) When you cast a Magicka ability while in combat you gain Major Evasion for 30 seconds, reducing damage from area attacks by 20%. This effect can occur once every 30 seconds.",
+      "ru": "(2 предмета) Броня +1487(3 предмета) Макс. магия +1096(4 предмета) Макс. здоровье +1206(5 предметов) При использовании в бою способности расходующей магию вы получаете эффект Великое уклонение на 30сек. который уменьшает урон от атак по площади на 20%. Этот эффект может срабатывать не чаще чем раз в 30сек."
+    }
+  },
+  {
+    "id": "set.stygian",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Stygian",
+      "ru": "Зловещий"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 1487 Offensive Penetration(5 items) When you leave Sneak or invisibility while in combat, your Weapon and Spell Damage is increased by 369 for 15 seconds.",
+      "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Сила оружия и заклинаний +129(4 предмета) Пробивание +1487(5 предметов) После выхода из режима скрытности или невидимости в бою ваша сила оружия и заклинаний увеличивается на 369 на 15сек."
+    }
+  },
+  {
+    "id": "set.grothdarr",
+    "type": "monster",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Grothdarr",
+      "ru": "Гротдарр"
+    },
+    "bonuses": {
+      "en": "(1 item) Adds 1096 Maximum Magicka(2 items) When you deal damage to an enemy within 8 meters, you have a 10% chance to create lava pools that swirl around you, dealing 260 Flame damage to all enemies within 8 meters of you every 1 second for 5 seconds. This effect can occur once every 10 seconds and scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(1 предмет) Макс. магия +1096(2 предмета) При нанесении урона противнику в радиусе 8метро260 от вас вы с вероятностью 10% создаете вокруг себя лужи лавы которые наносят всем противникам в радиусе 8метров от вас 298ед. огненного урона раз в 1сек. в течение 5сек. Этот эффект может срабатывать не чаще чем раз в 10сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.oblivions_edge",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Oblivion's Edge",
+      "ru": "Лезвие Обливиона"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 129 Stamina Recovery(5 items) Adds 258 Weapon and Spell Damage , When you kill an enemy, you fill an empty Soul Gem and heal for 5907 Health . The heal can occur once every 10 seconds and scales off the higher of your Max Magicka or Stamina.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Сила оружия и заклинаний +129(4 предмета) Восст. запаса сил +129(5 предметов) Сила оружия и заклинаний +258 , При убийстве противника вы заполняете пустой камень душ и исцеляетесь на 6546ед. здоровья . Исцеление может происходить не чаще чем раз в 10сек. а его сила зависит от вашего максимального запаса сил или магии (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.rattlecage",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Rattlecage",
+      "ru": "Исступление"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 129 Weapon and Spell Damage(5 items) Adds 171 Weapon and Spell Damage , Gain Major Brutality and Sorcery at all times, increasing your Weapon and Spell Damage by 20% .",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Сила оружия и заклинаний +129(4 предмета) Сила оружия и заклинаний +129(5 предметов) Сила оружия и заклинаний +171 , Вы получаете постоянные эффекты Великая жестокость и Великое колдовство увеличивающие силу оружия и заклинаний на 20%."
+    }
+  },
+  {
+    "id": "set.the_worms_raiment",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "The Worm's Raiment",
+      "ru": "Одежды Червя"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Magicka Recovery(3 items) Adds 1096 Maximum Magicka(4 items) Adds 129 Magicka Recovery(5 items) Grants 145 Magicka Recovery to you and up to 11 other group members within 28 meters of you. This bonus persists through death.",
+      "ru": "(2 предмета) Восст. магии +129(3 предмета) Макс. магия +1096(4 предмета) Восст. магии +129(5 предметов) Восстановление магии увеличивается на 145 у вас и 11других членов вашей группы в пределах 28метров от вас. Этот бонус будет действовать до вашей гибели."
+    }
   }
 ]

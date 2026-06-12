@@ -618,5 +618,57 @@
   {
     "set_id": "set.kjalnars_nightmare",
     "source_id": "src.undaunted_urgarlag"
+  },
+  {
+    "set_id": "set.meridias_blessed_armor",
+    "source_id": "src.coldharbour"
+  },
+  {
+    "set_id": "set.oblivions_foe",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.prisoners_rags",
+    "source_id": "src.coldharbour"
+  },
+  {
+    "set_id": "set.spectres_eye",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.stygian",
+    "source_id": "src.coldharbour"
+  },
+  {
+    "set_id": "set.grothdarr",
+    "source_id": "src.vaults_of_madness.vet"
+  },
+  {
+    "set_id": "set.grothdarr",
+    "source_id": "src.undaunted_glirion"
+  },
+  {
+    "set_id": "set.oblivions_edge",
+    "source_id": "src.vaults_of_madness.normal"
+  },
+  {
+    "set_id": "set.oblivions_edge",
+    "source_id": "src.vaults_of_madness.vet"
+  },
+  {
+    "set_id": "set.rattlecage",
+    "source_id": "src.vaults_of_madness.normal"
+  },
+  {
+    "set_id": "set.rattlecage",
+    "source_id": "src.vaults_of_madness.vet"
+  },
+  {
+    "set_id": "set.the_worms_raiment",
+    "source_id": "src.vaults_of_madness.normal"
+  },
+  {
+    "set_id": "set.the_worms_raiment",
+    "source_id": "src.vaults_of_madness.vet"
   }
 ]
