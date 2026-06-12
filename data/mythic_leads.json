@@ -427,5 +427,18 @@
       "en": "Captain Blackheart (Endboss)",
       "ru": "Групповое подземелье «Гавань Чёрного Сердца», последний босс"
     }
+  },
+  {
+    "id": "lead.pale_orders_golden_band",
+    "mythic_id": "myth.ring_of_the_pale_order",
+    "source_id": "src.blackreach_arkthzand_cavern",
+    "name": {
+      "en": "Pale Order's Golden Band",
+      "ru": "Золотой обруч Бледного ордена"
+    },
+    "notes": {
+      "en": "Nighthollow Keep (East side of the map) Follow the way, down the stairs on the right, read the 'Ancient Text' paper on the table. (Long Respawn Time)",
+      "ru": "Чёрный Предел: пещера Арктзанда — Крепость Ночной Пустоты, на столе"
+    }
   }
 ]

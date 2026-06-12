@@ -310,5 +310,13 @@
       "en": "Unhallowed Grave Vet",
       "ru": "Нечестивая Могила Ветеранское"
     }
+  },
+  {
+    "id": "src.blackreach_arkthzand_cavern",
+    "type": "overland",
+    "name": {
+      "en": "Blackreach: Arkthzand Cavern",
+      "ru": "Черный предел: Пещера Арктзанда"
+    }
   }
 ]
