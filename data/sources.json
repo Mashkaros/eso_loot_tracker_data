@@ -438,5 +438,29 @@
       "en": "The Night Market",
       "ru": "Ночной рынок"
     }
+  },
+  {
+    "id": "src.blackreach_greymoor_caverns",
+    "type": "overland",
+    "name": {
+      "en": "Blackreach: Greymoor Caverns",
+      "ru": "Черный Предел: пещеры Греймура"
+    }
+  },
+  {
+    "id": "src.stone_garden.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Stone Garden Normal",
+      "ru": "Каменный Сад Обычное"
+    }
+  },
+  {
+    "id": "src.stone_garden.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Stone Garden Vet",
+      "ru": "Каменный Сад Ветеранское"
+    }
   }
 ]

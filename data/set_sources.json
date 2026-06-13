@@ -934,5 +934,41 @@
   {
     "set_id": "set.thousand_eyes",
     "source_id": "src.the_night_market"
+  },
+  {
+    "set_id": "set.spell_parasite",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.arkasiss_genius",
+    "source_id": "src.stone_garden.normal"
+  },
+  {
+    "set_id": "set.arkasiss_genius",
+    "source_id": "src.stone_garden.vet"
+  },
+  {
+    "set_id": "set.elemental_catalyst",
+    "source_id": "src.stone_garden.normal"
+  },
+  {
+    "set_id": "set.elemental_catalyst",
+    "source_id": "src.stone_garden.vet"
+  },
+  {
+    "set_id": "set.kraglens_howl",
+    "source_id": "src.stone_garden.normal"
+  },
+  {
+    "set_id": "set.kraglens_howl",
+    "source_id": "src.stone_garden.vet"
+  },
+  {
+    "set_id": "set.stone_husk",
+    "source_id": "src.undaunted_urgarlag"
+  },
+  {
+    "set_id": "set.stone_husk",
+    "source_id": "src.stone_garden.vet"
   }
 ]
