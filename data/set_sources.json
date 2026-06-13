@@ -1206,5 +1206,41 @@
   {
     "set_id": "set.titanic_cleave",
     "source_id": "src.dragonstar_arena.vet"
+  },
+  {
+    "set_id": "set.bulwark_ruination",
+    "source_id": "src.battlegrounds"
+  },
+  {
+    "set_id": "set.cowards_gear",
+    "source_id": "src.battlegrounds"
+  },
+  {
+    "set_id": "set.farstrider",
+    "source_id": "src.battlegrounds"
+  },
+  {
+    "set_id": "set.harvesters_hope_ring",
+    "source_id": "src.battlegrounds"
+  },
+  {
+    "set_id": "set.impregnable_armor",
+    "source_id": "src.battlegrounds"
+  },
+  {
+    "set_id": "set.knight_slayer",
+    "source_id": "src.battlegrounds"
+  },
+  {
+    "set_id": "set.netch_oil",
+    "source_id": "src.battlegrounds"
+  },
+  {
+    "set_id": "set.vanguards_challenge",
+    "source_id": "src.battlegrounds"
+  },
+  {
+    "set_id": "set.wizards_riposte",
+    "source_id": "src.battlegrounds"
   }
 ]

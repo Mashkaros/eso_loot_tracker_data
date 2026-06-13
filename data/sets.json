@@ -2746,5 +2746,131 @@
       "battleAxe",
       "maul"
     ]
+  },
+  {
+    "id": "set.bulwark_ruination",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Bulwark Ruination",
+      "ru": "Разрушение оплота"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) When an enemy blocks one of your attacks, reduce the amount of damage they can block by 8% for 5 seconds. This effect can stack up to 5 times and can occur once every 0.3 seconds.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) Когда противник блокирует вашу атаку количество урона которое он может заблокировать уменьшается на8% на5сек. Этот эффект суммируется до5раз и может срабатывать не чаще чем раз в0,3сек."
+    }
+  },
+  {
+    "id": "set.cowards_gear",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Coward's Gear",
+      "ru": "Снаряжение труса"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 129 Stamina Recovery(4 items) Adds 129 Stamina Recovery(5 items) Adds 250 Stamina Recovery , While Sprinting you gain Major Expedition and Major Protection , increasing your Movement Speed by 30% and reducing your damage taken by 10%.",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Восст. запаса сил +129(4 предмета) Восст. запаса сил +129(5 предметов) Восст. запаса сил +250 , Во время спринта вы получаете эффекты Великое ускорение и Великая защита повышающие вашу скорость передвижения на 30% и уменьшающие получаемый урон на 10%."
+    }
+  },
+  {
+    "id": "set.farstrider",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Farstrider",
+      "ru": "Скороход"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1487 Armor(3 items) Adds 421 Critical Resistance(4 items) Adds 657 Critical Chance(5 items) When you deal direct damage with a Blink, Charge, Leap, Teleport, or Pull ability, decrease the Critical Resistance of your enemy by 40% and increase your Critical Resistance by an equal amount for 10 seconds. This effect can occur once every 7 seconds.",
+      "ru": "(2 предмета) Броня +1487(3 предмета) Сопротивл. крит. урону +421(4 предмета) Шанс крит. удара +657(5 предметов) При нанесении прямого урона способностью позволяющей совершить мгновенное перемещение рывок прыжок телепортироваться или притянуть противника к себе сопротивление критическому урону вашего противника уменьшается на40% а ваше увеличивается на то же значение на10сек. Этот эффект может срабатывать не чаще чем раз в7сек."
+    }
+  },
+  {
+    "id": "set.harvesters_hope_ring",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Harvester's Hope-Ring",
+      "ru": "Кольцо надежды Собирателя"
+    },
+    "bonuses": {
+      "en": "(1 item) Whenever you gather resources from a harvesting node, gain 1 stack of Harvester, up to 20 stacks max. Each stack of Harvester increases your chance of gathering bonus materials by 10%. Removing this ring removes all stacks of Harvester. Harvester does not affect resources gathered with Crafting Surveys or bonus resources received during holiday events.",
+      "ru": "(1 предмет) При сборе ремесленного материала, вы получаете 1 заряд эффекта Собиратель (всего можно накопить не более 20 зарядов). Каждый заряд эффекта повышает шанс получения дополнительных материалов при сборе на 10%. При снятии кольца надежды Собирателя вы теряете все заряды. Эффект Собиратель не действует при сборе материалов ремесленных исследований или при получении материалов в ходе праздничных событий."
+    }
+  },
+  {
+    "id": "set.impregnable_armor",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Impregnable Armor",
+      "ru": "Непробиваемая броня"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 424 Critical Resistance(3 items) Adds 424 Critical Resistance(4 items) Adds 424 Critical Resistance(5 items) Adds 986 Critical Resistance",
+      "ru": "(2 предмета) Сопротивл. крит. урону +424(3 предмета) Сопротивл. крит. урону +424(4 предмета) Сопротивл. крит. урону +424(5 предметов) Сопротивл. крит. урону +986"
+    }
+  },
+  {
+    "id": "set.knight_slayer",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Knight Slayer",
+      "ru": "Рыцарь-убийца"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 424 Critical Resistance(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 1206 Maximum Health(5 items) Your fully-charged Heavy Attacks deal an additional 8% of an enemy's Max Health as Oblivion Damage. This can deal a maximum of 8000 Oblivion Damage.",
+      "ru": "(2 предмета) Сопротивл. крит. урону +424(3 предмета) Сила оружия и заклинаний +129(4 предмета) Макс. здоровье +1206(5 предметов) Ваши полностью заряженные силовые атаки дополнительно наносят урон Обливиона в размере 8% от максимального запаса здоровья цели. Всего можно нанести не более 8000ед. урона Обливиона."
+    }
+  },
+  {
+    "id": "set.netch_oil",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Netch Oil",
+      "ru": "Нетчевое масло"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 1206 Maximum Health(4 items) Adds 1096 Maximum Stamina(5 items) While you have Crowd Control Immunity, you are immune to Snares and Immobilizations.",
+      "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Макс. здоровье +1206(4 предмета) Макс. запас сил +1096(5 предметов) Будучи невосприимчивы к эффектам контроля вы также получаете невосприимчивость к эффектам замедления и обездвиживания."
+    }
+  },
+  {
+    "id": "set.vanguards_challenge",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Vanguard's Challenge",
+      "ru": "Испытание авангарда"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 1206 Maximum Health(4 items) Adds 4% Healing Taken(5 items) When you taunt an enemy player, they deal 35% less damage to all other players but 35% more damage to you for 15 seconds. This effect is lost if you enter Sneak, invisibility, or move further than 28 meters away from them.",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Макс. здоровье +1206(4 предмета) Получаемое лечение +4%(5 предметов) Когда вы провоцируете вражеского игрока он наносит на 35% меньше урона другим игрокам но на 35% больше урона вам в течение 15сек. Эффект пропадает если вы входите в режим скрытности или невидимости или отходите от цели больше чем на 28метров."
+    }
+  },
+  {
+    "id": "set.wizards_riposte",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Wizard's Riposte",
+      "ru": "Ответ волшебника"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 424 Critical Resistance(5 items) Adds 660 Critical Resistance, When you take direct Critical Damage, you apply Minor Enervation to the enemy for 5 seconds, reducing their Critical Damage done by 10%.",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Сила оружия и заклинаний +129(4 предмета) Сопротивл. крит. урону +424(5 предметов) Сопротивл. крит. урону +660 , При получении прямого критического урона вы накладываете на противника эффект Малое бессилие на 5сек. уменьшая наносимый им критический урон на 10%."
+    }
   }
 ]

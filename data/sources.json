@@ -542,5 +542,13 @@
       "en": "Dragonstar Arena Vet",
       "ru": "Арена Драгонстара Ветеранское"
     }
+  },
+  {
+    "id": "src.battlegrounds",
+    "type": "pvp",
+    "name": {
+      "en": "Battlegrounds",
+      "ru": "Поля сражений"
+    }
   }
 ]
