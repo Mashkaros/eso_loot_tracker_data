@@ -462,5 +462,85 @@
       "en": "Stone Garden Vet",
       "ru": "Каменный Сад Ветеранское"
     }
+  },
+  {
+    "id": "src.craglorn",
+    "type": "overland",
+    "name": {
+      "en": "Craglorn",
+      "ru": "Краглорн"
+    }
+  },
+  {
+    "id": "src.aetherian_archive",
+    "type": "trial",
+    "name": {
+      "en": "Aetherian Archive",
+      "ru": "Этерианский Архив"
+    }
+  },
+  {
+    "id": "src.bloodroot_forge.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Bloodroot Forge Normal",
+      "ru": "Кузница Кровавого Корня Обычное"
+    }
+  },
+  {
+    "id": "src.bloodroot_forge.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Bloodroot Forge Vet",
+      "ru": "Кузница Кровавого Корня Ветеранское"
+    }
+  },
+  {
+    "id": "src.falkreath_hold.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Falkreath Hold Normal",
+      "ru": "Владение Фолкрит Обычное"
+    }
+  },
+  {
+    "id": "src.falkreath_hold.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Falkreath Hold Vet",
+      "ru": "Владение Фолкрит Ветеранское"
+    }
+  },
+  {
+    "id": "src.hel_ra_citadel",
+    "type": "trial",
+    "name": {
+      "en": "Hel Ra Citadel",
+      "ru": "Цитадель Хель Ра"
+    }
+  },
+  {
+    "id": "src.sanctum_ophidia",
+    "type": "trial",
+    "name": {
+      "en": "Sanctum Ophidia",
+      "ru": "Санктум-Офидия"
+    }
+  },
+  {
+    "id": "src.dragonstar_arena.normal",
+    "type": "arena",
+    "name": {
+      "en": "Dragonstar Arena Normal",
+      "ru": "Арена Драгонстара Обычное"
+    }
+  },
+  {
+    "id": "src.dragonstar_arena.vet",
+    "type": "arena",
+    "name": {
+      "en": "Dragonstar Arena Vet",
+      "ru": "Арена Драгонстара Ветеранское"
+    }
   }
 ]

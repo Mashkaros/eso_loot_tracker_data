@@ -1453,7 +1453,13 @@
     "bonuses": {
       "en": "(2 items) When you cast Whirlwind while in combat, you gain a stack of Chaotic Whirlwind for 5 seconds, granting you 5% Movement Speed per stack, up to a maximum of 5 times. While Chaotic Whirlwind is active, you gain 6 Weapon and Spell Damage for every 1% bonus Movement Speed you have, up to a maximum of 450. At 5 stacks, the duration doubles but cannot be refreshed.",
       "ru": "(2 предмета) При каждом применении способности Вихрь во время боя вы на 5сек. получаете заряд эффекта Хаотичный вихрь повышающий вашу скорость передвижения на 5% вплоть до 5раз. Пока действует эффект Хаотичный вихрь ваша сила оружия и заклинаний увеличивается на 6 за каждый процент полученной прибавки к скорости передвижения но не более чем на 450. При накоплении 5зарядов продолжительность действия эффекта удваивается но ее больше нельзя обновить"
-    }
+    },
+    "weapon_slots": [
+      "sword",
+      "axe",
+      "mace",
+      "dagger"
+    ]
   },
   {
     "id": "set.concentrated_force",
@@ -1467,7 +1473,12 @@
     "bonuses": {
       "en": "(2 items) Every second cast of Force Shock will always apply the Burning, Concussion, and Chilled status effects. The Force Shock casts must be made within 5 seconds of each other for this effect to occur.",
       "ru": "(2 предмета) Каждое второе применение способности Удар стихий всегда накладывает эффекты состояния Горение Контузия и Обморожение. Чтобы этот эффект сработал между применениями Удара стихий должно пройти не больше 5сек."
-    }
+    },
+    "weapon_slots": [
+      "infernoStaff",
+      "iceStaff",
+      "lightningStaff"
+    ]
   },
   {
     "id": "set.defensive_position",
@@ -1481,7 +1492,14 @@
     "bonuses": {
       "en": "(2 items) When you reflect or absorb a spell projectile with Defensive Posture, you restore 2200 Magicka. If Defensive Posture expires without reflecting or absorbing a spell projectile, you restore 6600 Magicka instead.",
       "ru": "(2 предмета) При отражении или поглощении снаряда заклинания с помощью способности Оборонительная стойка вы восстанавливаете 2200ед. магии. Если действие Оборонительной стойки заканчивается но вы так и не отразили и не поглотили ни одного снаряда заклинания вы восстанавливаете 6600ед. магии."
-    }
+    },
+    "weapon_slots": [
+      "shield",
+      "sword",
+      "axe",
+      "mace",
+      "dagger"
+    ]
   },
   {
     "id": "set.disciplined_slash",
@@ -1495,7 +1513,12 @@
     "bonuses": {
       "en": "(2 items) When you deal damage with Reverse Slash, you generate up to 12 Ultimate based on how much execute bonus damage it dealt.",
       "ru": "При нанесении урона способностью Круговой удар вы получаете до 12очков суперспособности в зависимости от того сколько дополнительного добивающего урона она нанесла."
-    }
+    },
+    "weapon_slots": [
+      "greatsword",
+      "battleAxe",
+      "maul"
+    ]
   },
   {
     "id": "set.perfected_chaotic_whirlwind",
@@ -1509,7 +1532,13 @@
     "bonuses": {
       "en": "(2 items) Adds 526 Critical Chance, When you cast Whirlwind while in combat, you gain a stack of Chaotic Whirlwind for 5 seconds, granting you 5% Movement Speed per stack, up to a maximum of 5 times. While Chaotic Whirlwind is active, you gain 6 Weapon and Spell Damage for every 1% bonus Movement Speed you have, up to a maximum of 450. At 5 stacks, the duration doubles but cannot be refreshed.",
       "ru": "(2 предмета) Шанс крит. удара +526, При каждом применении способности Вихрь во время боя вы на 5сек. получаете заряд эффекта Хаотичный вихрь повышающий вашу скорость передвижения на 5% вплоть до 5раз. Пока действует эффект Хаотичный вихрь ваша сила оружия и заклинаний увеличивается на 6 за каждый процент полученной прибавки к скорости передвижения но не более чем на 450. При накоплении 5зарядов продолжительность действия эффекта удваивается но ее больше нельзя обновить."
-    }
+    },
+    "weapon_slots": [
+      "sword",
+      "axe",
+      "mace",
+      "dagger"
+    ]
   },
   {
     "id": "set.perfected_concentrated_force",
@@ -1523,7 +1552,12 @@
     "bonuses": {
       "en": "(2 items) Adds 103 Weapon and Spell Damage, Every second cast of Force Shock will always apply the Burning, Concussion, and Chilled status effects. The Force Shock casts must be made within 5 seconds of each other for this effect to occur.",
       "ru": "(2 предмета) Сила оружия и заклинаний +103, Каждое второе применение способности Удар стихий всегда накладывает эффекты состояния Горение Контузия и Обморожение. Чтобы этот эффект сработал между применениями Удара стихий должно пройти не больше 5сек."
-    }
+    },
+    "weapon_slots": [
+      "infernoStaff",
+      "iceStaff",
+      "lightningStaff"
+    ]
   },
   {
     "id": "set.perfected_defensive_position",
@@ -1537,7 +1571,14 @@
     "bonuses": {
       "en": "(2 items) Adds 103 Stamina Recovery, When you reflect or absorb a spell projectile with Defensive Posture, you restore 2200 Magicka. If Defensive Posture expires without reflecting or absorbing a spell projectile, you restore 6600 Magicka instead.",
       "ru": "(2 предмета) Восст. запаса сил +103, При отражении или поглощении снаряда заклинания с помощью способности Оборонительная стойка вы восстанавливаете 2200ед. магии. Если действие Оборонительной стойки заканчивается но вы так и не отразили и не поглотили ни одного снаряда заклинания вы восстанавливаете 6600ед. магии."
-    }
+    },
+    "weapon_slots": [
+      "shield",
+      "sword",
+      "axe",
+      "mace",
+      "dagger"
+    ]
   },
   {
     "id": "set.perfected_disciplined_slash",
@@ -1551,7 +1592,12 @@
     "bonuses": {
       "en": "(2 items) Adds 877 Maximum Stamina, When you deal damage with Reverse Slash, you generate up to 12 Ultimate based on how much execute bonus damage it dealt.",
       "ru": "(2 предмета) Макс. запас сил +877, При нанесении урона способностью Круговой удар вы получаете до 12очков суперспособности в зависимости от того сколько дополнительного добивающего урона она нанесла."
-    }
+    },
+    "weapon_slots": [
+      "greatsword",
+      "battleAxe",
+      "maul"
+    ]
   },
   {
     "id": "set.piercing_spray",
@@ -1565,7 +1611,10 @@
     "bonuses": {
       "en": "(2 items) When you deal damage with Arrow Spray, you cause enemies hit to have 6600 less Armor against Bow attacks for 10 seconds.",
       "ru": "(2 предмета) При нанесении урона способностью Веер стрел показатель брони пораженных противников против атак луком уменьшается на 6600 на 10сек."
-    }
+    },
+    "weapon_slots": [
+      "bow"
+    ]
   },
   {
     "id": "set.perfected_piercing_spray",
@@ -1579,7 +1628,10 @@
     "bonuses": {
       "en": "(2 items) Adds 1190 Offensive Penetration, When you deal damage with Arrow Spray, you cause enemies hit to have 6600 less Armor against Bow attacks for 10 seconds.",
       "ru": "(2 предмета) Пробивание +1190, При нанесении урона способностью Веер стрел показатель брони пораженных противников против атак луком уменьшается на 6600 на 10сек."
-    }
+    },
+    "weapon_slots": [
+      "bow"
+    ]
   },
   {
     "id": "set.timeless_blessing",
@@ -1593,7 +1645,10 @@
     "bonuses": {
       "en": "(2 items) When you cast Blessing of Protection, the cost of your Magicka and Stamina healing abilities are reduced by 21% for 3 seconds.",
       "ru": "(2 предмета) При использовании способности Благословение защиты стоимость ваших исцеляющих способностей расходующих магию или запас сил уменьшается на 21% на 3сек."
-    }
+    },
+    "weapon_slots": [
+      "restorationStaff"
+    ]
   },
   {
     "id": "set.perfected_timeless_blessing",
@@ -1607,7 +1662,10 @@
     "bonuses": {
       "en": "(2 items) Adds 877 Maximum Magicka, When you cast Blessing of Protection, the cost of your Magicka and Stamina healing abilities are reduced by 21% for 3 seconds.",
       "ru": "(2 предмета) Макс. магия +877, При использовании способности Благословение защиты стоимость ваших исцеляющих способностей расходующих магию или запас сил уменьшается на 21% на 3сек."
-    }
+    },
+    "weapon_slots": [
+      "restorationStaff"
+    ]
   },
   {
     "id": "set.bog_raider",
@@ -2056,5 +2114,637 @@
       "en": "(1 item) Adds 657 Critical Chance(2 items) Your Heavy Attacks tether you to enemies for 5 seconds, as long as you remain within 10 meters of them. Enemies touching the tether take 213 Physical damage every 1 second and you gain a stack of Husk Drain, up to 15 stacks. This effect can occur once every 10 seconds and scales off the higher of your Weapon or Spell Damage. When the tether ends, you consume the stacks and gain 30 Weapon and Spell Damage per stack for 5 seconds.",
       "ru": "(1 предмет) Шанс крит. удара +657(2 предмета) Ваши силовые атаки на5сек. с213язывают вас с противниками особыми узами которые действуют пока вы находитесь на расстоянии не более 10метров от них. Противники касающиеся этих уз получают 244ед. физического урона раз в1сек. а вы получаете заряд эффекта Истощение оболочки (всего можно накопить 15зарядов). Этот эффект может срабатывать не чаще чем раз в10сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением). При разрушении связи вы поглощаете заряды увеличивая силу оружия и заклинаний на30 за каждый заряд эффекта на5сек."
     }
+  },
+  {
+    "id": "set.twice_born_star",
+    "type": "usual",
+    "farm_way": "craft",
+    "weight": "mixed",
+    "name": {
+      "en": "Twice-Born Star",
+      "ru": "Дважды рожденная звезда"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 1096 Maximum Stamina(4 items) Adds 1096 Maximum Magicka(5 items) You can have two Mundus Stone boons at the same time.",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Макс. запас сил +1096(4 предмета) Макс. магия +1096(5 предметов) Вы можете носить благословения двух камней Мундуса одновременно."
+    }
+  },
+  {
+    "id": "set.way_of_air",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Way of Air",
+      "ru": "Путь воздуха"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Stamina Recovery(3 items) Adds 129 Stamina Recovery(4 items) Increases the radius you can detect Sneaking enemies by 2 meters.(5 items) Adds 129 Stamina Recovery , When you use Roll Dodge, your Weapon and Spell Damage is increased by 391 for 6 seconds.",
+      "ru": "(2 предмета) Восст. запаса сил +129(3 предмета) Восст. запаса сил +129(4 предмета) Радиус обнаружения скрытых противников увеличивается на 2м.(5 предметов) Восст. запаса сил +129 , После кувырка ваша сила оружия и заклинаний увеличивается на 391 на 6сек."
+    }
+  },
+  {
+    "id": "set.way_of_fire",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Way of Fire",
+      "ru": "Путь испепеления"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 1206 Maximum Health(4 items) Adds 657 Critical Chance(5 items) When you deal damage with a Light or Heavy Attack, you deal an additional 572 Flame damage . This effect can occur once every 2 seconds and scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Макс. здоровье +1206(4 предмета) Шанс крит. удара +657(5 предметов) При нанесении урона обычными или силовыми атаками вы наносите 657ед. огненного урона дополнительно. Этот эффект может срабатывать не чаще чем раз в2сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.way_of_martial_knowledge",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Way of Martial Knowledge",
+      "ru": "Путь боевого искусства"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 129 Weapon and Spell Damage(5 items) While your Stamina is below 50%, your Light Attacks cause the enemy to take 8% additional damage for 5 seconds. This effect can occur once every 8 seconds.",
+      "ru": "(2 предмета) Макс. магия +1096(3 предмета) Сила оружия и заклинаний +129(4 предмета) Сила оружия и заклинаний +129(5 предметов) Когда у вас остается меньше 50% запаса сил ваши обычные атаки ослабляют противников заставляя их получать на 8% больше урона в течение 5сек. Этот эффект может срабатывать не чаще чем раз в 8сек."
+    }
+  },
+  {
+    "id": "set.way_of_the_arena",
+    "type": "usual",
+    "farm_way": "craft",
+    "weight": "mixed",
+    "name": {
+      "en": "Way of the Arena",
+      "ru": "Путь Арены"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 1096 Maximum Magicka(4 items) Adds 1096 Maximum Stamina(5 items) Adds 165 Weapon and Spell Damage , Reduces the cost of Break Free by 40%.",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Макс. магия +1096(4 предмета) Макс. запас сил +1096(5 предметов) Сила оружия и заклинаний +165 , Стоимость освобождения уменьшается на 40%."
+    }
+  },
+  {
+    "id": "set.defending_warrior",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Defending Warrior",
+      "ru": "Защищающийся воин"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1487 Armor(3 items) Adds 1487 Armor(4 items) Adds 1206 Maximum Health(5 items) When you Block, you deal 1197 Magic Damage to all enemies within 10 meters of you and heal for 100% of the damage done. This effect can occur once every 5 seconds and scales off your Max Health.",
+      "ru": "(2 предмета) Броня +1487(3 предмета) Броня +1487(4 предмета) Макс. здоровье +1206(5 предметов) При блокировании вы наносите 1301ед. магического урона всем противникам в радиусе 10метров от вас и исцеляетесь на100% от нанесенного урона. Этот эффект может срабатывать не чаще чем разв5сек. а его сила зависит от вашего максимального запаса здоровья."
+    }
+  },
+  {
+    "id": "set.healing_mage",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Healing Mage",
+      "ru": "Маг-целитель"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Magicka Recovery(3 items) Adds 1096 Maximum Magicka(4 items) Adds 4% Healing Done(5 items) When you use an area of effect heal ability, you apply Minor Cowardice to enemies within 10 meters of you, reducing their Weapon and Spell Damage by 215 for 5 seconds. This effect can occur once every 3 seconds.",
+      "ru": "(2 предмета) Восст. магии +129(3 предмета) Макс. магия +1096(4 предмета) Исходящее лечение +4%(5 предметов) При использовании исцеляющей способности действующей по площади вы накладываете на противников в радиусе 10м от вас эффект Малая трусость уменьшающий силу их оружия и заклинаний на215 на5сек. Этот эффект может срабатывать не чаще чем разв3сек."
+    }
+  },
+  {
+    "id": "set.infallible_mage",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Infallible Mage",
+      "ru": "Безупречный маг"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%.(4 items) Adds 129 Weapon and Spell Damage(5 items) Adds 657 Critical Chance, Your Heavy Attacks deal an additional 900 damage to monsters. Enemies you damage with fully-charged Heavy Attacks are afflicted with Minor Vulnerability for 10 seconds, increasing their damage taken by 5%.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Вы получаете постоянный эффект Малая жажда убийств увеличивающий ваш урон по монстрам подземелий испытаний и арен на 5%.(4 предмета) Сила оружия и заклинаний +129(5 предметов) Шанс крит. удара +657 , Ваши силовые атаки наносят 900ед. дополнительного урона монстрам. На противников которых вы поражаете полностью заряженными силовыми атаками накладывается эффект Малая уязвимость на10сек. увеличивающий получаемый ими урон на5%."
+    }
+  },
+  {
+    "id": "set.quick_serpent",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Quick Serpent",
+      "ru": "Стремительный змей"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 1096 Maximum Stamina(4 items) Adds 1096 Maximum Stamina(5 items) Reduces the costs of your Stamina abilities by 8%. When an enemy you have recently damaged dies, you restore 2454 Stamina and gain Major Expedition for 8 seconds, increasing your Movement Speed by 30%. These effects can occur once every second.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Макс. запас сил +1096(4 предмета) Макс. запас сил +1096(5 предметов) Стоимость способностей расходующих запас сил уменьшается на 8%. Когда противник которому вы недавно нанесли урон умирает вы восстанавливаете 2454ед. запаса сил и на 8сек. получаете эффект Великое ускорение увеличивающий вашу скорость передвижения на 30%. Эти эффекты могут срабатывать не чаще чем раз в секунду."
+    }
+  },
+  {
+    "id": "set.blooddrinker",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Blooddrinker",
+      "ru": "Кровопийца"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 657 Critical Chance(5 items) Increases your Bleed damaging attacks by 20%.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Сила оружия и заклинаний +129(4 предмета) Шанс крит. удара +657(5 предметов) Урон от ваших атак вызывающих кровотечение увеличивается на 20%."
+    }
+  },
+  {
+    "id": "set.earthgore",
+    "type": "monster",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Earthgore",
+      "ru": "Кровь земли"
+    },
+    "bonuses": {
+      "en": "(1 item) Adds 4% Healing Done(2 items) When you heal yourself or a group member that is under 50% Health, you conjure a pool of blood underneath them, immediately removing all harmful area effects, and healing the lowest Health group member in the area after 2 seconds for 1702 Health every 2 seconds over 8 seconds. This effect can occur once every 20 seconds and scales off the higher of your Max Magicka or Stamina.",
+      "ru": "(1 предмет) Исходящее лечение +4%(2 предмета) Исцеляя себя или члена группы с менее чем 50%здоро1702ья вы создаете под целью лужу крови которая мгновенно снимает все вредоносные эффекты действующие по площади и спустя 2сек. исцеляет члена группы с самым низким запасом здоровья в области действия на 1886ед. здоровья раз в 2сек. в течение 8сек. Этот эффект может срабатывать не чаще чем раз в 20сек. а его сила зависит от вашего максимального запаса сил или магии (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.flame_blossom",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Flame Blossom",
+      "ru": "Пламенный цветок"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 1487 Offensive Penetration(5 items) When you deal damage, you summon a line of flame that moves forward after 1 second, dealing 1538 Flame Damage to any enemy in its path and applying the Burning status effect. This effect can occur once every 10 seconds and scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(2 предмета) Макс. магия +1096(3 предмета) Сила оружия и заклинаний +129(4 предмета) Пробивание +1487(5 предметов) При нанесении урона 1538ы создаете линию огня которая спустя 1сек. начинает двигаться вперед нанося 1768ед. огненного урона всем противникам на пути и накладывая на них эффект состояния Горение. Этот эффект может срабатывать не чаще чем раз в 10сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.hagravens_garden",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Hagraven's Garden",
+      "ru": "Сад ворожеи"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 129 Health Recovery(4 items) Adds 4% Healing Taken(5 items) When you take damage while under 50% Health, you summon a preservation of nature around you in a 8 meter radius for 8 seconds which grants Major Protection to you and up to 5 group members while in the area, reducing your damage taken by 10%. This effect can occur once every 30 seconds.",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Восст. здоровья +129(4 предмета) Получаемое лечение +4%(5 предметов) Если вы получаете урон когда уровень вашего здоровья ниже 50% вы на 8сек. призываете природный оберег который действует в радиусе 8м вокруг вас и дает вам и 5членам вашей группы в области действия эффект Великая защита уменьшающий получаемый урон на 10%. Этот эффект может срабатывать не чаще чем раз в 30сек."
+    }
+  },
+  {
+    "id": "set.domihaus",
+    "type": "monster",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Domihaus",
+      "ru": "Домихаус"
+    },
+    "bonuses": {
+      "en": "(1 item) Adds 1096 Maximum Stamina , Adds 1096 Maximum Magicka(2 items) When you deal damage, you create a 10 meter ring of molten earth around you for 10 seconds, which deals 91 Flame damage and 91 Physical damage every 1 second. Standing within the ring grants you 300 Weapon and Spell Damage . This effect can occur once every 15 seconds and the damage scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(1 предмет) Макс. запас сил +1096 , Макс. магия +1096(2 предмета) При нанесении урона вы на 10сек. создаете 91окру91 себя кольцо расплавленной земли радиусом 10метров которое наносит 104ед. огненного урона и 104ед. физического урона раз в 1сек. Пребывание внутри кольца увеличивает вашу силу оружия и заклинаний на 300. Этот эффект может срабатывать не чаще чем раз в 15сек. а количество наносимого урона зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.draugrs_rest",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Draugr's Rest",
+      "ru": "Покой драугра"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 129 Magicka Recovery(4 items) Adds 4% Healing Done(5 items) When you complete a fully-charged Heavy Attack, you create a circle of consecrated ground that heals you and your group members within 5 meters for 6396 Health over 10 seconds. This effect can occur once every 10 seconds and scales off the higher of your Max Magicka or Stamina.",
+      "ru": "(2 предмета) Макс. магия +1096(3 предмета) Восст. магии +129(4 предмета) Исходящее лечение +4%(5 предметов) После проведения полностью заряженной силовой атаки вы создаете священный круг на земле который исцеляет вас и членов вашей группы в пределах 5метров на 6156ед. здоровья в течение 10сек. Этот эффект может срабатывать не чаще чем раз в 10сек. а его сила зависит от вашего максимального запаса сил или магии (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.ironblood",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Ironblood",
+      "ru": "Железная кровь"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 1487 Armor(4 items) Adds 1487 Armor(5 items) When you take damage, you have a 10% chance to turn your blood into pure iron for 10 seconds, gaining Major Protection , Major Aegis , and Minor Protection , but also reducing your Movement Speed by 25%. This effect can occur once every 10 seconds.",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Броня +1487(4 предмета) Броня +1487(5 предметов) При получении урона вы с вероятностью 10% на 10сек. превращаете свою кровь в чистое железо и получаете эффекты Великая защита Великая эгида и Малая защита однако при этом ваша скорость передвижения снижается на 25%. Этот эффект может срабатывать не чаще чем раз в 10сек."
+    }
+  },
+  {
+    "id": "set.pillar_of_nirn",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Pillar of Nirn",
+      "ru": "Столп Нирна"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) When you deal damage, you create a fissure underneath the enemy after 1 second, dealing 803 Bleed Damage to all enemies within 2.5 meters and causing them to bleed for an additional 2770 Bleed Damage over 10 seconds. This effect can occur once every 10 seconds and scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) При нанесении урона через 803сек. вы создаете трещину под врагом которая наносит 923ед. вызванного кровотечением урона всем противникам в пределах 2,5метров и накладывает на них эффект кровотечения нанося дополнительно 2770ед. вызванного кровотечением урона в течение 10сек. Этот эффект может срабатывать не чаще чем раз в 10сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.berserking_warrior",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Berserking Warrior",
+      "ru": "Яростный воин"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 657 Critical Chance(4 items) Adds 657 Critical Chance(5 items) Adds 986 Critical Chance, When you deal Martial melee damage, your Critical Chance is increased by 298 for 5 seconds, stacking up to 5 times. This effect can occur once every half second.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Шанс крит. удара +657(4 предмета) Шанс крит. удара +657(5 предметов) Шанс крит. удара +986 , При нанесении боевого урона в ближнем бою ваш показатель критического удара увеличивается на298 на5сек. Эффект суммируется до 5раз. Этот эффект может срабатывать не чаще чем раз в полсекунды."
+    }
+  },
+  {
+    "id": "set.destructive_mage",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Destructive Mage",
+      "ru": "Маг-разрушитель"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) When you deal damage with a fully-charged Heavy Attack, you mark the enemy with unstable energies for 10 seconds. If your mark was already active before applying, it instead detonates, dealing 1072 Magic Damage all enemies within 8 meters. This effect can occur once every 3 seconds and scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) При нанесении урона полностью заряженно1072 силовой атакой вы на10сек. накладываете на противника метку нестабильной энергии. Если на момент применения способности метка была уже активна она взорвется нанося 1232ед. магического урона всем противникам в радиусе 8метров. Этот эффект может срабатывать не чаще чем раз в3сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.eternal_warrior",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Eternal Warrior",
+      "ru": "Вечный воин"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 4% Healing Taken(3 items) Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%.(4 items) Adds 1206 Maximum Health(5 items) Adds 4% Healing Taken , When you take damage while below 25% Health in combat, you heal for 9370 Health and gain 100 Ultimate. This effect can occur once every 1 minute and the heal scales off your Max Health.",
+      "ru": "(2 предмета) Получаемое лечение +4%(3 предмета) Вы получаете постоянный эффект Малая эгида уменьшающий урон наносимый вам монстрами подземелий испытаний и арен на 5%.(4 предмета) Макс. здоровье +1206(5 предметов) Получаемое лечение +4% , Если 9370ы получаете урон в бою когда уровень вашего здоровья ниже 25% вы исцеляетесь на 10189ед. здоровья и получаете 100очк. суперспособности. Этот эффект может срабатывать не чаще чем раз в 1мин. а эффективность исцеления зависит от вашего максимального запаса здоровья."
+    }
+  },
+  {
+    "id": "set.poisonous_serpent",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Poisonous Serpent",
+      "ru": "Ядовитый змей"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 657 Critical Chance(5 items) When you deal damage with a Light or Heavy Attack against an enemy who has a Poison Damage ability on them, you deal an additional 48 Poison Damage and apply the Poisoned status effect to the enemy. This effect can occur once every 2 seconds and scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Сила оружия и заклинаний +129(4 предмета) Шанс крит. удара +657(5 предметов) При нанесении урона обычными или силовыми атаками противнику пораженному способностью с ядовитым уроном вы наносите 55ед. ядовитого урона дополнительно и накладываете на противника эффект состояния Отравление. Этот эффект может срабатывать не чаще чем раз в2сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.immortal_warrior",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Immortal Warrior",
+      "ru": "Бессмертный воин"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 4% Healing Taken(3 items) Adds 1206 Maximum Health(4 items) Adds 4% Healing Taken(5 items) When you take damage while below 35% Health you gain Major Protection for 20 seconds, reducing your damage taken by 10%. This effect can occur once every 20 seconds.",
+      "ru": "(2 предмета) Получаемое лечение +4%(3 предмета) Макс. здоровье +1206(4 предмета) Получаемое лечение +4%(5 предметов) Если вы получаете урон когда уровень вашего здоровья ниже 35% вы на 20сек. получаете эффект Великая защита который уменьшает получаемый урон на 10%. Этот эффект может срабатывать не чаще чем раз в 20сек."
+    }
+  },
+  {
+    "id": "set.twice_fanged_serpent",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Twice-Fanged Serpent",
+      "ru": "Дважды клыкастый змей"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 1487 Offensive Penetration(4 items) Adds 657 Critical Chance(5 items) Adds 2305 Offensive Penetration , When you deal damage, your Offensive Penetration is increased by 660 for 5 seconds, stacking up to 5 times. This effect can occur once every half second.",
+      "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Пробивание +1487(4 предмета) Шанс крит. удара +657(5 предметов) Пробивание +2305 , При нанесении урона ваше пробивание увеличивается на660 на5сек. Эффект суммируется до 5раз. Этот эффект может срабатывать не чаще чем раз в полсекунды."
+    }
+  },
+  {
+    "id": "set.vicious_serpent",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Vicious Serpent",
+      "ru": "Беспощадный змей"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%.(4 items) Adds 657 Critical Chance(5 items) Adds 129 Weapon and Spell Damage , Reduces the cost of your Stamina abilities by 8%. When an enemy you have recently damaged dies, you restore 2454 Stamina and gain Major Expedition for 8 seconds, increasing your Movement Speed by 30%. These effects can occur once every second.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Вы получаете постоянный эффект Малая жажда убийств увеличивающий ваш урон по монстрам подземелий испытаний и арен на 5%.(4 предмета) Шанс крит. удара +657(5 предметов) Сила оружия и заклинаний +129 , Стоимость способностей расходующих запас сил уменьшается на 8%. Когда противник которому вы недавно нанесли урон умирает вы восстанавливаете 2454ед. запаса сил и на 8сек. получаете эффект Великое ускорение увеличивающий вашу скорость передвижения на 30%. Эти эффекты могут срабатывать не чаще чем раз в секунду."
+    }
+  },
+  {
+    "id": "set.wise_mage",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Wise Mage",
+      "ru": "Мудрый маг"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) Enemies you damage with fully-charged Heavy Attacks are afflicted with Minor Vulnerability for 10 seconds, increasing their damage taken by 5%.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) На противников которым вы наносите урон полностью заряженными силовыми атаками накладывается эффект Малая уязвимость на 10сек. увеличивающий получаемый ими урон на 5%."
+    }
+  },
+  {
+    "id": "set.archers_mind",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Archer's Mind",
+      "ru": "Разум лучника"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 657 Critical Chance(4 items) Adds 657 Critical Chance(5 items) Increases your Critical Damage and Healing by 8%. Increases your Critical Damage and Healing by an additional 16% when you are Sneaking or Invisible.",
+      "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Шанс крит. удара +657(4 предмета) Шанс крит. удара +657(5 предметов) Ваши критические урон и исцеление увеличиваются на 8%. Когда вы находитесь в режиме скрытности или невидимости ваши критический урон и исцеление дополнительно увеличиваются на 16%."
+    }
+  },
+  {
+    "id": "set.caustic_arrow",
+    "type": "weapon",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Caustic Arrow",
+      "ru": "Разъедающая стрела"
+    },
+    "bonuses": {
+      "en": "(2 items) Increases your Weapon and Spell Damage by 330 against targets affected by your Poison Arrow.",
+      "ru": "(2 предмета) Ваша сила оружия и заклинаний против целей пораженных способностью Отравленная стрела увеличивается на 330."
+    },
+    "weapon_slots": [
+      "bow"
+    ]
+  },
+  {
+    "id": "set.destructive_impact",
+    "type": "weapon",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Destructive Impact",
+      "ru": "Разрушительное столкновение"
+    },
+    "bonuses": {
+      "en": "(2 items) Reduces the cost of Destructive Touch by 10% and increases your Weapon and Spell Damage by 600 for 4 seconds after activating it.",
+      "ru": "(2 предмета) Стоимость способности Разрушительное касание уменьшается на 10%. После ее применения ваша сила оружия и заклинаний увеличивается на 600 на 4сек."
+    },
+    "weapon_slots": [
+      "lightningStaff",
+      "iceStaff",
+      "infernoStaff"
+    ]
+  },
+  {
+    "id": "set.footmans_fortune",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Footman's Fortune",
+      "ru": "Удача пехотинца"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 1487 Armor(4 items) Adds 1487 Armor(5 items) Increases the amount of damage you block by 14%.",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Броня +1487(4 предмета) Броня +1487(5 предметов) Количество урона которое вы можете заблокировать увеличивается на 14%."
+    }
+  },
+  {
+    "id": "set.grand_rejuvenation",
+    "type": "weapon",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Grand Rejuvenation",
+      "ru": "Высшее восстановление"
+    },
+    "bonuses": {
+      "en": "(2 items) The initial heal of Grand Healing invigorates you and group members affected for 6 seconds, restoring 224 Magicka and Stamina every 2 seconds.",
+      "ru": "(2 предмета) Первоначальное исцеление от способности Высшее исцеление в течение 6сек. придает сил вам и затронутым членам группы восстанавливая 224ед. магии и запаса сил раз в 2сек."
+    },
+    "weapon_slots": [
+      "restorationStaff"
+    ]
+  },
+  {
+    "id": "set.healers_habit",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Healer's Habit",
+      "ru": "Мастерство целителя"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 129 Magicka Recovery(4 items) Adds 129 Weapon and Spell Damage(5 items) Adds 5% Healing Done , Gain Minor Mending at all times, increasing your healing done by 8%.",
+      "ru": "(2 предмета) Макс. магия +1096(3 предмета) Восст. магии +129(4 предмета) Сила оружия и заклинаний +129(5 предметов) Исходящее лечение +5% , Вы получаете постоянный эффект Малое исцеление увеличивающий эффективность исходящего лечения на 8%."
+    }
+  },
+  {
+    "id": "set.perfected_caustic_arrow",
+    "type": "weapon",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Perfected Caustic Arrow",
+      "ru": "Совершенная разъедающая стрела"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 103 Weapon and Spell Damage , Increases your Weapon and Spell Damage by 330 against targets affected by your Poison Arrow.",
+      "ru": "(2 предмета) Сила оружия и заклинаний +103 , Ваша сила оружия и заклинаний против целей пораженных способностью Отравленная стрела увеличивается на 330."
+    },
+    "weapon_slots": [
+      "bow"
+    ]
+  },
+  {
+    "id": "set.perfected_destructive_impact",
+    "type": "weapon",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Perfected Destructive Impact",
+      "ru": "Совершенное разрушительное столкновение"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 103 Weapon and Spell Damage , Reduces the cost of Destructive Touch by 10% and increases your Weapon and Spell Damage by 600 for 4 seconds after activating it.",
+      "ru": "(2 предмета) Сила оружия и заклинаний +103 , Стоимость способности Разрушительное касание уменьшается на 10%. После ее применения ваша сила оружия и заклинаний увеличивается на 600 на 4сек."
+    },
+    "weapon_slots": [
+      "lightningStaff",
+      "iceStaff",
+      "infernoStaff"
+    ]
+  },
+  {
+    "id": "set.perfected_grand_rejuvenation",
+    "type": "weapon",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Perfected Grand Rejuvenation",
+      "ru": "Совершенное высшее восстановление"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 877 Maximum Magicka , The initial heal of Grand Healing invigorates you and group members affected for 6 seconds, restoring 224 Magicka and Stamina every 2 seconds.",
+      "ru": "(2 предмета) Макс. магия +877 , Первоначальное исцеление от способности Высшее исцеление в течение 6сек. придает сил вам и затронутым членам группы восстанавливая 224ед. магии и запаса сил раз в 2сек."
+    },
+    "weapon_slots": [
+      "restorationStaff"
+    ]
+  },
+  {
+    "id": "set.perfected_puncturing_remedy",
+    "type": "weapon",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Perfected Puncturing Remedy",
+      "ru": "Совершенное исцеление уколом"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 3% Healing Taken , When you deal damage with Puncture, you heal for 2230 Health and gain Spell and Physical Resistance equal to the amount of healing or over healing done for 5 seconds. The healing scales off your Max Health.",
+      "ru": "(2 предмета) Получаемое лечение +3% , При нанесении урона способностью Укол 2230ы исцеляетесь на 2425ед. здоровья . В течение 5сек. ваша магическая и физическая сопротивляемость увеличивается на количество единиц восстановленного здоровья (включая избыточное лечение). Сила исцеления способности зависит от вашего максимального запаса здоровья."
+    },
+    "weapon_slots": [
+      "shield",
+      "sword",
+      "axe",
+      "mace",
+      "dagger"
+    ]
+  },
+  {
+    "id": "set.perfected_stinging_slashes",
+    "type": "weapon",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Perfected Stinging Slashes",
+      "ru": "Совершенные кровоточащие порезы"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 526 Critical Chance, Twin Slashes deals 209 more damage for each hit of the initial attack and bleed. This effect scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(2 предмета) Шанс крит. удара +526 , Способность Д209ойной порез наносит на240ед. больше урона за каждое попадание во время первоначальной атаки и вызванное кровотечение. Сила этого эффекта зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    },
+    "weapon_slots": [
+      "sword",
+      "axe",
+      "mace",
+      "dagger"
+    ]
+  },
+  {
+    "id": "set.perfected_titanic_cleave",
+    "type": "weapon",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Perfected Titanic Cleave",
+      "ru": "Совершенное титаническое рассечение"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1190 Offensive Penetration , Increases the direct damage Cleave deals by 1550 for each enemy in its cone.",
+      "ru": "(2 предмета) Пробивание +1190 , Прямой урон наносимый способностью Рассечение каждому врагу в области поражения увеличивается на 1550."
+    },
+    "weapon_slots": [
+      "greatsword",
+      "battleAxe",
+      "maul"
+    ]
+  },
+  {
+    "id": "set.puncturing_remedy",
+    "type": "weapon",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Puncturing Remedy",
+      "ru": "Совершенное исцеление уколом"
+    },
+    "bonuses": {
+      "en": "(2 items) When you deal damage with Puncture, you heal for 2230 Health and gain Spell and Physical Resistance equal to the amount of healing or over healing done for 5 seconds. The healing scales off your Max Health.",
+      "ru": "(2 предмета) Получаемое лечение +3% , При нанесении урона способностью Укол 2230ы исцеляетесь на 2425ед. здоровья . В течение 5сек. ваша магическая и физическая сопротивляемость увеличивается на количество единиц восстановленного здоровья (включая избыточное лечение). Сила исцеления способности зависит от вашего максимального запаса здоровья."
+    },
+    "weapon_slots": [
+      "shield",
+      "sword",
+      "axe",
+      "mace",
+      "dagger"
+    ]
+  },
+  {
+    "id": "set.robes_of_destruction_mastery",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Robes of Destruction Mastery",
+      "ru": "Облачение мастерства разрушения"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) While you have a Destruction Staff equipped, your Max Magicka is increased by 2840.",
+      "ru": "(2 предмета) Макс. магия +1096(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) Пока вы используете посох разрушения ваш максимальный запас магии увеличивается на 2840."
+    }
+  },
+  {
+    "id": "set.stinging_slashes",
+    "type": "weapon",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Stinging Slashes",
+      "ru": "Кровоточащие порезы"
+    },
+    "bonuses": {
+      "en": "(2 items) Twin Slashes deals 209 more damage for each hit of the initial attack and bleed. This effect scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(2 предмета) Способность Д209ойной порез наносит на240ед. больше урона за каждое попадание во время первоначальной атаки и вызванное кровотечение. Сила этого эффекта зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    },
+    "weapon_slots": [
+      "sword",
+      "axe",
+      "mace",
+      "dagger"
+    ]
+  },
+  {
+    "id": "set.titanic_cleave",
+    "type": "weapon",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Titanic Cleave",
+      "ru": "Титаническое рассечение"
+    },
+    "bonuses": {
+      "en": "(2 items) Increases the direct damage Cleave deals by 1550 for each enemy in its cone.",
+      "ru": "(2 предмета) Прямой урон наносимый способностью Рассечение каждому врагу в области поражения увеличивается на 1550."
+    },
+    "weapon_slots": [
+      "greatsword",
+      "battleAxe",
+      "maul"
+    ]
   }
 ]

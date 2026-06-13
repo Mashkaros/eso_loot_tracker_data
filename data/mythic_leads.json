@@ -778,5 +778,70 @@
       "en": "Calamitous Roksa the Warped in the Night Market",
       "ru": "Calamitous Roksa the Warped in the Night Market"
     }
+  },
+  {
+    "id": "lead.chain_of_the_werewolf",
+    "mythic_id": "myth.shapeshifters_chain",
+    "source_id": "src.craglorn",
+    "name": {
+      "en": "Chain of the Werewolf",
+      "ru": "Цепочка вервольфа"
+    },
+    "notes": {
+      "en": "Hircine’s Haunt delve, all bosses",
+      "ru": "Логово для группы «Обиталище Хирсина», любые боссы"
+    }
+  },
+  {
+    "id": "lead.torc_throat_guards",
+    "mythic_id": "myth.torc_of_tonal_constancy",
+    "source_id": "src.craglorn",
+    "name": {
+      "en": "Torc Throat Guards",
+      "ru": "Ожерелье-ошейник"
+    },
+    "notes": {
+      "en": "World Bosses",
+      "ru": "Мировые боссы Анка-Ра"
+    }
+  },
+  {
+    "id": "lead.wide_barbed_shank",
+    "mythic_id": "myth.death_dealers_fete",
+    "source_id": "src.craglorn",
+    "name": {
+      "en": "Wide Barbed Shank",
+      "ru": "Широкий ободок с крючками"
+    },
+    "notes": {
+      "en": "Anomalies in Craglorn in the reward treasure chest, Nirncrux Mines",
+      "ru": "Сундуки — награды за победу над мировыми боссами аномалий и шахт соли Нирна"
+    }
+  },
+  {
+    "id": "lead.crimson_diamond",
+    "mythic_id": "myth.belharzas_band",
+    "source_id": "src.falkreath_hold.normal",
+    "name": {
+      "en": "Crimson Diamond",
+      "ru": "Алый бриллиант"
+    },
+    "notes": {
+      "en": "Falkreath Hold Dungeon chests",
+      "ru": "Групповое подземелье «Владение Фолкрит», сундуки"
+    }
+  },
+  {
+    "id": "lead.sturdy_silver_prongs",
+    "mythic_id": "myth.death_dealers_fete",
+    "source_id": "src.dragonstar_arena.normal",
+    "name": {
+      "en": "Sturdy Silver Prongs",
+      "ru": "Прочные серебряные зубчики"
+    },
+    "notes": {
+      "en": "Dragonstar Arena last chest after endboss",
+      "ru": "Арена Драгонстара, сундук — награда за победу над последним боссом арены"
+    }
   }
 ]

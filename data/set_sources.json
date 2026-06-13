@@ -970,5 +970,241 @@
   {
     "set_id": "set.stone_husk",
     "source_id": "src.stone_garden.vet"
+  },
+  {
+    "set_id": "set.twice_born_star",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.way_of_air",
+    "source_id": "src.craglorn"
+  },
+  {
+    "set_id": "set.way_of_fire",
+    "source_id": "src.craglorn"
+  },
+  {
+    "set_id": "set.way_of_martial_knowledge",
+    "source_id": "src.craglorn"
+  },
+  {
+    "set_id": "set.way_of_the_arena",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.defending_warrior",
+    "source_id": "src.aetherian_archive"
+  },
+  {
+    "set_id": "set.healing_mage",
+    "source_id": "src.aetherian_archive"
+  },
+  {
+    "set_id": "set.infallible_mage",
+    "source_id": "src.aetherian_archive"
+  },
+  {
+    "set_id": "set.quick_serpent",
+    "source_id": "src.aetherian_archive"
+  },
+  {
+    "set_id": "set.blooddrinker",
+    "source_id": "src.bloodroot_forge.normal"
+  },
+  {
+    "set_id": "set.blooddrinker",
+    "source_id": "src.bloodroot_forge.vet"
+  },
+  {
+    "set_id": "set.flame_blossom",
+    "source_id": "src.bloodroot_forge.normal"
+  },
+  {
+    "set_id": "set.flame_blossom",
+    "source_id": "src.bloodroot_forge.vet"
+  },
+  {
+    "set_id": "set.hagravens_garden",
+    "source_id": "src.bloodroot_forge.normal"
+  },
+  {
+    "set_id": "set.hagravens_garden",
+    "source_id": "src.bloodroot_forge.vet"
+  },
+  {
+    "set_id": "set.earthgore",
+    "source_id": "src.undaunted_urgarlag"
+  },
+  {
+    "set_id": "set.earthgore",
+    "source_id": "src.bloodroot_forge.vet"
+  },
+  {
+    "set_id": "set.pillar_of_nirn",
+    "source_id": "src.falkreath_hold.normal"
+  },
+  {
+    "set_id": "set.pillar_of_nirn",
+    "source_id": "src.falkreath_hold.vet"
+  },
+  {
+    "set_id": "set.ironblood",
+    "source_id": "src.falkreath_hold.normal"
+  },
+  {
+    "set_id": "set.ironblood",
+    "source_id": "src.falkreath_hold.vet"
+  },
+  {
+    "set_id": "set.draugrs_rest",
+    "source_id": "src.falkreath_hold.normal"
+  },
+  {
+    "set_id": "set.draugrs_rest",
+    "source_id": "src.falkreath_hold.vet"
+  },
+  {
+    "set_id": "set.domihaus",
+    "source_id": "src.undaunted_urgarlag"
+  },
+  {
+    "set_id": "set.domihaus",
+    "source_id": "src.falkreath_hold.vet"
+  },
+  {
+    "set_id": "set.berserking_warrior",
+    "source_id": "src.hel_ra_citadel"
+  },
+  {
+    "set_id": "set.destructive_mage",
+    "source_id": "src.hel_ra_citadel"
+  },
+  {
+    "set_id": "set.eternal_warrior",
+    "source_id": "src.hel_ra_citadel"
+  },
+  {
+    "set_id": "set.poisonous_serpent",
+    "source_id": "src.hel_ra_citadel"
+  },
+  {
+    "set_id": "set.immortal_warrior",
+    "source_id": "src.sanctum_ophidia"
+  },
+  {
+    "set_id": "set.twice_fanged_serpent",
+    "source_id": "src.sanctum_ophidia"
+  },
+  {
+    "set_id": "set.vicious_serpent",
+    "source_id": "src.sanctum_ophidia"
+  },
+  {
+    "set_id": "set.wise_mage",
+    "source_id": "src.sanctum_ophidia"
+  },
+  {
+    "set_id": "set.archers_mind",
+    "source_id": "src.dragonstar_arena.normal"
+  },
+  {
+    "set_id": "set.archers_mind",
+    "source_id": "src.dragonstar_arena.vet"
+  },
+  {
+    "set_id": "set.caustic_arrow",
+    "source_id": "src.dragonstar_arena.normal"
+  },
+  {
+    "set_id": "set.caustic_arrow",
+    "source_id": "src.dragonstar_arena.vet"
+  },
+  {
+    "set_id": "set.destructive_impact",
+    "source_id": "src.dragonstar_arena.normal"
+  },
+  {
+    "set_id": "set.destructive_impact",
+    "source_id": "src.dragonstar_arena.vet"
+  },
+  {
+    "set_id": "set.footmans_fortune",
+    "source_id": "src.dragonstar_arena.normal"
+  },
+  {
+    "set_id": "set.footmans_fortune",
+    "source_id": "src.dragonstar_arena.vet"
+  },
+  {
+    "set_id": "set.grand_rejuvenation",
+    "source_id": "src.dragonstar_arena.normal"
+  },
+  {
+    "set_id": "set.grand_rejuvenation",
+    "source_id": "src.dragonstar_arena.vet"
+  },
+  {
+    "set_id": "set.healers_habit",
+    "source_id": "src.dragonstar_arena.normal"
+  },
+  {
+    "set_id": "set.healers_habit",
+    "source_id": "src.dragonstar_arena.vet"
+  },
+  {
+    "set_id": "set.perfected_caustic_arrow",
+    "source_id": "src.dragonstar_arena.vet"
+  },
+  {
+    "set_id": "set.perfected_destructive_impact",
+    "source_id": "src.dragonstar_arena.vet"
+  },
+  {
+    "set_id": "set.perfected_grand_rejuvenation",
+    "source_id": "src.dragonstar_arena.vet"
+  },
+  {
+    "set_id": "set.perfected_puncturing_remedy",
+    "source_id": "src.dragonstar_arena.vet"
+  },
+  {
+    "set_id": "set.perfected_stinging_slashes",
+    "source_id": "src.dragonstar_arena.vet"
+  },
+  {
+    "set_id": "set.perfected_titanic_cleave",
+    "source_id": "src.dragonstar_arena.vet"
+  },
+  {
+    "set_id": "set.puncturing_remedy",
+    "source_id": "src.dragonstar_arena.normal"
+  },
+  {
+    "set_id": "set.puncturing_remedy",
+    "source_id": "src.dragonstar_arena.vet"
+  },
+  {
+    "set_id": "set.robes_of_destruction_mastery",
+    "source_id": "src.dragonstar_arena.normal"
+  },
+  {
+    "set_id": "set.robes_of_destruction_mastery",
+    "source_id": "src.dragonstar_arena.vet"
+  },
+  {
+    "set_id": "set.stinging_slashes",
+    "source_id": "src.dragonstar_arena.normal"
+  },
+  {
+    "set_id": "set.stinging_slashes",
+    "source_id": "src.dragonstar_arena.vet"
+  },
+  {
+    "set_id": "set.titanic_cleave",
+    "source_id": "src.dragonstar_arena.normal"
+  },
+  {
+    "set_id": "set.titanic_cleave",
+    "source_id": "src.dragonstar_arena.vet"
   }
 ]
