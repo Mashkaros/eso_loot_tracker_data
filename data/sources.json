@@ -366,5 +366,53 @@
       "en": "Asylum Sanctorium Vet",
       "ru": "Изоляционный санктуарий Ветеранское"
     }
+  },
+  {
+    "id": "src.blackwood",
+    "type": "overland",
+    "name": {
+      "en": "Blackwood",
+      "ru": "Черный лес"
+    }
+  },
+  {
+    "id": "src.the_dread_cellar.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "The Dread Cellar Normal",
+      "ru": "Ужасный подвал Обычное"
+    }
+  },
+  {
+    "id": "src.the_dread_cellar.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "The Dread Cellar Vet",
+      "ru": "Ужасный подвал Ветеранское"
+    }
+  },
+  {
+    "id": "src.rockgrove.normal",
+    "type": "trial",
+    "name": {
+      "en": "Rockgrove Normal",
+      "ru": "Каменная Роща Обычное"
+    }
+  },
+  {
+    "id": "src.rockgrove.vet",
+    "type": "trial",
+    "name": {
+      "en": "Rockgrove Vet",
+      "ru": "Каменная Роща Ветеранское"
+    }
+  },
+  {
+    "id": "src.bleakrock_isle",
+    "type": "trial",
+    "name": {
+      "en": "Bleakrock Isle",
+      "ru": "Остров Стылая Скала"
+    }
   }
 ]

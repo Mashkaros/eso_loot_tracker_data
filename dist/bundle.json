@@ -1,6 +1,6 @@
 {
-  "version": "2026-06-12.3",
-  "generated_at": "2026-06-12T11:38:26Z",
+  "version": "2026-06-13.1",
+  "generated_at": "2026-06-13T04:48:46Z",
   "sources": [
     {
       "id": "src.crafting_station",
@@ -368,6 +368,54 @@
       "name": {
         "en": "Asylum Sanctorium Vet",
         "ru": "Изоляционный санктуарий Ветеранское"
+      }
+    },
+    {
+      "id": "src.blackwood",
+      "type": "overland",
+      "name": {
+        "en": "Blackwood",
+        "ru": "Черный лес"
+      }
+    },
+    {
+      "id": "src.the_dread_cellar.normal",
+      "type": "dungeon",
+      "name": {
+        "en": "The Dread Cellar Normal",
+        "ru": "Ужасный подвал Обычное"
+      }
+    },
+    {
+      "id": "src.the_dread_cellar.vet",
+      "type": "dungeon",
+      "name": {
+        "en": "The Dread Cellar Vet",
+        "ru": "Ужасный подвал Ветеранское"
+      }
+    },
+    {
+      "id": "src.rockgrove.normal",
+      "type": "trial",
+      "name": {
+        "en": "Rockgrove Normal",
+        "ru": "Каменная Роща Обычное"
+      }
+    },
+    {
+      "id": "src.rockgrove.vet",
+      "type": "trial",
+      "name": {
+        "en": "Rockgrove Vet",
+        "ru": "Каменная Роща Ветеранское"
+      }
+    },
+    {
+      "id": "src.bleakrock_isle",
+      "type": "trial",
+      "name": {
+        "en": "Bleakrock Isle",
+        "ru": "Остров Стылая Скала"
       }
     }
   ],
@@ -1981,6 +2029,258 @@
         "en": "(2 items) Adds 877 Maximum Magicka, When you cast Blessing of Protection, the cost of your Magicka and Stamina healing abilities are reduced by 21% for 3 seconds.",
         "ru": "(2 предмета) Макс. магия +877, При использовании способности Благословение защиты стоимость ваших исцеляющих способностей расходующих магию или запас сил уменьшается на 21% на 3сек."
       }
+    },
+    {
+      "id": "set.bog_raider",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "heavy",
+      "name": {
+        "en": "Bog Raider",
+        "ru": "Болотный разбойник"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 1206 Maximum Health(4 items) Adds 1096 Maximum Stamina(5 items) When an enemy you have recently damaged dies, gain 10 Ultimate and increase your Health Recovery by 1156 for 10 seconds. This effect can occur once every 10 seconds.",
+        "ru": "(2 предмета) Макс. магия +1096(3 предмета) Макс. здоровье +1206(4 предмета) Макс. запас сил +1096(5 предметов) Когда противник которому вы недавно нанесли урон умирает вы получаете 10очк. суперспособности а ваше восстановление здоровья увеличивается на 1156 в течение 10сек. Этот эффект может срабатывать не чаще чем раз в 10сек."
+      }
+    },
+    {
+      "id": "set.deadlands_assassin",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "medium",
+      "name": {
+        "en": "Deadlands Assassin",
+        "ru": "Убийца из Мертвых Земель"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 1096 Maximum Stamina(5 items) Adds 200 Weapon and Spell Damage , Dealing damage to an enemy within 10 meters of you with a Heavy Attack causes you to throw a cone of knives, dealing 817 Physical Damage to enemies hit. If an enemy hit has 50% Health or less, they also take an additional 1632 Bleed Damage over 14 seconds. This effect can occur once every 15 seconds and scales off the higher of your Weapon or Spell Damage.",
+        "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Сила оружия и заклинаний +129(4 предмета) Макс. запас сил +1096(5 предметов) Сила оружия и заклинаний +200 , Нанося урон проти817никам в радиусе 1632м силовой атакой вы мечете ножи отчего те получают 939ед. физического урона . Если у пораженного врага осталось 50% здоровья или меньше он получает еще 1876ед. вызванного кровотечением урона в течение 14сек. Этот эффект срабатывает не чаще чем раз в 15сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+      }
+    },
+    {
+      "id": "set.diamonds_victory",
+      "type": "usual",
+      "farm_way": "craft",
+      "weight": "mixed",
+      "name": {
+        "en": "Diamond's Victory",
+        "ru": "Алмазная победа"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) While in combat, using an ability with a range of 7 meters or less grants you Range Supremacy for 5 seconds, adding 437 Weapon and Spell Damage to your damage over time and ranged attacks. While in combat, using an ability with a range of over 7 meters grants you Melee Supremacy for 5 seconds, adding 437 Weapon and Spell Damage to your melee attacks.",
+        "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) При использовании в бою способности с дальностью действия 7метров или меньше вы на 5сек. получаете эффект Превосходство дальнего боя увеличивающий на 437 силу оружия и заклинаний при использовании способностей с периодическим уроном и атак дальнего боя. При использовании в бою способности с дальностью действия более 7метров вы на 5сек. получаете эффект Превосходство ближнего боя увеличивающий на 437 силу оружия и заклинаний при использовании атак ближнего боя."
+      }
+    },
+    {
+      "id": "set.frostbite",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "light",
+      "name": {
+        "en": "Frostbite",
+        "ru": "Обморожение"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) Increases your damage done with Frost abilities by 8%. Increases your damage done against Chilled enemies by 4%. Increases your damage done against enemies afflicted with Minor Brittle by 2%.",
+        "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) Эффективность ваших способностей с морозным уроном увеличивается на 8%. Урон наносимый обмороженным противникам увеличивается на 4%. Урон наносимый противникам на которых действует эффект Малая хрупкость увеличивается на 2%."
+      }
+    },
+    {
+      "id": "set.heartland_conqueror",
+      "type": "usual",
+      "farm_way": "craft",
+      "weight": "mixed",
+      "name": {
+        "en": "Heartland Conqueror",
+        "ru": "Завоеватель Среднеземья"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 1096 Maximum Magicka(4 items) Adds 1096 Maximum Stamina(5 items) Increase the effectiveness of your Weapon Traits by 100%. This does not affect Ornate or Intricate traits.",
+        "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Макс. магия +1096(4 предмета) Макс. запас сил +1096(5 предметов) Эффективность особенностей вашего оружия увеличивается на 100%. Этот эффект не затрагивает особенности Ценность и Мастерство."
+      }
+    },
+    {
+      "id": "set.hist_whisperer",
+      "type": "usual",
+      "farm_way": "craft",
+      "weight": "mixed",
+      "name": {
+        "en": "Hist Whisperer",
+        "ru": "Шептун хиста"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Health Recovery(3 items) Adds 129 Stamina Recovery(4 items) Adds 129 Magicka Recovery(5 items) Dealing damage with a Light or Medium Attack heals you for 318 Health and restores 318 Stamina and Magicka. Dealing damage with a fully-charged Heavy Attack heals you for 636 Health and restores 636 Stamina and Magicka.",
+        "ru": "(2 предмета) Восст. здоровья +129(3 предмета) Восст. запаса сил +129(4 предмета) Восст. магии +129(5 предметов) При нанесении урона обычной или средней атакой вы восстанавливаете 318ед. здоровья и 318ед. запаса сил и магии. При нанесении урона полностью заряженной силовой атакой вы восстанавливаете 636ед. здоровья и 636ед. запаса сил и магии."
+      }
+    },
+    {
+      "id": "set.crimson_oaths_rive",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "heavy",
+      "name": {
+        "en": "Crimson Oath's Rive",
+        "ru": "Прозрение Алой Клятвы"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1487 Armor(3 items) Adds 1206 Maximum Health(4 items) Adds 1487 Armor(5 items) While you are in combat, casting an ability, drinking a potion, or using a poison that applies a Major or Minor buff to yourself or an ally, sends out a wave of energy that reduces the Armor of nearby enemies within 12 meters by 3541 for 15 seconds. This effect can occur once every 12 seconds, and will only occur if an enemy is within range.",
+        "ru": "(2 предмета) Броня +1487(3 предмета) Макс. здоровье +1206(4 предмета) Броня +1487(5 предметов) Применяя способности выпивая зелья или используя яды накладывающие на вас или на союзника великий или малый положительный эффект в бою вы вызываете волну энергии которая снижает показатель брони ближайших противников в радиусе 12метров на 3541 в течение 15сек. Этот эффект может срабатывать не чаще чем раз в 12сек. и только в том случае если противник находится в области действия."
+      }
+    },
+    {
+      "id": "set.magma_incarnate",
+      "type": "monster",
+      "farm_way": "farm",
+      "weight": "mixed",
+      "name": {
+        "en": "Magma Incarnate",
+        "ru": "Живое Пламя"
+      },
+      "bonuses": {
+        "en": "(1 item) Adds 129 Magicka Recovery , Adds 129 Stamina Recovery(2 items) When you heal yourself or a group member with a single target heal ability, grant the lowest Health group member within 28 meters Minor Courage and Minor Resolve , increasing their Weapon and Spell Damage by 215 and Armor by 2974 for 10 seconds. Daedric Energy will then bounce to a nearby group member within 8 meters, up to 3 times, applying Minor Courage and Minor Resolve for 10 seconds. This effect can occur once every 15 seconds.",
+        "ru": "(1 предмет) Восст. магии +129 , Восст. запаса сил +129(2 предмета) Исцеляя себя или члена группы одиночной способностью вы накладываете на члена группы с самым низким уровнем здоровья в радиусе 28метров эффекты Малая храбрость и Малая решимость увеличивая его силу оружия и заклинаний на 215 а показатель брони— на 2974 в течение 10сек. После этого даэдрическая энергия до 3раз отскакивает к ближайшим членам группы в радиусе 8метров накладывая на них эффекты Малая храбрость и Малая решимость на 10сек. Этот эффект может срабатывать не чаще чем раз в 15сек."
+      }
+    },
+    {
+      "id": "set.rush_of_agony",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "medium",
+      "name": {
+        "en": "Rush of Agony",
+        "ru": "Стремительная агония"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Stamina Recovery(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 1487 Offensive Penetration(5 items) Dealing direct damage with a Blink, Charge, Leap, Teleport, or Pull ability creates an area under the enemy that pulls enemies within 12 meters after 0.8 seconds. After 2 seconds, deal 1705 Physical Damage to all enemies within 7 meters of you. This effect can occur once every 8 seconds and scales off the higher of your Weapon or Spell Damage. The pull will not apply Crowd Control Immunity but works once every 7 seconds per target.",
+        "ru": "(2 предмета) Восст. запаса сил +129(3 предмета) Сила оружия и заклинаний +129(4 предмета) Пробивание +1487(5 предметов) Нанося прямой урон способностью позволяющей совершить м1705новенное перемещение рывок прыжок телепортироваться или притянуть противника к себе вы создаете под целью область которая спустя 0,8сек. притягивает противников в радиусе 12м. Спустя 2сек. вы наносите всем противникам в радиусе 7м от вас 1960ед. физического урона . Этот эффект может срабатывать не чаще чем раз в8сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением). Притяжение не дает невосприимчивости к эффектам контроля и срабатывает раз в7сек. для каждой цели."
+      }
+    },
+    {
+      "id": "set.scorions_feast",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "light",
+      "name": {
+        "en": "Scorion's Feast",
+        "ru": "Пир скориона"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 129 Magicka Recovery(4 items) Adds 129 Weapon and Spell Damage(5 items) When you deal damage with a fully-charged Heavy Attack, you gain an Imbued Aura for 10 seconds, granting you and up to 3 other group members 307 Magicka and Stamina Recovery. This effect can occur once every 20 seconds. If you deal damage with a fully-charged Heavy Attack with an Imbued Aura active, consume it and gain an Overflow Aura for 10 seconds, granting you and up to 3 other group members 307 Weapon and Spell Damage .",
+        "ru": "(2 предмета) Макс. магия +1096(3 предмета) Восст. магии +129(4 предмета) Сила оружия и заклинаний +129(5 предметов) Нанося урон полностью заряженной силовой атакой вы на 10сек. получаете эффект Аура наполненности который увеличивает восстановление магии и запаса сил вам и 3другим членам вашей группы на 307. Этот эффект может срабатывать не чаще чем раз в 20сек. Нанося урон полностью заряженной силовой атакой под действием этого эффекта вы поглощаете его и на 10сек. получаете эффект Аура избыточности увеличивающий силу оружия и заклинаний вам и 3другим членам вашей группы на 307."
+      }
+    },
+    {
+      "id": "set.bahseis_mania",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "light",
+      "name": {
+        "en": "Bahsei's Mania",
+        "ru": "Безумие Басей"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%.(4 items) Adds 657 Critical Chance(5 items) Increases your damage done against monsters by up to 15% based on your missing Magicka, reaching the maximum at 50% Magicka.",
+        "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Вы получаете постоянный эффект Малая жажда убийств увеличивающий ваш урон по монстрам подземелий испытаний и арен на 5%.(4 предмета) Шанс крит. удара +657(5 предметов) Урон наносимый монстрам у0еличивается вплоть до15% в зависимости от вашей недостающей магии достигая максимума при 50% запаса магии. Текущее значение: 0%"
+      }
+    },
+    {
+      "id": "set.perfected_bahseis_mania",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "light",
+      "name": {
+        "en": "Perfected Bahsei's Mania",
+        "ru": "Совершенное безумие Басей"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%.(4 items) Adds 657 Critical Chance(5 items) Adds 129 Weapon and Spell Damage , Increases your damage done against monsters by up to 15% based on your missing Magicka, reaching the maximum at 50% Magicka.",
+        "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Вы получаете постоянный эффект Малая жажда убийств увеличивающий ваш урон по монстрам подземелий испытаний и арен на 5%.(4 предмета) Шанс крит. удара +657(5 предметов) Сила оружия и заклинаний +129 , Урон наносимый монстрам у0еличивается вплоть до15% в зависимости от вашей недостающей магии достигая максимума при 50% запаса магии. Текущее значение: 0%"
+      }
+    },
+    {
+      "id": "set.perfected_saxhleel_champion",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "heavy",
+      "name": {
+        "en": "Perfected Saxhleel Champion",
+        "ru": "Совершенный воитель саксхлил"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%.(4 items) Adds 1096 Maximum Stamina(5 items) Adds 1096 Maximum Stamina , When you use an Ultimate ability while in combat, you and up to 11 group members within 28 meters of you gain Major Force for 1 second per 15 Ultimate spent, increasing your Critical Damage done by 20%.",
+        "ru": "(2 предмета) Макс. магия +1096(3 предмета) Вы получаете постоянный эффект Малая эгида уменьшающий урон наносимый вам монстрами подземелий испытаний и арен на 5%.(4 предмета) Макс. запас сил +1096(5 предметов) Макс. запас сил +1096 , Когда вы используете в бою суперспособность вы и 11других членов вашей группы в радиусе 28метров от вас получаете эффект Великая сила на 1сек. за каждые 15потраченных очков суперспособности увеличивающий наносимый вами критический урон на 20%."
+      }
+    },
+    {
+      "id": "set.perfected_stone_talkers_oath",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "light",
+      "name": {
+        "en": "Perfected Stone-Talker's Oath",
+        "ru": "Совершенная клятва говорящего с камнями"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Magicka Recovery(3 items) Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%.(4 items) Adds 129 Magicka Recovery(5 items) Adds 1096 Maximum Magicka , Your fully-charged Heavy Attacks place a soul bomb on your target that charges as the target takes damage. After 10 seconds, the bomb explodes, restoring 5% of the damage received as Stamina and Magicka, up to 2240 Stamina and Magicka, to 12 group members within 16 meters of the explosion. This effect can occur every 10 seconds.",
+        "ru": "(2 предмета) Восст. магии +129(3 предмета) Вы получаете постоянный эффект Малая эгида уменьшающий урон наносимый вам монстрами подземелий испытаний и арен на 5%.(4 предмета) Восст. магии +129(5 предметов) Макс. магия +1096 , Ваши полностью заряженные силовые атаки помещают на цель бомбу душ которая заряжается когда цель получает урон. Спустя 10сек. бомба взрывается восстанавливая запас сил и магию в размере 5% от полученного целью урона (но не более 2240ед.) 12членам группы в радиусе 16метров от взрыва. Этот эффект может срабатывать не чаще чем раз в 10сек."
+      }
+    },
+    {
+      "id": "set.perfected_sul_xans_torment",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "medium",
+      "name": {
+        "en": "Perfected Sul-Xan's Torment",
+        "ru": "Совершенная пытка сул-зан"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%.(4 items) Adds 657 Critical Chance(5 items) Adds 657 Critical Chance, When an enemy you recently damaged dies, they leave behind a vengeful soul for 6 seconds. You can only create one vengeful soul at a time. Touching the soul increases your Critical Chance by 2160 and your Critical Damage by 12% for 30 seconds.",
+        "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Вы получаете постоянный эффект Малая жажда убийств увеличивающий ваш урон по монстрам подземелий испытаний и арен на 5%.(4 предмета) Шанс крит. удара +657(5 предметов) Шанс крит. удара +657 , Когда противник которому вы недавно нанесли урон умирает его мстительная душа остается в мире на 6сек. Одновременно может существовать только одна такая душа. Прикосновение к мстительной душе увеличивает ваш показатель критического удара на 2160 а критический урон— на 12% на 30сек."
+      }
+    },
+    {
+      "id": "set.saxhleel_champion",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "heavy",
+      "name": {
+        "en": "Saxhleel Champion",
+        "ru": "Воитель саксхлил"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%.(4 items) Adds 1096 Maximum Stamina(5 items) When you use an Ultimate ability while in combat, you and up to 11 group members within 28 meters of you gain Major Force for 1 second per 15 Ultimate spent, increasing your Critical Damage done by 20%.",
+        "ru": "(2 предмета) Макс. магия +1096(3 предмета) Вы получаете постоянный эффект Малая эгида уменьшающий урон наносимый вам монстрами подземелий испытаний и арен на 5%.(4 предмета) Макс. запас сил +1096(5 предметов) Когда вы используете в бою суперспособность вы и 11других членов вашей группы в радиусе 28метров от вас получаете эффект Великая сила на 1сек. за каждые 15потраченных очков суперспособности увеличивающий наносимый вами критический урон на 20%."
+      }
+    },
+    {
+      "id": "set.stone_talkers_oath",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "light",
+      "name": {
+        "en": "Stone-Talker's Oath",
+        "ru": "Клятва говорящего с камнями"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Magicka Recovery(3 items) Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%.(4 items) Adds 129 Magicka Recovery(5 items) Your fully-charged Heavy Attacks place a soul bomb on your target that charges as the target takes damage. After 10 seconds, the bomb explodes, restoring 5% of the damage received as Stamina and Magicka, up to 2240 Stamina and Magicka, to 12 group members within 16 meters of the explosion. This effect can occur every 10 seconds.",
+        "ru": "(2 предмета) Восст. магии +129(3 предмета) Вы получаете постоянный эффект Малая эгида уменьшающий урон наносимый вам монстрами подземелий испытаний и арен на 5%.(4 предмета) Восст. магии +129(5 предметов) Ваши полностью заряженные силовые атаки помещают на цель бомбу душ которая заряжается когда цель получает урон. Спустя 10сек. бомба взрывается восстанавливая запас сил и магию в размере 5% от полученного целью урона (но не более 2240ед.) 12членам группы в радиусе 16метров от взрыва. Этот эффект может срабатывать не чаще чем раз в 10сек."
+      }
+    },
+    {
+      "id": "set.sul_xans_torment",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "medium",
+      "name": {
+        "en": "Sul-Xan's Torment",
+        "ru": "Пытка сул-зан"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Gain Minor Slayer at all times, increasing your damage done to Dungeon, Trial, and Arena Monsters by 5%.(4 items) Adds 657 Critical Chance(5 items) When an enemy you recently damaged dies, they leave behind a vengeful soul for 6 seconds. You can only create one vengeful soul at a time. Touching the soul increases your Critical Chance by 2160 and your Critical Damage by 12% for 30 seconds.",
+        "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Вы получаете постоянный эффект Малая жажда убийств увеличивающий ваш урон по монстрам подземелий испытаний и арен на 5%.(4 предмета) Шанс крит. удара +657(5 предметов) Когда противник которому вы недавно нанесли урон умирает его мстительная душа остается в мире на 6сек. Одновременно может существовать только одна такая душа. Прикосновение к мстительной душе увеличивает ваш показатель критического удара на 2160 а критический урон— на 12% на 30сек."
+      }
     }
   ],
   "set_sources": [
@@ -2973,6 +3273,141 @@
       "id": "ss.set.unfathomable_darkness.src.asylum_sanctorium.vet",
       "set_id": "set.unfathomable_darkness",
       "source_id": "src.asylum_sanctorium.vet"
+    },
+    {
+      "id": "ss.set.bog_raider.src.blackwood",
+      "set_id": "set.bog_raider",
+      "source_id": "src.blackwood"
+    },
+    {
+      "id": "ss.set.deadlands_assassin.src.blackwood",
+      "set_id": "set.deadlands_assassin",
+      "source_id": "src.blackwood"
+    },
+    {
+      "id": "ss.set.diamonds_victory.src.crafting_station",
+      "set_id": "set.diamonds_victory",
+      "source_id": "src.crafting_station"
+    },
+    {
+      "id": "ss.set.frostbite.src.blackwood",
+      "set_id": "set.frostbite",
+      "source_id": "src.blackwood"
+    },
+    {
+      "id": "ss.set.heartland_conqueror.src.crafting_station",
+      "set_id": "set.heartland_conqueror",
+      "source_id": "src.crafting_station"
+    },
+    {
+      "id": "ss.set.hist_whisperer.src.crafting_station",
+      "set_id": "set.hist_whisperer",
+      "source_id": "src.crafting_station"
+    },
+    {
+      "id": "ss.set.crimson_oaths_rive.src.the_dread_cellar.normal",
+      "set_id": "set.crimson_oaths_rive",
+      "source_id": "src.the_dread_cellar.normal"
+    },
+    {
+      "id": "ss.set.crimson_oaths_rive.src.the_dread_cellar.vet",
+      "set_id": "set.crimson_oaths_rive",
+      "source_id": "src.the_dread_cellar.vet"
+    },
+    {
+      "id": "ss.set.magma_incarnate.src.the_dread_cellar.vet",
+      "set_id": "set.magma_incarnate",
+      "source_id": "src.the_dread_cellar.vet"
+    },
+    {
+      "id": "ss.set.magma_incarnate.src.undaunted_urgarlag",
+      "set_id": "set.magma_incarnate",
+      "source_id": "src.undaunted_urgarlag"
+    },
+    {
+      "id": "ss.set.rush_of_agony.src.the_dread_cellar.normal",
+      "set_id": "set.rush_of_agony",
+      "source_id": "src.the_dread_cellar.normal"
+    },
+    {
+      "id": "ss.set.rush_of_agony.src.the_dread_cellar.vet",
+      "set_id": "set.rush_of_agony",
+      "source_id": "src.the_dread_cellar.vet"
+    },
+    {
+      "id": "ss.set.scorions_feast.src.the_dread_cellar.normal",
+      "set_id": "set.scorions_feast",
+      "source_id": "src.the_dread_cellar.normal"
+    },
+    {
+      "id": "ss.set.scorions_feast.src.the_dread_cellar.vet",
+      "set_id": "set.scorions_feast",
+      "source_id": "src.the_dread_cellar.vet"
+    },
+    {
+      "id": "ss.set.bahseis_mania.src.rockgrove.normal",
+      "set_id": "set.bahseis_mania",
+      "source_id": "src.rockgrove.normal"
+    },
+    {
+      "id": "ss.set.bahseis_mania.src.rockgrove.vet",
+      "set_id": "set.bahseis_mania",
+      "source_id": "src.rockgrove.vet"
+    },
+    {
+      "id": "ss.set.perfected_bahseis_mania.src.rockgrove.vet",
+      "set_id": "set.perfected_bahseis_mania",
+      "source_id": "src.rockgrove.vet"
+    },
+    {
+      "id": "ss.set.perfected_saxhleel_champion.src.rockgrove.vet",
+      "set_id": "set.perfected_saxhleel_champion",
+      "source_id": "src.rockgrove.vet"
+    },
+    {
+      "id": "ss.set.perfected_stone_talkers_oath.src.rockgrove.vet",
+      "set_id": "set.perfected_stone_talkers_oath",
+      "source_id": "src.rockgrove.vet"
+    },
+    {
+      "id": "ss.set.perfected_sul_xans_torment.src.rockgrove.vet",
+      "set_id": "set.perfected_sul_xans_torment",
+      "source_id": "src.rockgrove.vet"
+    },
+    {
+      "id": "ss.set.saxhleel_champion.src.rockgrove.normal",
+      "set_id": "set.saxhleel_champion",
+      "source_id": "src.rockgrove.normal"
+    },
+    {
+      "id": "ss.set.saxhleel_champion.src.rockgrove.vet",
+      "set_id": "set.saxhleel_champion",
+      "source_id": "src.rockgrove.vet"
+    },
+    {
+      "id": "ss.set.stone_talkers_oath.src.rockgrove.normal",
+      "set_id": "set.stone_talkers_oath",
+      "source_id": "src.rockgrove.normal"
+    },
+    {
+      "id": "ss.set.stone_talkers_oath.src.rockgrove.vet",
+      "set_id": "set.stone_talkers_oath",
+      "source_id": "src.rockgrove.vet"
+    },
+    {
+      "id": "ss.set.sul_xans_torment.src.rockgrove.normal",
+      "set_id": "set.sul_xans_torment",
+      "source_id": "src.rockgrove.normal"
+    },
+    {
+      "id": "ss.set.sul_xans_torment.src.rockgrove.vet",
+      "set_id": "set.sul_xans_torment",
+      "source_id": "src.rockgrove.vet"
+    },
+    {
+      "id": "ss.set.armor_of_the_trainee.src.bleakrock_isle",
+      "set_id": "set.armor_of_the_trainee",
+      "source_id": "src.bleakrock_isle"
     }
   ],
   "mythics": [
@@ -3202,6 +3637,42 @@
       "bonuses": {
         "en": "(1 item) Reduce the cost of your Transformation Ultimate and Werewolf abilities by 15%. While transformed, increase your Maximum Health, Stamina, and Magicka by 1707.",
         "ru": "(1 предмет) Стоимость всех суперспособностей связанных с превращением и способностей из ветки Вервольф уменьшается на 15%. После превращения ваш максимальный запас сил здоровья и магии увеличивается на 1707ед."
+      }
+    },
+    {
+      "id": "myth.death_dealers_fete",
+      "slot": "ring",
+      "name": {
+        "en": "Death Dealer's Fete",
+        "ru": "Торжество несущего смерть"
+      },
+      "bonuses": {
+        "en": "Gain a persistent stack of Escalating Fete every 2 seconds you are in combat, up to 30 stacks max. Each stack of Escalating Fete increases your Maximum Stamina, Health, and Magicka by 88. You lose a stack of Escalating Fete every 4 seconds you are out of combat.",
+        "ru": "(1)Находясь в бою, вы раз в 2 сек. получаете постоянный заряд эффекта «Растущее торжество» (всего можно накопить не более 30 зарядов), который увеличивает ваш максимальный запас сил, здоровья и магии на 88 ед. Покидая бой, вы теряете один заряд эффекта раз в 4 сек."
+      }
+    },
+    {
+      "id": "myth.spaulder_of_ruin",
+      "slot": "shoulders",
+      "name": {
+        "en": "Spaulder of Ruin",
+        "ru": "Наплечник разрушения"
+      },
+      "bonuses": {
+        "en": "(1 item) Activating crouch or Prowl activates and deactivates a 12 meter Aura of Pride. Up to 6 group members in the aura gain 260 Weapon and Spell Damage. Reduce your Health, Magicka, and Stamina Recovery by 70 for every target benefiting from your Aura of Pride.",
+        "ru": "(1)При активации режима скрытности вокруг вас появляется или исчезает аура гордости радиусом 12 метров. До 6 членов группы, находящихся в ауре, получают 260 к силе оружия и заклинаний. Ваше восстановление здоровья, магии и запаса сил уменьшается на 70 за каждого, на кого действует ваша аура гордости."
+      }
+    },
+    {
+      "id": "myth.snow_treaders",
+      "slot": "feet",
+      "name": {
+        "en": "Snow Treaders",
+        "ru": "Снегоходы"
+      },
+      "bonuses": {
+        "en": "(1 item) While you are in combat, you are immune to snares and immobilizations that can be cleansed, but you cannot Sprint.",
+        "ru": "(1 предмет) В бою вы получаете невосприимчивость к эффектам замедления и обездвиживания которые можно снять однако не можете использовать спринт."
       }
     }
   ],
@@ -3698,6 +4169,97 @@
       "notes": {
         "en": "Vaults of Madness Dungeon last boss",
         "ru": "Групповое подземелье «Своды Безумия», последний босс"
+      }
+    },
+    {
+      "id": "lead.glass_skeletal_visage",
+      "mythic_id": "myth.gaze_of_sithis",
+      "source_id": "src.blackwood",
+      "name": {
+        "en": "Glass Skeletal Visage",
+        "ru": "Стеклянная маска в форме черепа"
+      },
+      "notes": {
+        "en": "Public Dungeon Zenithar’s Abbey, all bosses",
+        "ru": "Открытое подземелье «Аббатство Зенитара», любые боссы"
+      }
+    },
+    {
+      "id": "lead.kothringiCut_leather",
+      "mythic_id": "myth.harpooners_wading_kilt",
+      "source_id": "src.blackwood",
+      "name": {
+        "en": "Kothringi-Cut Leather",
+        "ru": "Отрез кожи работы котринги"
+      },
+      "notes": {
+        "en": "World Bosses",
+        "ru": "Мировые боссы"
+      }
+    },
+    {
+      "id": "lead.preserved_wraxu_feathers",
+      "mythic_id": "myth.gaze_of_sithis",
+      "source_id": "src.blackwood",
+      "name": {
+        "en": "Preserved Wraxu Feathers",
+        "ru": "Перья враксу в отличном состоянии"
+      },
+      "notes": {
+        "en": "'Remains-Silent' NPC in any Outlaws Refugee. Pick: 'Have any equipment today' option. Drop is RNG based. Need 'Shadowy Supplier' passive unlocked from Dark Bortherhood Skillline",
+        "ru": "Любое убежище преступников, логово воров или убежище Тёмного Братства — завещательница Хранит-Молчание (аргонианка), вариант диалога: «У тебя есть снаряжение?»"
+      }
+    },
+    {
+      "id": "lead.reinforced_clasp_anchor",
+      "mythic_id": "myth.shapeshifters_chain",
+      "source_id": "src.blackwood",
+      "name": {
+        "en": "Reinforced Clasp Anchor",
+        "ru": "Укрепленная застежка"
+      },
+      "notes": {
+        "en": "Public Dungeon Silent Halls, Woodwhisperer Boss, Vor’Chul The Beastbreaker Boss, most likely all bosses",
+        "ru": "Открытое подземелье «Безмолвные чертоги», любые боссы"
+      }
+    },
+    {
+      "id": "lead.void_alloy_lame_plates",
+      "mythic_id": "myth.spaulder_of_ruin",
+      "source_id": "src.blackwood",
+      "name": {
+        "en": "Void Alloy Lame Plates",
+        "ru": "Пластины из пустотного сплава"
+      },
+      "notes": {
+        "en": "Leyawiin safeboxes, Blackwood safeboxes",
+        "ru": "Сейфы"
+      }
+    },
+    {
+      "id": "lead.warm_asymmetrical_ruby",
+      "mythic_id": "myth.death_dealers_fete",
+      "source_id": "src.blackwood",
+      "name": {
+        "en": "Warm Asymmetrical Ruby",
+        "ru": "Теплый несимметричный рубин"
+      },
+      "notes": {
+        "en": "Oblivion Portal final chest",
+        "ru": "Открытое подземелье «Остров жертвоприношения» (только через портал в Чёрном Лесу), сундук — награда за победу над последним боссом"
+      }
+    },
+    {
+      "id": "lead.auriEl_metal_carvings",
+      "mythic_id": "myth.snow_treaders",
+      "source_id": "src.bleakrock_isle",
+      "name": {
+        "en": "Auri-El Metal Carvings",
+        "ru": "Гравировка в виде Аури-Эля"
+      },
+      "notes": {
+        "en": "Random Monsters",
+        "ru": "Любые мобы"
       }
     }
   ]

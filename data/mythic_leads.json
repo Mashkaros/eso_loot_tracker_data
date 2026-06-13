@@ -492,5 +492,96 @@
       "en": "Vaults of Madness Dungeon last boss",
       "ru": "Групповое подземелье «Своды Безумия», последний босс"
     }
+  },
+  {
+    "id": "lead.glass_skeletal_visage",
+    "mythic_id": "myth.gaze_of_sithis",
+    "source_id": "src.blackwood",
+    "name": {
+      "en": "Glass Skeletal Visage",
+      "ru": "Стеклянная маска в форме черепа"
+    },
+    "notes": {
+      "en": "Public Dungeon Zenithar’s Abbey, all bosses",
+      "ru": "Открытое подземелье «Аббатство Зенитара», любые боссы"
+    }
+  },
+  {
+    "id": "lead.kothringiCut_leather",
+    "mythic_id": "myth.harpooners_wading_kilt",
+    "source_id": "src.blackwood",
+    "name": {
+      "en": "Kothringi-Cut Leather",
+      "ru": "Отрез кожи работы котринги"
+    },
+    "notes": {
+      "en": "World Bosses",
+      "ru": "Мировые боссы"
+    }
+  },
+  {
+    "id": "lead.preserved_wraxu_feathers",
+    "mythic_id": "myth.gaze_of_sithis",
+    "source_id": "src.blackwood",
+    "name": {
+      "en": "Preserved Wraxu Feathers",
+      "ru": "Перья враксу в отличном состоянии"
+    },
+    "notes": {
+      "en": "'Remains-Silent' NPC in any Outlaws Refugee. Pick: 'Have any equipment today' option. Drop is RNG based. Need 'Shadowy Supplier' passive unlocked from Dark Bortherhood Skillline",
+      "ru": "Любое убежище преступников, логово воров или убежище Тёмного Братства — завещательница Хранит-Молчание (аргонианка), вариант диалога: «У тебя есть снаряжение?»"
+    }
+  },
+  {
+    "id": "lead.reinforced_clasp_anchor",
+    "mythic_id": "myth.shapeshifters_chain",
+    "source_id": "src.blackwood",
+    "name": {
+      "en": "Reinforced Clasp Anchor",
+      "ru": "Укрепленная застежка"
+    },
+    "notes": {
+      "en": "Public Dungeon Silent Halls, Woodwhisperer Boss, Vor’Chul The Beastbreaker Boss, most likely all bosses",
+      "ru": "Открытое подземелье «Безмолвные чертоги», любые боссы"
+    }
+  },
+  {
+    "id": "lead.void_alloy_lame_plates",
+    "mythic_id": "myth.spaulder_of_ruin",
+    "source_id": "src.blackwood",
+    "name": {
+      "en": "Void Alloy Lame Plates",
+      "ru": "Пластины из пустотного сплава"
+    },
+    "notes": {
+      "en": "Leyawiin safeboxes, Blackwood safeboxes",
+      "ru": "Сейфы"
+    }
+  },
+  {
+    "id": "lead.warm_asymmetrical_ruby",
+    "mythic_id": "myth.death_dealers_fete",
+    "source_id": "src.blackwood",
+    "name": {
+      "en": "Warm Asymmetrical Ruby",
+      "ru": "Теплый несимметричный рубин"
+    },
+    "notes": {
+      "en": "Oblivion Portal final chest",
+      "ru": "Открытое подземелье «Остров жертвоприношения» (только через портал в Чёрном Лесу), сундук — награда за победу над последним боссом"
+    }
+  },
+  {
+    "id": "lead.auriEl_metal_carvings",
+    "mythic_id": "myth.snow_treaders",
+    "source_id": "src.bleakrock_isle",
+    "name": {
+      "en": "Auri-El Metal Carvings",
+      "ru": "Гравировка в виде Аури-Эля"
+    },
+    "notes": {
+      "en": "Random Monsters",
+      "ru": "Любые мобы"
+    }
   }
 ]

@@ -790,5 +790,113 @@
   {
     "set_id": "set.unfathomable_darkness",
     "source_id": "src.asylum_sanctorium.vet"
+  },
+  {
+    "set_id": "set.bog_raider",
+    "source_id": "src.blackwood"
+  },
+  {
+    "set_id": "set.deadlands_assassin",
+    "source_id": "src.blackwood"
+  },
+  {
+    "set_id": "set.diamonds_victory",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.frostbite",
+    "source_id": "src.blackwood"
+  },
+  {
+    "set_id": "set.heartland_conqueror",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.hist_whisperer",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.crimson_oaths_rive",
+    "source_id": "src.the_dread_cellar.normal"
+  },
+  {
+    "set_id": "set.crimson_oaths_rive",
+    "source_id": "src.the_dread_cellar.vet"
+  },
+  {
+    "set_id": "set.magma_incarnate",
+    "source_id": "src.the_dread_cellar.vet"
+  },
+  {
+    "set_id": "set.magma_incarnate",
+    "source_id": "src.undaunted_urgarlag"
+  },
+  {
+    "set_id": "set.rush_of_agony",
+    "source_id": "src.the_dread_cellar.normal"
+  },
+  {
+    "set_id": "set.rush_of_agony",
+    "source_id": "src.the_dread_cellar.vet"
+  },
+  {
+    "set_id": "set.scorions_feast",
+    "source_id": "src.the_dread_cellar.normal"
+  },
+  {
+    "set_id": "set.scorions_feast",
+    "source_id": "src.the_dread_cellar.vet"
+  },
+  {
+    "set_id": "set.bahseis_mania",
+    "source_id": "src.rockgrove.normal"
+  },
+  {
+    "set_id": "set.bahseis_mania",
+    "source_id": "src.rockgrove.vet"
+  },
+  {
+    "set_id": "set.perfected_bahseis_mania",
+    "source_id": "src.rockgrove.vet"
+  },
+  {
+    "set_id": "set.perfected_saxhleel_champion",
+    "source_id": "src.rockgrove.vet"
+  },
+  {
+    "set_id": "set.perfected_stone_talkers_oath",
+    "source_id": "src.rockgrove.vet"
+  },
+  {
+    "set_id": "set.perfected_sul_xans_torment",
+    "source_id": "src.rockgrove.vet"
+  },
+  {
+    "set_id": "set.saxhleel_champion",
+    "source_id": "src.rockgrove.normal"
+  },
+  {
+    "set_id": "set.saxhleel_champion",
+    "source_id": "src.rockgrove.vet"
+  },
+  {
+    "set_id": "set.stone_talkers_oath",
+    "source_id": "src.rockgrove.normal"
+  },
+  {
+    "set_id": "set.stone_talkers_oath",
+    "source_id": "src.rockgrove.vet"
+  },
+  {
+    "set_id": "set.sul_xans_torment",
+    "source_id": "src.rockgrove.normal"
+  },
+  {
+    "set_id": "set.sul_xans_torment",
+    "source_id": "src.rockgrove.vet"
+  },
+  {
+    "set_id": "set.armor_of_the_trainee",
+    "source_id": "src.bleakrock_isle"
   }
 ]
