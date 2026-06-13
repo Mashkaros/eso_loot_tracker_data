@@ -898,5 +898,41 @@
   {
     "set_id": "set.armor_of_the_trainee",
     "source_id": "src.bleakrock_isle"
+  },
+  {
+    "set_id": "set.deadlands_demolisher",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.eye_of_the_grasp",
+    "source_id": "src.deadlands"
+  },
+  {
+    "set_id": "set.hexos_ward",
+    "source_id": "src.deadlands"
+  },
+  {
+    "set_id": "set.iron_flask",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.kynmarchers_cruelty",
+    "source_id": "src.deadlands"
+  },
+  {
+    "set_id": "set.wretched_vitality",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.glittering_goad",
+    "source_id": "src.the_night_market"
+  },
+  {
+    "set_id": "set.the_ruckus",
+    "source_id": "src.the_night_market"
+  },
+  {
+    "set_id": "set.thousand_eyes",
+    "source_id": "src.the_night_market"
   }
 ]

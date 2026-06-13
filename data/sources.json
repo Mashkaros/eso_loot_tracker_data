@@ -409,10 +409,34 @@
   },
   {
     "id": "src.bleakrock_isle",
-    "type": "trial",
+    "type": "overland",
     "name": {
       "en": "Bleakrock Isle",
       "ru": "Остров Стылая Скала"
+    }
+  },
+  {
+    "id": "src.deadlands",
+    "type": "overland",
+    "name": {
+      "en": "Deadlands",
+      "ru": "Мертвые Земли"
+    }
+  },
+  {
+    "id": "src.fargrave",
+    "type": "overland",
+    "name": {
+      "en": "Fargrave",
+      "ru": "Фаргрейв"
+    }
+  },
+  {
+    "id": "src.the_night_market",
+    "type": "overland",
+    "name": {
+      "en": "The Night Market",
+      "ru": "Ночной рынок"
     }
   }
 ]

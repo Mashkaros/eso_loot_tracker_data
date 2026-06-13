@@ -262,5 +262,41 @@
       "en": "(1 item) While you are in combat, you are immune to snares and immobilizations that can be cleansed, but you cannot Sprint.",
       "ru": "(1 предмет) В бою вы получаете невосприимчивость к эффектам замедления и обездвиживания которые можно снять однако не можете использовать спринт."
     }
+  },
+  {
+    "id": "myth.moras_whispers",
+    "slot": "head",
+    "name": {
+      "en": "Mora's Whispers",
+      "ru": "Шепот Моры"
+    },
+    "bonuses": {
+      "en": "(1 item) Gain up to 1528 Critical Chance and 10% increased Inspiration, Alliance Rank, Alliance skill, and 15% monster kill experience based off how many books of Shalidor's Library have been collected.",
+      "ru": "(1 предмет) Ваш показатель крит. удара увеличивается на 1528 вдохновение звание в альянсе и опыт в военных навыках— на 10% а опыт за убийство монстров— на 15% в зависимости от того сколько книг из библиотеки Шалидора вы собрали. Текущий бонус: 336 к показателю крит. удара 2% к вдохновению званию в альянсе и опыту в военных навыках 3% к опыту за убийство монстров"
+    }
+  },
+  {
+    "id": "myth.belharzas_band",
+    "slot": "ring",
+    "name": {
+      "en": "Belharza's Band",
+      "ru": "Перстень Белхарзы"
+    },
+    "bonuses": {
+      "en": "(1 item) Increase the damage of your Light Attacks by 900. When you deal damage with consecutive melee Light Attacks, gain a stack of Belharza's Temper for 10 seconds, up to 5 stacks max. At 5 stacks, consume Belharza's Temper and after 1 second, deal 1472 Physical Damage to enemies in a line and stun them for 3 seconds. This effect can occur once every 10 seconds and scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(1 предмет) Урон от ваших обычных атак увеличивается на 900ед. При нанесении урона последовательными обычными атаками ближне1472о боя вы получаете заряд эффекта Гнев Белхарзы на 10сек. Всего можно накопить до 5зарядов. При накоплении 5зарядов вы поглощаете их и спустя 1сек. наносите 1692ед. физического урона противникам находящимся на прямой линии перед вами и оглушаете их на 3сек. Этот эффект может срабатывать не чаще чем раз в 10сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "myth.shattered_paths_signet",
+    "slot": "ring",
+    "name": {
+      "en": "Shattered Paths Signet",
+      "ru": "Перстень утраченных путей"
+    },
+    "bonuses": {
+      "en": "(1 item) Increase your damage done with status effects by 1% for every 1 Ultimate you have, up to 170%. This effect is divided by 1 plus 1 if the target is a player, plus 1 if Feral Guardian is active. While you have 170 or more Ultimate, your Light and Heavy Attacks apply a random status effect, up to once every 4 seconds. Applies Minor Timidity to you, consuming 1 Ultimate every 1.5 seconds in combat.",
+      "ru": "(1 предмет) Урон наносимый вашими эффектами состояния увеличивается на 1% за каждые 1очк. суперспособности (но не более чем на 170%). Эта прибавка делится на 1 плюс 1 (если цель— игрок) плюс количество ваших призванных постоянных существ. Пока у вас остается не менее 170очк. суперспособности ваши обычные и силовые атаки накладывают на противника случайный эффект состояния. Это может происходить не чаще чем раз в 4сек. Вы получаете эффект Малая трусливость который поглощает в бою 1очк. суперспособности раз в 1,5сек."
+    }
   }
 ]

@@ -583,5 +583,200 @@
       "en": "Random Monsters",
       "ru": "Любые мобы"
     }
+  },
+  {
+    "id": "lead.bloodshot_oculus",
+    "mythic_id": "myth.moras_whispers",
+    "source_id": "src.deadlands",
+    "name": {
+      "en": "Bloodshot Oculus",
+      "ru": "Налитый кровью глаз"
+    },
+    "notes": {
+      "en": "any Watcher monster (confirmed drops in Atoll of Immolation (Deadlands Portal) and the Cauldron dungeon))",
+      "ru": "Наблюдатели в открытом подземелье «Остров жертвоприношения» (только через портал в Мёртвых Землях) и наблюдатели группового подземелья «Котёл»"
+    }
+  },
+  {
+    "id": "lead.clannfear_leather_strapping",
+    "mythic_id": "myth.spaulder_of_ruin",
+    "source_id": "src.deadlands",
+    "name": {
+      "en": "Clannfear Leather Strapping",
+      "ru": "Перевязь из кожи кланфира"
+    },
+    "notes": {
+      "en": "Clannfear mobs in any of the zones that exist in ESO",
+      "ru": "Монстры-кланфиры"
+    }
+  },
+  {
+    "id": "lead.mindcleaver_loop",
+    "mythic_id": "myth.markyn_ring",
+    "source_id": "src.deadlands",
+    "name": {
+      "en": "Mindcleaver Loop",
+      "ru": "Кольцо Рассекающих Разум"
+    },
+    "notes": {
+      "en": "Den of the Unmaker world boss",
+      "ru": "Мировой босс «Логова Разрушителя»"
+    }
+  },
+  {
+    "id": "lead.petrified _daedroth_horn",
+    "mythic_id": "myth.spaulder_of_ruin",
+    "source_id": "src.deadlands",
+    "name": {
+      "en": "Petrified Daedroth Horn",
+      "ru": "Окаменелый рог даэдрота"
+    },
+    "notes": {
+      "en": "The Abomination Cradle world boss",
+      "ru": "Мировой босс «Колыбели Чудовища»"
+    }
+  },
+  {
+    "id": "lead.sclerotic_tentacle",
+    "mythic_id": "myth.moras_whispers",
+    "source_id": "src.deadlands",
+    "name": {
+      "en": "Sclerotic Tentacle",
+      "ru": "Вялое щупальце"
+    },
+    "notes": {
+      "en": "Watchlings inside Oblivion Portals (inside Atoll of Immolation) in the the Deadlands zone. Also drops from Watchlings in the Deadland zone itself.",
+      "ru": "Крошки-наблюдатели «Острова жертвоприношения» и Мёртвых Земель"
+    }
+  },
+  {
+    "id": "lead.searing_gem",
+    "mythic_id": "myth.markyn_ring",
+    "source_id": "src.deadlands",
+    "name": {
+      "en": "Searing Gem",
+      "ru": "Жгучий камень"
+    },
+    "notes": {
+      "en": "Daedrats",
+      "ru": "Даэдрысы"
+    }
+  },
+  {
+    "id": "lead.seeker_sinew_thread",
+    "mythic_id": "myth.moras_whispers",
+    "source_id": "src.deadlands",
+    "name": {
+      "en": "Seeker-sinew Thread",
+      "ru": "Нить из сухожилий искателя"
+    },
+    "notes": {
+      "en": "Clothing Nodes (Torn Cloth) in the Deadlands zone",
+      "ru": "Сбор обрывков ткани"
+    }
+  },
+  {
+    "id": "lead.void_alloy_rivets",
+    "mythic_id": "myth.spaulder_of_ruin",
+    "source_id": "src.deadlands",
+    "name": {
+      "en": "Void Alloy Rivets",
+      "ru": "Заклепки из пустотного сплава"
+    },
+    "notes": {
+      "en": "Drops from any Dremora type monster in any of the zones in ESO",
+      "ru": "Монстры-дремора"
+    }
+  },
+  {
+    "id": "lead.firescourge_band",
+    "mythic_id": "myth.markyn_ring",
+    "source_id": "src.fargrave",
+    "name": {
+      "en": "Firescourge Band",
+      "ru": "Кольцо Огненной Плети"
+    },
+    "notes": {
+      "en": "Deadlands Daily Reward Coffer",
+      "ru": "Ежедневные задания от Сараату Тонг и Сборщиков городского района Фаргрейва"
+    }
+  },
+  {
+    "id": "lead.bulls_head_gallery_rail",
+    "mythic_id": "myth.belharzas_band",
+    "source_id": "src.fargrave",
+    "name": {
+      "en": "Bull's Head Gallery Rail",
+      "ru": "Окантовка с головой быка"
+    },
+    "notes": {
+      "en": "Deadlands Daily Rewards Coffer",
+      "ru": "Ежедневные задания от Сараату Тонг и Сборщиков городского района Фаргрейва"
+    }
+  },
+  {
+    "id": "lead.flickering_charcoal_rubbings",
+    "mythic_id": "myth.shattered_paths_signet",
+    "source_id": "src.the_night_market",
+    "name": {
+      "en": "Flickering Charcoal Rubbings",
+      "ru": "Мерцающие наброски углем"
+    },
+    "notes": {
+      "en": "Calamitous Wailing Bedina in the Night Market",
+      "ru": "Calamitous Wailing Bedina in the Night Market"
+    }
+  },
+  {
+    "id": "lead.fractured_prismatic_gem",
+    "mythic_id": "myth.shattered_paths_signet",
+    "source_id": "src.the_night_market",
+    "name": {
+      "en": "Fractured Prismatic Gem",
+      "ru": "Треснувший призматический камень"
+    },
+    "notes": {
+      "en": "Calamitous Roksa the Warped in the Night Market",
+      "ru": "Calamitous Roksa the Warped in the Night Market"
+    }
+  },
+  {
+    "id": "lead.nugget_of_aetheric_gold",
+    "mythic_id": "myth.shattered_paths_signet",
+    "source_id": "src.the_night_market",
+    "name": {
+      "en": "Nugget of Aetheric Gold",
+      "ru": "Этерический золотой самородок"
+    },
+    "notes": {
+      "en": "Brazen Votary of Velidreth in the Night Market",
+      "ru": "Brazen Votary of Velidreth in the Night Market"
+    }
+  },
+  {
+    "id": "lead.ossein_ring_mold",
+    "mythic_id": "myth.shattered_paths_signet",
+    "source_id": "src.the_night_market",
+    "name": {
+      "en": "Ossein Ring Mold",
+      "ru": "Костяная форма для кольца"
+    },
+    "notes": {
+      "en": "Night Market Faction Daily Quest/ Glorious Night Market Reward Coffer",
+      "ru": "Night Market Faction Daily Quest/ Glorious Night Market Reward Coffer"
+    }
+  },
+  {
+    "id": "lead.starlight_oil",
+    "mythic_id": "myth.shattered_paths_signet",
+    "source_id": "src.the_night_market",
+    "name": {
+      "en": "Starlight Oil",
+      "ru": "Масло звездного света"
+    },
+    "notes": {
+      "en": "Calamitous Roksa the Warped in the Night Market",
+      "ru": "Calamitous Roksa the Warped in the Night Market"
+    }
   }
 ]
