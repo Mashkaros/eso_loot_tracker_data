@@ -843,5 +843,31 @@
       "en": "Dragonstar Arena last chest after endboss",
       "ru": "Арена Драгонстара, сундук — награда за победу над последним боссом арены"
     }
+  },
+  {
+    "id": "lead.magickaImbued_metal_plates",
+    "mythic_id": "myth.snow_treaders",
+    "source_id": "src.cyrodiil",
+    "name": {
+      "en": "Magicka-Imbued Metal Plates",
+      "ru": "Магические металлические пластины"
+    },
+    "notes": {
+      "en": "Raelynne Ahham Boss in Underpall Cave, Cyrodiil",
+      "ru": "Логово «Подзавесная пещера», любые боссы"
+    }
+  },
+  {
+    "id": "lead.weighted_spiked_bridge",
+    "mythic_id": "myth.death_dealers_fete",
+    "source_id": "src.cyrodiil",
+    "name": {
+      "en": "Weighted Spiked Bridge",
+      "ru": "Тяжелая оправа с шипами"
+    },
+    "notes": {
+      "en": "Rewards for the Worthy Mail (PVP Reward)",
+      "ru": "Награда достойным за PvP-активность в Сиродиле"
+    }
   }
 ]

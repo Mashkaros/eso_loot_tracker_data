@@ -1242,5 +1242,237 @@
   {
     "set_id": "set.wizards_riposte",
     "source_id": "src.battlegrounds"
+  },
+  {
+    "set_id": "set.affliction",
+    "source_id": "src.vlastarus_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.alessian_order",
+    "source_id": "src.vlastarus_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.almalexias_mercy",
+    "source_id": "src.cropsford_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.baan_dars_blessing",
+    "source_id": "src.cyrodiil"
+  },
+  {
+    "set_id": "set.bastion_of_the_heartland",
+    "source_id": "src.vlastarus_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.battalion_defender",
+    "source_id": "src.cyrodiil"
+  },
+  {
+    "set_id": "set.battlefield_acrobat",
+    "source_id": "src.cyrodiil"
+  },
+  {
+    "set_id": "set.beckoning_steel",
+    "source_id": "src.vlastarus_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.blessing_of_the_potentates",
+    "source_id": "src.vlastarus_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.buffer_of_the_swift",
+    "source_id": "src.cropsford_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.colovian_highlands_general",
+    "source_id": "src.elite_gear_vendor"
+  },
+  {
+    "set_id": "set.crest_of_cyrodiil",
+    "source_id": "src.vlastarus_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.critical_riposte",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.curse_eater",
+    "source_id": "src.cropsford_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.dauntless_combatant",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.deadly_strike",
+    "source_id": "src.bruma_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.desert_rose",
+    "source_id": "src.cropsford_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.eagle_eye",
+    "source_id": "src.bruma_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.elf_bane",
+    "source_id": "src.vlastarus_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.enervating_aura",
+    "source_id": "src.cyrodiil"
+  },
+  {
+    "set_id": "set.enervating_aura",
+    "source_id": "src.battlegrounds"
+  },
+  {
+    "set_id": "set.fasallas_guile",
+    "source_id": "src.home_base_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.grace_of_the_ancients",
+    "source_id": "src.cropsford_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.hawks_eye",
+    "source_id": "src.bruma_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.hew_and_sunder",
+    "source_id": "src.cyrodiil"
+  },
+  {
+    "set_id": "set.hew_and_sunder",
+    "source_id": "src.battlegrounds"
+  },
+  {
+    "set_id": "set.indomitable_fury",
+    "source_id": "src.cyrodiil"
+  },
+  {
+    "set_id": "set.jerall_mountains_warchief",
+    "source_id": "src.elite_gear_vendor"
+  },
+  {
+    "set_id": "set.judgment_of_akatosh",
+    "source_id": "src.cyrodiil"
+  },
+  {
+    "set_id": "set.kynes_kiss",
+    "source_id": "src.bruma_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.lekis_focus",
+    "source_id": "src.home_base_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.light_of_cyrodiil",
+    "source_id": "src.cropsford_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.marksmans_crest",
+    "source_id": "src.home_base_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.nibenay_bay_battlereeve",
+    "source_id": "src.elite_gear_vendor"
+  },
+  {
+    "set_id": "set.oakfathers_retribution",
+    "source_id": "src.battlegrounds"
+  },
+  {
+    "set_id": "set.oakfathers_retribution",
+    "source_id": "src.cyrodiil"
+  },
+  {
+    "set_id": "set.rallying_cry",
+    "source_id": "src.cropsford_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.ravager",
+    "source_id": "src.vlastarus_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.robes_of_alteration_mastery",
+    "source_id": "src.cropsford_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.robes_of_transmutation",
+    "source_id": "src.home_base_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.sentry",
+    "source_id": "src.bruma_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.shadow_walker",
+    "source_id": "src.bruma_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.shell_splitter",
+    "source_id": "src.cyrodiil"
+  },
+  {
+    "set_id": "set.shield_of_the_valiant",
+    "source_id": "src.bruma_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.snake_in_the_stars",
+    "source_id": "src.cyrodiil"
+  },
+  {
+    "set_id": "set.soldier_of_anguish",
+    "source_id": "src.cyrodiil"
+  },
+  {
+    "set_id": "set.spell_strategist",
+    "source_id": "src.battlegrounds"
+  },
+  {
+    "set_id": "set.spell_strategist",
+    "source_id": "src.cyrodiil"
+  },
+  {
+    "set_id": "set.steadfast_hero",
+    "source_id": "src.cyrodiil"
+  },
+  {
+    "set_id": "set.the_arch_mage",
+    "source_id": "src.cropsford_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.the_juggernaut",
+    "source_id": "src.vlastarus_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.the_morag_tong",
+    "source_id": "src.bruma_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.unchained_aggressor",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.vengeance_leech",
+    "source_id": "src.bruma_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.vicious_death",
+    "source_id": "src.home_base_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.ward_of_cyrodiil",
+    "source_id": "src.bruma_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.warriors_fury",
+    "source_id": "src.home_base_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.wrath_of_the_imperium",
+    "source_id": "src.cropsford_elite_gear_vendor"
   }
 ]

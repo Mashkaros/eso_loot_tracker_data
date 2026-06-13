@@ -550,5 +550,53 @@
       "en": "Battlegrounds",
       "ru": "Поля сражений"
     }
+  },
+  {
+    "id": "src.vlastarus_elite_gear_vendor",
+    "type": "vendor",
+    "name": {
+      "en": "Vlastarus Elite Gear Vendor",
+      "ru": "Продавец элитного снаряжения во Властарусе"
+    }
+  },
+  {
+    "id": "src.cropsford_elite_gear_vendor",
+    "type": "vendor",
+    "name": {
+      "en": "Cropsford Elite Gear Vendor",
+      "ru": "Продавец элитного снаряжения в Кропсфорде"
+    }
+  },
+  {
+    "id": "src.elite_gear_vendor",
+    "type": "vendor",
+    "name": {
+      "en": "Elite Gear Vendor",
+      "ru": "Продавец элитного снаряжения"
+    }
+  },
+  {
+    "id": "src.cyrodiil",
+    "type": "overland",
+    "name": {
+      "en": "Cyrodiil",
+      "ru": "Сиродил"
+    }
+  },
+  {
+    "id": "src.bruma_elite_gear_vendor",
+    "type": "vendor",
+    "name": {
+      "en": "Bruma Elite Gear Vendor",
+      "ru": "Продавец элитного снаряжения в Бруме"
+    }
+  },
+  {
+    "id": "src.home_base_elite_gear_vendor",
+    "type": "vendor",
+    "name": {
+      "en": "Home Base Elite Gear Vendor",
+      "ru": "Продавец элитного снаряжения на базе"
+    }
   }
 ]
