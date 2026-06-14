@@ -1550,5 +1550,13 @@
   {
     "set_id": "set.stonekeeper",
     "source_id": "src.undaunted_urgarlag"
+  },
+  {
+    "set_id": "set.eyes_of_mara",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.shalidors_curse",
+    "source_id": "src.crafting_station"
   }
 ]
