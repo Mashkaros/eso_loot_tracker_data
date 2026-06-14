@@ -1,0 +1,58 @@
+[
+  {
+    "id": "set.icy_conjurer",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Icy Conjurer",
+      "ru": "Ледяной заклинатель"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 1487 Offensive Penetration(5 items) Applying a minor debuff to your enemy summons a non-reflectable Ice Wraith that will charge into your enemy, dealing 3070 Frost Damage over 10 seconds. This effect can occur every 10 seconds and scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(2 предмета) Макс. магия +1096(3 предмета) Сила оружия и заклинаний +129(4 предмета) Пробивание +1487(5 предметов) Накладывая на противника малый отрицательный эффект вы призываете ледяное привидение атаку которого нельзя отразить. Привидение атакует врага нанося 3530ед. морозного урона в течение 10сек. Этот эффект может срабатывать не чаще чем раз в 10сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.mighty_glacier",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Mighty Glacier",
+      "ru": "Великий ледник"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 1096 Maximum Magicka(4 items) Adds 129 Stamina Recovery , Adds 129 Magicka Recovery(5 items) When you activate a snare or immobilize ability or hit a target with a snare or immobilize ability, you and up to 11 group members gain Major Resolve for 15 seconds, increasing your Physical and Spell Resistances by 5948. This effect can occur once every 10 seconds.",
+      "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Макс. магия +1096(4 предмета) Восст. запаса сил +129 , Восст. магии +129(5 предметов) При активации замедляющей или обездвиживающей способности либо при атаке противника с помощью замедляющей или обездвиживающей способности вы и 11других членов вашей группы на 15сек. получаете эффект Великая решимость увеличивающий физическую и магическую сопротивляемость на 5948. Этот эффект может срабатывать не чаще чем раз в 10сек."
+    }
+  },
+  {
+    "id": "set.stonekeeper",
+    "type": "monster",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Stonekeeper",
+      "ru": "Хранитель Камня"
+    },
+    "bonuses": {
+      "en": "(1 item) Adds 548 Maximum Stamina , Adds 548 Maximum Magicka , Adds 603 Maximum Health(2 items) When you Block, you gain an energy Charge stack. When you gain 6 Charges, you release the energy, restoring 2480 Stamina and Magicka, and healing for 2480. After releasing the Charges, you cannot regain new Charges for 14 seconds. Charges can be accumulated up to once every .25 seconds.",
+      "ru": "(1 предмет) Макс. запас сил +548 , Макс. магия +548 , Макс. здоровье +603(2 предмета) При блокировании вы получаете заряд энергии. Накопив 6зарядов вы высвобождаете энергию восстанавливая 2480ед. запаса сил и магии а также исцеляясь на 2480ед. здоровья . После высвобождения энергии вы не можете накапливать новые заряды в течение 14сек. Заряды можно получать не чаще чем раз в 0,25секунды."
+    }
+  },
+  {
+    "id": "set.tzogvins_warband",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Tzogvin's Warband",
+      "ru": "Отряд Тзогвина"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 657 Critical Chance(4 items) Adds 1487 Offensive Penetration(5 items) When you deal Critical Damage, you gain a stack of Precision, increasing your Critical Chance by 177 for 5 seconds, up to 10 stacks max. At max stacks, you also gain Minor Force , increasing your Critical Damage done by 10%. This effect can occur once every half second.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Шанс крит. удара +657(4 предмета) Пробивание +1487(5 предметов) При нанесении критического урона вы получаете заряд эффекта Точность увеличивающий ваш показатель критического удара на 177 в течение 5сек. (всего можно накопить не более 10зарядов). При максимальном количестве зарядов вы также получаете эффект Малая сила увеличивающий ваш критический урон на 10%. Этот эффект может срабатывать не чаще чем раз в полсекунды."
+    }
+  }
+]

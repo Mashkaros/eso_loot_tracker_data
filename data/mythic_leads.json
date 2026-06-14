@@ -869,5 +869,18 @@
       "en": "Rewards for the Worthy Mail (PVP Reward)",
       "ru": "Награда достойным за PvP-активность в Сиродиле"
     }
+  },
+  {
+    "id": "lead.snowy_sabre_cat_fur_strip",
+    "mythic_id": "myth.snow_treaders",
+    "source_id": "src.direfrost_keep.normal",
+    "name": {
+      "en": "Snowy Sabre Cat Fur Strip",
+      "ru": "Обрывок меха снежного саблезуба"
+    },
+    "notes": {
+      "en": "Drodda of Icereach Boss (Normal or Veteran), Direfrost Keep",
+      "ru": "Групповое подземелье «Крепость Лютых Морозов», последний босс"
+    }
   }
 ]

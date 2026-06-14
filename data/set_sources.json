@@ -1474,5 +1474,81 @@
   {
     "set_id": "set.wrath_of_the_imperium",
     "source_id": "src.cropsford_elite_gear_vendor"
+  },
+  {
+    "set_id": "set.akaviri_dragonguard",
+    "source_id": "src.eastmarch"
+  },
+  {
+    "set_id": "set.fiords_legacy",
+    "source_id": "src.eastmarch"
+  },
+  {
+    "set_id": "set.stendarrs_embrace",
+    "source_id": "src.eastmarch"
+  },
+  {
+    "set_id": "set.draugr_hulk",
+    "source_id": "src.direfrost_keep.normal"
+  },
+  {
+    "set_id": "set.draugr_hulk",
+    "source_id": "src.direfrost_keep.vet"
+  },
+  {
+    "set_id": "set.magicka_furnace",
+    "source_id": "src.direfrost_keep.normal"
+  },
+  {
+    "set_id": "set.magicka_furnace",
+    "source_id": "src.direfrost_keep.vet"
+  },
+  {
+    "set_id": "set.the_ice_furnace",
+    "source_id": "src.direfrost_keep.normal"
+  },
+  {
+    "set_id": "set.the_ice_furnace",
+    "source_id": "src.direfrost_keep.vet"
+  },
+  {
+    "set_id": "set.iceheart",
+    "source_id": "src.direfrost_keep.vet"
+  },
+  {
+    "set_id": "set.iceheart",
+    "source_id": "src.undaunted_glirion"
+  },
+  {
+    "set_id": "set.icy_conjurer",
+    "source_id": "src.frostvault.normal"
+  },
+  {
+    "set_id": "set.icy_conjurer",
+    "source_id": "src.frostvault.vet"
+  },
+  {
+    "set_id": "set.mighty_glacier",
+    "source_id": "src.frostvault.normal"
+  },
+  {
+    "set_id": "set.mighty_glacier",
+    "source_id": "src.frostvault.vet"
+  },
+  {
+    "set_id": "set.tzogvins_warband",
+    "source_id": "src.frostvault.normal"
+  },
+  {
+    "set_id": "set.tzogvins_warband",
+    "source_id": "src.frostvault.vet"
+  },
+  {
+    "set_id": "set.stonekeeper",
+    "source_id": "src.frostvault.vet"
+  },
+  {
+    "set_id": "set.stonekeeper",
+    "source_id": "src.undaunted_urgarlag"
   }
 ]

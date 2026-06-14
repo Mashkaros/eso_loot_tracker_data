@@ -598,5 +598,45 @@
       "en": "Home Base Elite Gear Vendor",
       "ru": "Продавец элитного снаряжения на базе"
     }
+  },
+  {
+    "id": "src.eastmarch",
+    "type": "overland",
+    "name": {
+      "en": "Eastmarch",
+      "ru": "Истмарк"
+    }
+  },
+  {
+    "id": "src.direfrost_keep.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Direfrost Keep Normal",
+      "ru": "Крепость Лютых Морозов Обычное"
+    }
+  },
+  {
+    "id": "src.direfrost_keep.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Direfrost Keep Vet",
+      "ru": "Крепость Лютых Морозов Ветеранское"
+    }
+  },
+  {
+    "id": "src.frostvault.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Frostvault Normal",
+      "ru": "Морозное Хранилище Обычное"
+    }
+  },
+  {
+    "id": "src.frostvault.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Frostvault Vet",
+      "ru": "Морозное Хранилище Ветеранское"
+    }
   }
 ]
