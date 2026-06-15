@@ -1558,5 +1558,29 @@
   {
     "set_id": "set.shalidors_curse",
     "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.back_alley_gourmand",
+    "source_id": "src.galen_and_yffelon"
+  },
+  {
+    "set_id": "set.bastion_of_the_draoife",
+    "source_id": "src.galen_and_yffelon"
+  },
+  {
+    "set_id": "set.chimeras_rebuke",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.claw_of_the_forest_wraith",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.old_growth_brewer",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.phoenix_moth_theurge",
+    "source_id": "src.galen_and_yffelon"
   }
 ]

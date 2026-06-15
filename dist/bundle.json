@@ -1,6 +1,6 @@
 {
-  "version": "2026-06-14.2",
-  "generated_at": "2026-06-14T09:19:02Z",
+  "version": "2026-06-15.1",
+  "generated_at": "2026-06-15T11:52:13Z",
   "sources": [
     {
       "id": "src.crafting_station",
@@ -640,6 +640,14 @@
       "name": {
         "en": "Frostvault Vet",
         "ru": "Морозное Хранилище Ветеранское"
+      }
+    },
+    {
+      "id": "src.galen_and_yffelon",
+      "type": "overland",
+      "name": {
+        "en": "Galen and Y'ffelon",
+        "ru": "Гален и Иффелон"
       }
     }
   ],
@@ -4455,6 +4463,90 @@
         "en": "(2 items) Adds 841 Maximum Health(3 items) Adds 4% Healing Taken(4 items) Adds 841 Maximum Health(5 items) While you are under 50% Health, dealing damage with a Light or Heavy Attack heals you for 942 Health . This effect can occur once every 1 second and scales off the higher of your Max Magicka or Stamina.",
         "ru": "(2 предмета) Макс. здоровье +841(3 предмета) Получаемое лечение +4%(4 предмета) Макс. здоровье +841(5 предметов) Ко942да уровень вашего здоровья падает ниже 50% нанесение урона обычными или силовыми атаками исцеляет вас на 1043ед. здоровья . Этот эффект может срабатывать не чаще чем раз в 1сек. а его сила зависит от вашего максимального запаса сил или магии (учитывается характеристика с более высоким значением)."
       }
+    },
+    {
+      "id": "set.back_alley_gourmand",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "light",
+      "name": {
+        "en": "Back-Alley Gourmand",
+        "ru": "Тайный гурман"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) While you have a food buff active, your Critical Damage and Critical Healing is increased by 13%.",
+        "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) Пока на вас действует положительный эффект от еды ваши критический урон и критическое исцеление увеличиваются на 13%."
+      }
+    },
+    {
+      "id": "set.bastion_of_the_draoife",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "heavy",
+      "name": {
+        "en": "Bastion of the Draoife",
+        "ru": "Оплот Драойфе"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 1206 Maximum Health(4 items) Adds 1096 Maximum Stamina(5 items) Blocking an attack grants you a stack of Inflection for 10 seconds, up to 3 stacks max. You can gain up to 1 stack every 0.5 seconds. Increase your Magicka and Stamina Recovery by 106 per stack of Inflection.",
+        "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Макс. здоровье +1206(4 предмета) Макс. запас сил +1096(5 предметов) При блокировании атаки вы на 10сек. получаете заряд эффекта Гибкость (не более 1заряда раз в 0,5сек.). Всего можно получить не более 3зарядов. Каждый заряд увеличивает ваше восстановление магии и запаса сил на 106."
+      }
+    },
+    {
+      "id": "set.chimeras_rebuke",
+      "type": "usual",
+      "farm_way": "craft",
+      "weight": "mixed",
+      "name": {
+        "en": "Chimera's Rebuke",
+        "ru": "Отпор химеры"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 1206 Maximum Health(4 items) Adds 1096 Maximum Stamina(5 items) Dealing damage with a fully-charged Heavy Attack also restores 2363 Magicka or Stamina to the three allies nearest your target. The resource restore is based on the type of weapon you are wielding.",
+        "ru": "(2 предмета) Макс. магия +1096(3 предмета) Макс. здоровье +1206(4 предмета) Макс. запас сил +1096(5 предметов) При нанесении урона полностью заряженной силовой атакой вы восстанавливаете 2363ед. магии или запаса сил трем союзникам находящимся ближе всего к вашей цели. Восстанавливаемый ресурс зависит от используемого вами оружия."
+      }
+    },
+    {
+      "id": "set.claw_of_the_forest_wraith",
+      "type": "usual",
+      "farm_way": "craft",
+      "weight": "mixed",
+      "name": {
+        "en": "Claw of the Forest Wraith",
+        "ru": "Коготь лесного призрака"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 657 Critical Chance(5 items) Adds 2037 Critical Chance to your Class abilities.",
+        "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Сила оружия и заклинаний +129(4 предмета) Шанс крит. удара +657(5 предметов) Показатель критического удара ваших классовых способностей увеличивается на 2037."
+      }
+    },
+    {
+      "id": "set.old_growth_brewer",
+      "type": "usual",
+      "farm_way": "craft",
+      "weight": "mixed",
+      "name": {
+        "en": "Old Growth Brewer",
+        "ru": "Зельевар из Старого леса"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Stamina Recovery(3 items) Adds 129 Magicka Recovery(4 items) Adds 129 Health Recovery(5 items) When you drink a potion while in combat, you gain 245 Health , Magicka, and Stamina Recovery for 45 seconds.",
+        "ru": "(2 предмета) Восст. запаса сил +129(3 предмета) Восст. магии +129(4 предмета) Восст. здоровья +129(5 предметов) Когда вы выпиваете зелье во время боя ваше восстановление здоровья магии и запаса сил увеличивается на245 на45сек."
+      }
+    },
+    {
+      "id": "set.phoenix_moth_theurge",
+      "type": "usual",
+      "farm_way": "farm",
+      "weight": "medium",
+      "name": {
+        "en": "Phoenix Moth Theurge",
+        "ru": "Магия мотылька-феникса"
+      },
+      "bonuses": {
+        "en": "(2 items) Adds 129 Stamina Recovery(3 items) Adds 129 Stamina Recovery(4 items) Adds 1096 Maximum Stamina(5 items) Healing yourself or an ally grants the target Minor Courage and Minor Force for 10 seconds, increasing their Weapon and Spell Damage by 215 and their Critical Damage done by 10%. This effect can occur once every 12 seconds per target.",
+        "ru": "(2 предмета) Восст. запаса сил +129(3 предмета) Восст. запаса сил +129(4 предмета) Макс. запас сил +1096(5 предметов) Исцеляя себя или союзника вы на 10сек. накладываете на цель эффекты Малая храбрость и Малая сила увеличивающие ее силу оружия и заклинаний на 215 а наносимый ею критический урон— на 10%. Этот эффект может срабатывать не чаще чем раз в 12сек. для каждой цели."
+      }
     }
   ],
   "set_sources": [
@@ -6407,6 +6499,36 @@
       "id": "ss.set.shalidors_curse.src.crafting_station",
       "set_id": "set.shalidors_curse",
       "source_id": "src.crafting_station"
+    },
+    {
+      "id": "ss.set.back_alley_gourmand.src.galen_and_yffelon",
+      "set_id": "set.back_alley_gourmand",
+      "source_id": "src.galen_and_yffelon"
+    },
+    {
+      "id": "ss.set.bastion_of_the_draoife.src.galen_and_yffelon",
+      "set_id": "set.bastion_of_the_draoife",
+      "source_id": "src.galen_and_yffelon"
+    },
+    {
+      "id": "ss.set.chimeras_rebuke.src.crafting_station",
+      "set_id": "set.chimeras_rebuke",
+      "source_id": "src.crafting_station"
+    },
+    {
+      "id": "ss.set.claw_of_the_forest_wraith.src.crafting_station",
+      "set_id": "set.claw_of_the_forest_wraith",
+      "source_id": "src.crafting_station"
+    },
+    {
+      "id": "ss.set.old_growth_brewer.src.crafting_station",
+      "set_id": "set.old_growth_brewer",
+      "source_id": "src.crafting_station"
+    },
+    {
+      "id": "ss.set.phoenix_moth_theurge.src.galen_and_yffelon",
+      "set_id": "set.phoenix_moth_theurge",
+      "source_id": "src.galen_and_yffelon"
     }
   ],
   "mythics": [
@@ -6708,6 +6830,54 @@
       "bonuses": {
         "en": "(1 item) Increase your damage done with status effects by 1% for every 1 Ultimate you have, up to 170%. This effect is divided by 1 plus 1 if the target is a player, plus 1 if Feral Guardian is active. While you have 170 or more Ultimate, your Light and Heavy Attacks apply a random status effect, up to once every 4 seconds. Applies Minor Timidity to you, consuming 1 Ultimate every 1.5 seconds in combat.",
         "ru": "(1 предмет) Урон наносимый вашими эффектами состояния увеличивается на 1% за каждые 1очк. суперспособности (но не более чем на 170%). Эта прибавка делится на 1 плюс 1 (если цель— игрок) плюс количество ваших призванных постоянных существ. Пока у вас остается не менее 170очк. суперспособности ваши обычные и силовые атаки накладывают на противника случайный эффект состояния. Это может происходить не чаще чем раз в 4сек. Вы получаете эффект Малая трусливость который поглощает в бою 1очк. суперспособности раз в 1,5сек."
+      }
+    },
+    {
+      "id": "myth.fauns_lark_cladding",
+      "slot": "chest",
+      "name": {
+        "en": "Faun's Lark Cladding",
+        "ru": "Одеяние шалости фавна"
+      },
+      "bonuses": {
+        "en": "(1 item) If you continuously Sprint for 1 second, you gain the ability to pass through enemies. Enemies you pass through become Charmed for 4 seconds, removing their ability to attack or cast abilities as they move toward you. Charming an enemy this way restores 678 Stamina and Magicka to you, and heals you for 678 Health . Charming an enemy removes you from Stealth.",
+        "ru": "(1 предмет) Беспрерывно используя спринт в течение 1сек. вы становитесь способны проходить сквозь противников. Противники сквозь которых вы прошли очаровываются на 4сек. и не могут ни атаковать ни применять способности а движутся по направлению к вам. Успешно очаровав таким образом противника вы восстанавливаете 678ед. запаса сил и магии и исцеляетесь на 678ед. здоровья . Очарование противника выводит вас из режима скрытности."
+      }
+    },
+    {
+      "id": "myth.syrabanes_ward",
+      "slot": "waist",
+      "name": {
+        "en": "Syrabane's Ward",
+        "ru": "Оберег Сирабейна"
+      },
+      "bonuses": {
+        "en": "(1 item) While actively Bracing, you create a 12 meter zone of protection but you can no longer move. Group members within the zone increase the amount of damage they can block by 30% and their Health Recovery by 950. The Health Recovery cannot affect yourself.",
+        "ru": "(1 предмет) Находясь в защитной стойке вы не можете двигаться но создаете вокруг себя защитную область радиусом 12м. Количество урона которое могут заблокировать находящиеся в области члены группы увеличивается на30% а их восстановление здоровья— на950. На вас эффект увеличения восстановления здоровья не распространяется."
+      }
+    },
+    {
+      "id": "myth.stormweavers_cavort",
+      "slot": "legs",
+      "name": {
+        "en": "Stormweaver's Cavort",
+        "ru": "Пляска призывателя бури"
+      },
+      "bonuses": {
+        "en": "(1 item) Adds 300 Magicka Recovery , Sprint, Roll Dodge, Bash, Break Free, Sneak, and Block now consume Magicka instead of Stamina. You reduce your Magicka Recovery to 0 while Blocking, Sneaking, or Sprinting. You no longer reduce your Stamina Recovery to 0 while Blocking, Sneaking or Sprinting.",
+        "ru": "(1 предмет) Восст. магии +300 , Спринт кувырки прерывающие удары освобождение передвижение в режиме скрытности и блокирование теперь расходуют магию а не запас сил. Во время блокирования передвижения в режиме скрытности или использования спринта вы не можете восстанавливать магию но можете восстанавливать запас сил."
+      }
+    },
+    {
+      "id": "myth.oakensoul_ring",
+      "slot": "ring",
+      "name": {
+        "en": "Oakensoul Ring",
+        "ru": "Кольцо души дуба"
+      },
+      "bonuses": {
+        "en": "(1 item) While equipped, you are unable to swap between your Primary and Backup Weapon Sets and gain Minor Berserk, Minor Courage, Major Brutality, Major Sorcery, Major Prophecy, Major Savagery, Minor Force, Minor Protection, Major Resolve, Minor Mending, Minor Fortitude, Minor Intellect, Minor Endurance, Minor Heroism, Minor Slayer, Minor Aegis, and Empower.",
+        "ru": "(1 предмет) Пока на вас надет этот набор вы не можете переключаться между основным и запасным наборами оружия но получаете эффекты Малая ярость Малая храбрость Великая жестокость Великое колдовство Великое предвидение Великая свирепость Малая сила Малая защита Великая решимость Малое исцеление Малая стойкость Малый интеллект Малая выносливость Малый героизм Малая жажда убийств Малая эгида и Усиление."
       }
     }
   ],
@@ -7594,6 +7764,58 @@
       "notes": {
         "en": "Drodda of Icereach Boss (Normal or Veteran), Direfrost Keep",
         "ru": "Групповое подземелье «Крепость Лютых Морозов», последний босс"
+      }
+    },
+    {
+      "id": "lead.iridescent_pearlwater_wash",
+      "mythic_id": "myth.syrabanes_ward",
+      "source_id": "src.galen_and_yffelon",
+      "name": {
+        "en": "Iridescent Pearlwater Wash",
+        "ru": "Переливающийся жемчужный раствор"
+      },
+      "notes": {
+        "en": "Drops from fishing in any water in Galen and High Isle zone",
+        "ru": "Рыбалка в любой воде"
+      }
+    },
+    {
+      "id": "lead.igneous_inlays",
+      "mythic_id": "myth.oakensoul_ring",
+      "source_id": "src.galen_and_yffelon",
+      "name": {
+        "en": "Igneous Inlays",
+        "ru": "Вулканические вставки"
+      },
+      "notes": {
+        "en": "Volcanic Vents in the High Isle and Amenos zone or Galen",
+        "ru": "Вулканические разломы"
+      }
+    },
+    {
+      "id": "lead.lustrous_prong_clasps",
+      "mythic_id": "myth.fauns_lark_cladding",
+      "source_id": "src.galen_and_yffelon",
+      "name": {
+        "en": "Lustrous Prong Clasps",
+        "ru": "Блестящие застежки с зубцами"
+      },
+      "notes": {
+        "en": "Wood Nodes in Galen and High Isle zone",
+        "ru": "Сбор древесины"
+      }
+    },
+    {
+      "id": "lead.mark_of_the_faun_lord",
+      "mythic_id": "myth.fauns_lark_cladding",
+      "source_id": "src.galen_and_yffelon",
+      "name": {
+        "en": "Mark of the Faun Lord",
+        "ru": "Метка предводителя фавнов"
+      },
+      "notes": {
+        "en": "Thieves Troves and Safeboxes in Galen and High Isle",
+        "ru": "Воровские тайники, сейфы"
       }
     }
   ]

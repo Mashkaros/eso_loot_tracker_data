@@ -638,5 +638,13 @@
       "en": "Frostvault Vet",
       "ru": "Морозное Хранилище Ветеранское"
     }
+  },
+  {
+    "id": "src.galen_and_yffelon",
+    "type": "overland",
+    "name": {
+      "en": "Galen and Y'ffelon",
+      "ru": "Гален и Иффелон"
+    }
   }
 ]

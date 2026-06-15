@@ -3810,5 +3810,89 @@
       "en": "(2 items) Adds 841 Maximum Health(3 items) Adds 4% Healing Taken(4 items) Adds 841 Maximum Health(5 items) While you are under 50% Health, dealing damage with a Light or Heavy Attack heals you for 942 Health . This effect can occur once every 1 second and scales off the higher of your Max Magicka or Stamina.",
       "ru": "(2 предмета) Макс. здоровье +841(3 предмета) Получаемое лечение +4%(4 предмета) Макс. здоровье +841(5 предметов) Ко942да уровень вашего здоровья падает ниже 50% нанесение урона обычными или силовыми атаками исцеляет вас на 1043ед. здоровья . Этот эффект может срабатывать не чаще чем раз в 1сек. а его сила зависит от вашего максимального запаса сил или магии (учитывается характеристика с более высоким значением)."
     }
+  },
+  {
+    "id": "set.back_alley_gourmand",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Back-Alley Gourmand",
+      "ru": "Тайный гурман"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) While you have a food buff active, your Critical Damage and Critical Healing is increased by 13%.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) Пока на вас действует положительный эффект от еды ваши критический урон и критическое исцеление увеличиваются на 13%."
+    }
+  },
+  {
+    "id": "set.bastion_of_the_draoife",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Bastion of the Draoife",
+      "ru": "Оплот Драойфе"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 1206 Maximum Health(4 items) Adds 1096 Maximum Stamina(5 items) Blocking an attack grants you a stack of Inflection for 10 seconds, up to 3 stacks max. You can gain up to 1 stack every 0.5 seconds. Increase your Magicka and Stamina Recovery by 106 per stack of Inflection.",
+      "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Макс. здоровье +1206(4 предмета) Макс. запас сил +1096(5 предметов) При блокировании атаки вы на 10сек. получаете заряд эффекта Гибкость (не более 1заряда раз в 0,5сек.). Всего можно получить не более 3зарядов. Каждый заряд увеличивает ваше восстановление магии и запаса сил на 106."
+    }
+  },
+  {
+    "id": "set.chimeras_rebuke",
+    "type": "usual",
+    "farm_way": "craft",
+    "weight": "mixed",
+    "name": {
+      "en": "Chimera's Rebuke",
+      "ru": "Отпор химеры"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 1206 Maximum Health(4 items) Adds 1096 Maximum Stamina(5 items) Dealing damage with a fully-charged Heavy Attack also restores 2363 Magicka or Stamina to the three allies nearest your target. The resource restore is based on the type of weapon you are wielding.",
+      "ru": "(2 предмета) Макс. магия +1096(3 предмета) Макс. здоровье +1206(4 предмета) Макс. запас сил +1096(5 предметов) При нанесении урона полностью заряженной силовой атакой вы восстанавливаете 2363ед. магии или запаса сил трем союзникам находящимся ближе всего к вашей цели. Восстанавливаемый ресурс зависит от используемого вами оружия."
+    }
+  },
+  {
+    "id": "set.claw_of_the_forest_wraith",
+    "type": "usual",
+    "farm_way": "craft",
+    "weight": "mixed",
+    "name": {
+      "en": "Claw of the Forest Wraith",
+      "ru": "Коготь лесного призрака"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 657 Critical Chance(5 items) Adds 2037 Critical Chance to your Class abilities.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Сила оружия и заклинаний +129(4 предмета) Шанс крит. удара +657(5 предметов) Показатель критического удара ваших классовых способностей увеличивается на 2037."
+    }
+  },
+  {
+    "id": "set.old_growth_brewer",
+    "type": "usual",
+    "farm_way": "craft",
+    "weight": "mixed",
+    "name": {
+      "en": "Old Growth Brewer",
+      "ru": "Зельевар из Старого леса"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Stamina Recovery(3 items) Adds 129 Magicka Recovery(4 items) Adds 129 Health Recovery(5 items) When you drink a potion while in combat, you gain 245 Health , Magicka, and Stamina Recovery for 45 seconds.",
+      "ru": "(2 предмета) Восст. запаса сил +129(3 предмета) Восст. магии +129(4 предмета) Восст. здоровья +129(5 предметов) Когда вы выпиваете зелье во время боя ваше восстановление здоровья магии и запаса сил увеличивается на245 на45сек."
+    }
+  },
+  {
+    "id": "set.phoenix_moth_theurge",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Phoenix Moth Theurge",
+      "ru": "Магия мотылька-феникса"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Stamina Recovery(3 items) Adds 129 Stamina Recovery(4 items) Adds 1096 Maximum Stamina(5 items) Healing yourself or an ally grants the target Minor Courage and Minor Force for 10 seconds, increasing their Weapon and Spell Damage by 215 and their Critical Damage done by 10%. This effect can occur once every 12 seconds per target.",
+      "ru": "(2 предмета) Восст. запаса сил +129(3 предмета) Восст. запаса сил +129(4 предмета) Макс. запас сил +1096(5 предметов) Исцеляя себя или союзника вы на 10сек. накладываете на цель эффекты Малая храбрость и Малая сила увеличивающие ее силу оружия и заклинаний на 215 а наносимый ею критический урон— на 10%. Этот эффект может срабатывать не чаще чем раз в 12сек. для каждой цели."
+    }
   }
 ]

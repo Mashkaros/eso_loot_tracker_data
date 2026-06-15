@@ -882,5 +882,57 @@
       "en": "Drodda of Icereach Boss (Normal or Veteran), Direfrost Keep",
       "ru": "Групповое подземелье «Крепость Лютых Морозов», последний босс"
     }
+  },
+  {
+    "id": "lead.iridescent_pearlwater_wash",
+    "mythic_id": "myth.syrabanes_ward",
+    "source_id": "src.galen_and_yffelon",
+    "name": {
+      "en": "Iridescent Pearlwater Wash",
+      "ru": "Переливающийся жемчужный раствор"
+    },
+    "notes": {
+      "en": "Drops from fishing in any water in Galen and High Isle zone",
+      "ru": "Рыбалка в любой воде"
+    }
+  },
+  {
+    "id": "lead.igneous_inlays",
+    "mythic_id": "myth.oakensoul_ring",
+    "source_id": "src.galen_and_yffelon",
+    "name": {
+      "en": "Igneous Inlays",
+      "ru": "Вулканические вставки"
+    },
+    "notes": {
+      "en": "Volcanic Vents in the High Isle and Amenos zone or Galen",
+      "ru": "Вулканические разломы"
+    }
+  },
+  {
+    "id": "lead.lustrous_prong_clasps",
+    "mythic_id": "myth.fauns_lark_cladding",
+    "source_id": "src.galen_and_yffelon",
+    "name": {
+      "en": "Lustrous Prong Clasps",
+      "ru": "Блестящие застежки с зубцами"
+    },
+    "notes": {
+      "en": "Wood Nodes in Galen and High Isle zone",
+      "ru": "Сбор древесины"
+    }
+  },
+  {
+    "id": "lead.mark_of_the_faun_lord",
+    "mythic_id": "myth.fauns_lark_cladding",
+    "source_id": "src.galen_and_yffelon",
+    "name": {
+      "en": "Mark of the Faun Lord",
+      "ru": "Метка предводителя фавнов"
+    },
+    "notes": {
+      "en": "Thieves Troves and Safeboxes in Galen and High Isle",
+      "ru": "Воровские тайники, сейфы"
+    }
   }
 ]
