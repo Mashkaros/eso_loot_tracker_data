@@ -934,5 +934,70 @@
       "en": "Thieves Troves and Safeboxes in Galen and High Isle",
       "ru": "Воровские тайники, сейфы"
     }
+  },
+  {
+    "id": "lead.band_of_water",
+    "mythic_id": "myth.ring_of_the_wild_hunt",
+    "source_id": "src.glenumbra",
+    "name": {
+      "en": "Band of Water",
+      "ru": "Обруч воды"
+    },
+    "notes": {
+      "en": "Public Dungeon Boss in Bad Man’s Hallow",
+      "ru": "Открытое подземелье «Святилище Лиходея», любые боссы"
+    }
+  },
+  {
+    "id": "lead.orderEtched_gallery_rail",
+    "mythic_id": "myth.ring_of_the_pale_order",
+    "source_id": "src.glenumbra",
+    "name": {
+      "en": "Order-Etched Gallery Rail",
+      "ru": "Окантовка с гравировкой ордена"
+    },
+    "notes": {
+      "en": "Bad Man's Hallow, any Monsters",
+      "ru": "Открытое подземелье «Святилище Лиходея», любые мобы"
+    }
+  },
+  {
+    "id": "lead.stone_shank_frame",
+    "mythic_id": "myth.oakensoul_ring",
+    "source_id": "src.glenumbra",
+    "name": {
+      "en": "Stone Shank Frame",
+      "ru": "Каменная оправа"
+    },
+    "notes": {
+      "en": "Blacksmithing nodes in Glenumbra",
+      "ru": "Сбор руды"
+    }
+  },
+  {
+    "id": "lead.goblet_gorget",
+    "mythic_id": "myth.bloodlords_embrace",
+    "source_id": "src.spindleclutch_I.normal",
+    "name": {
+      "en": "Goblet Gorget",
+      "ru": "Горжет-кубок"
+    },
+    "notes": {
+      "en": "The Whisperer (Endboss, Normal or Veteran)",
+      "ru": "Групповое подземелье «Логово Мёртвой Хватки 1», последний босс"
+    }
+  },
+  {
+    "id": "lead.length_of_sharpened_spikes",
+    "mythic_id": "myth.shapeshifters_chain",
+    "source_id": "src.spindleclutch_II.normal",
+    "name": {
+      "en": "Length of Sharpened Spikes",
+      "ru": "Фрагмент цепочки с острыми шипами"
+    },
+    "notes": {
+      "en": "Spindleclutch 2 last boss",
+      "ru": "Групповое подземелье «Логово Мёртвой Хватки 2», последний босс"
+    }
   }
 ]

@@ -1582,5 +1582,113 @@
   {
     "set_id": "set.phoenix_moth_theurge",
     "source_id": "src.galen_and_yffelon"
+  },
+  {
+    "set_id": "set.bloodthorns_touch",
+    "source_id": "src.glenumbra"
+  },
+  {
+    "set_id": "set.hide_of_the_werewolf",
+    "source_id": "src.glenumbra"
+  },
+  {
+    "set_id": "set.wyrd_trees_blessing",
+    "source_id": "src.glenumbra"
+  },
+  {
+    "set_id": "set.grisly_gourmet",
+    "source_id": "src.red_petal_bastion.normal"
+  },
+  {
+    "set_id": "set.grisly_gourmet",
+    "source_id": "src.red_petal_bastion.vet"
+  },
+  {
+    "set_id": "set.silver_rose_vigil",
+    "source_id": "src.red_petal_bastion.normal"
+  },
+  {
+    "set_id": "set.silver_rose_vigil",
+    "source_id": "src.red_petal_bastion.vet"
+  },
+  {
+    "set_id": "set.thunder_caller",
+    "source_id": "src.red_petal_bastion.normal"
+  },
+  {
+    "set_id": "set.thunder_caller",
+    "source_id": "src.red_petal_bastion.vet"
+  },
+  {
+    "set_id": "set.prior_thierric",
+    "source_id": "src.red_petal_bastion.vet"
+  },
+  {
+    "set_id": "set.prior_thierric",
+    "source_id": "src.undaunted_urgarlag"
+  },
+  {
+    "set_id": "set.knightmare",
+    "source_id": "src.spindleclutch_I.normal"
+  },
+  {
+    "set_id": "set.knightmare",
+    "source_id": "src.spindleclutch_I.vet"
+  },
+  {
+    "set_id": "set.prayer_shawl",
+    "source_id": "src.spindleclutch_I.normal"
+  },
+  {
+    "set_id": "set.prayer_shawl",
+    "source_id": "src.spindleclutch_I.vet"
+  },
+  {
+    "set_id": "set.spelunker",
+    "source_id": "src.spindleclutch_I.normal"
+  },
+  {
+    "set_id": "set.spelunker",
+    "source_id": "src.spindleclutch_I.vet"
+  },
+  {
+    "set_id": "set.swarm_mother",
+    "source_id": "src.spindleclutch_I.vet"
+  },
+  {
+    "set_id": "set.swarm_mother",
+    "source_id": "src.undaunted_maj"
+  },
+  {
+    "set_id": "set.knightmare",
+    "source_id": "src.spindleclutch_II.normal"
+  },
+  {
+    "set_id": "set.knightmare",
+    "source_id": "src.spindleclutch_II.vet"
+  },
+  {
+    "set_id": "set.prayer_shawl",
+    "source_id": "src.spindleclutch_II.normal"
+  },
+  {
+    "set_id": "set.prayer_shawl",
+    "source_id": "src.spindleclutch_II.vet"
+  },
+  {
+    "set_id": "set.spelunker",
+    "source_id": "src.spindleclutch_II.normal"
+  },
+  {
+    "set_id": "set.spelunker",
+    "source_id": "src.spindleclutch_II.vet"
+  },
+  {
+    "set_id": "set.bloodspawn",
+    "source_id": "src.spindleclutch_II.vet"
+  },
+  {
+    "set_id": "set.bloodspawn",
+    "source_id": "src.undaunted_maj"
   }
 ]

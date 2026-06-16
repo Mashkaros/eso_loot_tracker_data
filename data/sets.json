@@ -3894,5 +3894,173 @@
       "en": "(2 items) Adds 129 Stamina Recovery(3 items) Adds 129 Stamina Recovery(4 items) Adds 1096 Maximum Stamina(5 items) Healing yourself or an ally grants the target Minor Courage and Minor Force for 10 seconds, increasing their Weapon and Spell Damage by 215 and their Critical Damage done by 10%. This effect can occur once every 12 seconds per target.",
       "ru": "(2 предмета) Восст. запаса сил +129(3 предмета) Восст. запаса сил +129(4 предмета) Макс. запас сил +1096(5 предметов) Исцеляя себя или союзника вы на 10сек. накладываете на цель эффекты Малая храбрость и Малая сила увеличивающие ее силу оружия и заклинаний на 215 а наносимый ею критический урон— на 10%. Этот эффект может срабатывать не чаще чем раз в 12сек. для каждой цели."
     }
+  },
+  {
+    "id": "set.bloodthorns_touch",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Bloodthorn's Touch",
+      "ru": "Касание Кровавого Шипа"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 1096 Maximum Magicka(4 items) Adds 129 Magicka Recovery(5 items) When you deal direct damage, you restore 800 Magicka and Stamina . This effect can occur once every 5 seconds.",
+      "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Макс. магия +1096(4 предмета) Восст. магии +129(5 предметов) При нанесении прямого урона вы восстанавливаете 800ед. магии и запаса сил. Этот эффект может срабатывать не чаще чем раз в 5сек."
+    }
+  },
+  {
+    "id": "set.hide_of_the_werewolf",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Hide of the Werewolf",
+      "ru": "Шкура вервольфа"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 1096 Maximum Stamina(4 items) Adds 129 Weapon and Spell Damage(5 items) When you take damage, you generate 6 Ultimate. This effect can occur once every 5 seconds and the Ultimate triples while in Werewolf Transformation.",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Макс. запас сил +1096(4 предмета) Сила оружия и заклинаний +129(5 предметов) Вы получаете 6очк. суперспособности при получении урона. Этот эффект может срабатывать не чаще чем раз в 5сек. Пока вы в обличье вервольфа количество очков суперспособности утраивается."
+    }
+  },
+  {
+    "id": "set.wyrd_trees_blessing",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Wyrd Tree's Blessing",
+      "ru": "Благословение Вещего древа"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Magicka Recovery(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 129 Magicka Recovery(5 items) When you cast a Magicka ability, you remove all negative effects from yourself. This effect can occur once every 15 seconds.",
+      "ru": "(2 предмета) Восст. магии +129(3 предмета) Сила оружия и заклинаний +129(4 предмета) Восст. магии +129(5 предметов) При использовании способности расходующей магию с вас снимаются все отрицательные эффекты. Этот эффект может срабатывать не чаще чем раз в 15сек."
+    }
+  },
+  {
+    "id": "set.grisly_gourmet",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Grisly Gourmet",
+      "ru": "Жуткий гурман"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 1487 Offensive Penetration(5 items) Adds 526 Maximum Stamina , Dealing Light Attack damage grants you a stack of Baker's Delight for 5 seconds. When you gain 3 stacks, you create a Sweetroll next to your target for 5 seconds. If you or an ally touches the Sweetroll, both you and your ally gain one of the following effects: Restore 1593 Health , Magicka and Stamina Gain Empower for 10 seconds Gain Major Force for 10 seconds This effect can occur once every 2 seconds.",
+      "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Сила оружия и заклинаний +129(4 предмета) Пробивание +1487(5 предметов) Макс. запас сил +526 , Нанося урон обычной атакой вы на5сек. получаете заряд эффекта Восторг пекаря. Накопив 3заряда вы на5сек. создаете возле противника сладкий рулет. Если вы или ваш союзник дотронетесь доСладкий рулет вы оба получите один из следующих эффектов: Восстановление 1593ед. здоровья магии и запаса сил. Эффект Усиление на10сек. Эффект Великая сила на10сек. Этот эффект может срабатывать не чаще чем раз в2сек."
+    }
+  },
+  {
+    "id": "set.prior_thierric",
+    "type": "monster",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Prior Thierric",
+      "ru": "Приор Тьеррик"
+    },
+    "bonuses": {
+      "en": "(1 item) Adds 129 Weapon and Spell Damage(2 items) Dealing direct damage with an area of effect ability creates a 6 meter shadowy whirlwind below your enemy for 7 seconds. Enemies within the whirlwind take 283 Physical damage each second and increase their damage taken from your area of effect abilities by 5%. This effect can occur once every 15 seconds and scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(1 предмет) Сила оружия и заклинаний +129(2 предмета) Нанося прямой урон способностью дейст283ующей по площади вы на 7сек. создаете под ногами противника теневой вихрь радиусом 6м. Противники попавшие в вихрь получают 325ед. физического урона раз в секунду а ваши действующие по площади способности наносят им на 5% больше урона. Этот эффект может срабатывать не чаще чем раз в 15сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.silver_rose_vigil",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Silver Rose Vigil",
+      "ru": "Дозор Серебряной розы"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 1206 Maximum Health(4 items) Adds 1096 Maximum Stamina(5 items) When you Block, gain a stack of Realmshaper for 15 seconds, gaining up to 1 stack every 0.5 seconds. When you reach 3 stacks, you consume them and launch necrotic energy at your attacker, dealing 3226 Magic Damage and applying Major Maim for 12 seconds, reducing their damage done by 10%. Once you fire the necrotic energy, you cannot gain additional stacks of Realmshaper for 12 seconds. Damage scales off your Max Health.",
+      "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Макс. здоровье +1206(4 предмета) Макс. запас сил +1096(5 предметов) При блокировании вы на 15сек. получаете заряд эффекта Преобразователь миро3226 (не более 1заряда раз в 0,5сек.). Накопив 3заряда вы поглощаете их и запускаете в атакующего заряд некротической энергии нанося 3508ед. магического урона и накладывая на него на 12сек. эффект Великое повреждение который уменьшает наносимый им урон на 10%. После этого вы сможете получить новые заряды эффекта только спустя 12сек. Количество наносимого урона зависит от вашего максимального запаса здоровья."
+    }
+  },
+  {
+    "id": "set.thunder_caller",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Thunder Caller",
+      "ru": "Громовержец"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1487 Offensive Penetration(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 129 Weapon and Spell Damage(5 items) Dealing damage with a fully-charged Heavy Attack calls a bolt of lightning at your target, dealing 467 Shock Damage and leaving a 4 meter lightning crater at their location for 7 seconds, dealing 467 Shock Damage per second to enemies inside. This effect can occur once every 12 seconds and scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(2 предмета) Пробивание +1487(3 предмета) Сила оружия и заклинаний +129(4 предмета) Сила оружия и заклинаний +129(5 предметов) Нанося урон полностью заряженной силово467 атакой вы поражаете противника ударом молнии нанося 537ед. урона электричеством и на 7сек. создавая возле него кратер радиусом 4м который наносит 537ед. урона электричеством раз в секунду всем противникам внутри него. Этот эффект может срабатывать не чаще чем раз в 12сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.knightmare",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Knightmare",
+      "ru": "Кошмарный рыцарь"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1487 Armor(3 items) Adds 1206 Maximum Health(4 items) Adds 1487 Armor(5 items) Adds 1206 Maximum Health , When you deal Martial melee damage, you apply Minor Maim to all enemies within 8 meters of you for 5 seconds, reducing their damage done by 5%. This effect can occur once every 3 seconds.",
+      "ru": "(2 предмета) Броня +1487(3 предмета) Макс. здоровье +1206(4 предмета) Броня +1487(5 предметов) Макс. здоровье +1206 , При нанесении боевого урона в ближнем бою вы накладываете эффект Малое повреждение на всех противников в пределах 8метров от вас на 5сек. снижая наносимый ими урон на 5%. Этот эффект может срабатывать не чаще чем раз в 3сек."
+    }
+  },
+  {
+    "id": "set.prayer_shawl",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Prayer Shawl",
+      "ru": "Молитвенное покрывало"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Magicka(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 129 Magicka Recovery(5 items) When you overheal yourself or an ally, you grant them a damage shield that absorbs 4997 damage for 6 seconds. This effect can occur once every 2 seconds.",
+      "ru": "(2 предмета) Макс. магия +1096(3 предмета) Сила оружия и заклинаний +129(4 предмета) Восст. магии +129(5 предметов) Исцеляя себя или союзника со 100% здоровья вы накладываете на союзника щит поглощающий 4997ед. урона в течение 6сек. Этот эффект может срабатывать не чаще чем раз в 2сек."
+    }
+  },
+  {
+    "id": "set.spelunker",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Spelunker",
+      "ru": "Исследователь пещер"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 129 Stamina Recovery(4 items) Adds 129 Weapon and Spell Damage(5 items) Reduces the cost of your Undaunted abilities by 10%. When an ally uses one of your Undaunted ability synergies you restore 730 Magicka and Stamina . This effect can occur once every 5 seconds.",
+      "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Восст. запаса сил +129(4 предмета) Сила оружия и заклинаний +129(5 предметов) Стоимость ваших способностей из ветки Неустрашимые уменьшается на 10%. Когда союзник использует синергии ваших способностей из ветки Неустрашимые вы восстанавливаете 730ед. магии и запаса сил. Этот эффект может срабатывать не чаще чем раз в 5сек."
+    }
+  },
+  {
+    "id": "set.swarm_mother",
+    "type": "monster",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Swarm Mother",
+      "ru": "Мать стаи"
+    },
+    "bonuses": {
+      "en": "(1 item) Adds 1096 Maximum Stamina , Adds 1096 Maximum Magicka(2 items) When you Block an enemy that is between 8 and 22 meters from you, you spin strands of spider silk to pull the enemy to you and taunt them for 15 seconds if they are not already taunted. This effect can occur once every 1 second.",
+      "ru": "(1 предмет) Макс. запас сил +1096 , Макс. магия +1096(2 предмета) При блокировании атаки противника находящегося на расстоянии от8 до22метров от вас вы выпускаете нити паучьего шелка которые притягивают противника к вам и провоцируют его на 15сек. если его внимание не отвлекает кто-то другой. Этот эффект может срабатывать не чаще чем раз в 1сек."
+    }
+  },
+  {
+    "id": "set.bloodspawn",
+    "type": "monster",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Bloodspawn",
+      "ru": "Порождение Крови"
+    },
+    "bonuses": {
+      "en": "(1 item) Adds 129 Stamina Recovery(2 items) When you take damage, you have a 6% chance to generate 13 Ultimate and increase your Physical and Spell Resistance by 3731 for 5 seconds. This effect can occur once every 5 seconds.",
+      "ru": "(1 предмет) Восст. запаса сил +129(2 предмета) При получении урона вы с вероятностью 6% восстанавливаете 13 очк. суперспособности а ваша физическая и магическая сопротивляемость увеличивается на 3731 на 5сек. Этот эффект может срабатывать не чаще чем раз в 5сек."
+    }
   }
 ]

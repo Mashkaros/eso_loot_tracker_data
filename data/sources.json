@@ -646,5 +646,61 @@
       "en": "Galen and Y'ffelon",
       "ru": "Гален и Иффелон"
     }
+  },
+  {
+    "id": "src.glenumbra",
+    "type": "overland",
+    "name": {
+      "en": "Glenumbra",
+      "ru": "Гленумбра"
+    }
+  },
+  {
+    "id": "src.red_petal_bastion.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Red Petal Bastion Normal",
+      "ru": "Оплот Алый Лепесток Обычное"
+    }
+  },
+  {
+    "id": "src.red_petal_bastion.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Red Petal Bastion Vet",
+      "ru": "Оплот Алый Лепесток Ветеранское"
+    }
+  },
+  {
+    "id": "src.spindleclutch_I.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Spindleclutch I Normal",
+      "ru": "Логово Мёртвой Хватки I Обычное"
+    }
+  },
+  {
+    "id": "src.spindleclutch_I.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Spindleclutch I Vet",
+      "ru": "Логово Мёртвой Хватки I Ветеранское"
+    }
+  },
+  {
+    "id": "src.spindleclutch_II.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Spindleclutch II Normal",
+      "ru": "Логово Мёртвой Хватки II Обычное"
+    }
+  },
+  {
+    "id": "src.spindleclutch_II.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Spindleclutch II Vet",
+      "ru": "Логово Мёртвой Хватки II Ветеранское"
+    }
   }
 ]
