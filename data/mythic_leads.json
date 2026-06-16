@@ -999,5 +999,70 @@
       "en": "Spindleclutch 2 last boss",
       "ru": "Групповое подземелье «Логово Мёртвой Хватки 2», последний босс"
     }
+  },
+  {
+    "id": "lead.alessian_sacramental_oil",
+    "mythic_id": "myth.belharzas_band",
+    "source_id": "src.gold_coast",
+    "name": {
+      "en": "Alessian Sacramental Oil",
+      "ru": "Алессианское священное масло"
+    },
+    "notes": {
+      "en": "Limenauruus Boss at Tribune's Folley in the Gold Coast zone (Likely all bosses in that zone)",
+      "ru": "Мировой босс «Каприза Трибуна»; возможно, и мировой босс «Арены Кватча»"
+    }
+  },
+  {
+    "id": "lead.etched_silver_horns",
+    "mythic_id": "myth.belharzas_band",
+    "source_id": "src.gold_coast",
+    "name": {
+      "en": "Etched Silver Horns",
+      "ru": "Гравированные серебряные рога"
+    },
+    "notes": {
+      "en": "Treasure chests",
+      "ru": "Сундуки"
+    }
+  },
+  {
+    "id": "lead.stainless_imperial_band",
+    "mythic_id": "myth.belharzas_band",
+    "source_id": "src.black_drake_villa.normal",
+    "name": {
+      "en": "Stainless Imperial Band",
+      "ru": "Стальное имперское кольцо"
+    },
+    "notes": {
+      "en": "Any monster in the Black Drake Villa Dungeon",
+      "ru": "Групповое подземелье «Вилла Чёрного Змея», монстры-минотавры"
+    }
+  },
+  {
+    "id": "lead.duotone_engraved_band",
+    "mythic_id": "myth.monomyth_reforged",
+    "source_id": "src.depths_of_malatar.normal",
+    "name": {
+      "en": "Duotone Engraved Band",
+      "ru": "Двухцветный ободок с гравировкой"
+    },
+    "notes": {
+      "en": "Depths of Malatar Dungeon, second boss.",
+      "ru": "Групповое подземелье «Глубины Малатара», второй босс — Плачущая Дева"
+    }
+  },
+  {
+    "id": "lead.hunger-_leather_heel",
+    "mythic_id": "myth.mad_gods_dancing_shoes",
+    "source_id": "src.depths_of_malatar.normal",
+    "name": {
+      "en": "Hunger-leather Heel",
+      "ru": "Каблук из кожи алчущего"
+    },
+    "notes": {
+      "en": "Depths of Malatar Dungeon, first boss",
+      "ru": "Групповое подземелье «Глубины Малатара», первый босс — Пожиратель Мертвечины"
+    }
   }
 ]

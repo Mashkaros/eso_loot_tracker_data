@@ -4062,5 +4062,201 @@
       "en": "(1 item) Adds 129 Stamina Recovery(2 items) When you take damage, you have a 6% chance to generate 13 Ultimate and increase your Physical and Spell Resistance by 3731 for 5 seconds. This effect can occur once every 5 seconds.",
       "ru": "(1 предмет) Восст. запаса сил +129(2 предмета) При получении урона вы с вероятностью 6% восстанавливаете 13 очк. суперспособности а ваша физическая и магическая сопротивляемость увеличивается на 3731 на 5сек. Этот эффект может срабатывать не чаще чем раз в 5сек."
     }
+  },
+  {
+    "id": "set.flanking_strategist",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Flanking Strategist",
+      "ru": "Мастер фланговой атаки"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) Adds 400 Weapon and Spell Damage to your damaging abilities when you attack an enemy from behind or their sides.",
+      "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) Когда вы атакуете врага с тыла или с фланга сила оружия и заклинаний ваших наносящих урон способностей увеличивается на 400."
+    }
+  },
+  {
+    "id": "set.hide_of_morihaus",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Hide of Morihaus",
+      "ru": "Шкура Морихауса"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 1487 Armor(4 items) Adds 1096 Maximum Stamina(5 items) Adds 129 Stamina Recovery , When you Roll Dodge through an enemy, you deal 1198 Physical Damage and knock them down for 3 seconds. This effect scales off the higher of your Physical or Spell Resistance.",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Броня +1487(4 предмета) Макс. запас сил +1096(5 предметов) Восст. запаса сил +129 , Совершая кувырок сквозь противника вы наносите ему 188ед. физического урона и сбиваете с ног на 3сек. Сила этого эффекта зависит от значения вашей физической или магической сопротивляемости (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.kvatch_gladiator",
+    "type": "usual",
+    "farm_way": "craft",
+    "weight": "mixed",
+    "name": {
+      "en": "Kvatch Gladiator",
+      "ru": "Гладиатор Кватча"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) You gain 1475 Weapon and Spell Damage against targets who are at or below 25% Health.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) В сражениях с противниками с уровнем здоровья 25% или ниже ваша сила оружия и заклинаний увеличивается на 1475."
+    }
+  },
+  {
+    "id": "set.pelinals_wrath",
+    "type": "usual",
+    "farm_way": "craft",
+    "weight": "mixed",
+    "name": {
+      "en": "Pelinal's Wrath",
+      "ru": "Ярость Пелинала"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 1487 Offensive Penetration(4 items) Adds 129 Weapon and Spell Damage(5 items) Whenever you kill an enemy you gain a damage shield that absorbs up to 3876 damage for 10 seconds and a stack of Wrath of Whitestrake for 10 seconds. Each stack of Wrath of Whitestrake grants you 100 Weapon and Spell Damage , but causes you to take 160 Oblivion damage every second, up to 10 stacks. The damage shield scales off the higher of your Weapon or Spell Damage, and the damage scales off your Max Health.",
+      "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Пробивание +1487(4 предмета) Сила оружия и заклинаний +129(5 предметов) При убийстве противника 160ы получаете щит который поглощает до 4457ед. урона в течение 10сек. и заряд эффекта Ярость Вайтстрейка на 10сек. Каждый заряд увеличивает вашу силу оружия и заклинаний на 100 но при этом вы раз в секунду получаете 173ед. урона Обливиона. Всего можно накопить не более 10зарядов. Сила щита зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением) а количество получаемого урона— от вашего максимального запаса здоровья."
+    }
+  },
+  {
+    "id": "set.sithis_touch",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Sithis' Touch",
+      "ru": "Прикосновение Ситиса"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 1096 Maximum Magicka(4 items) Adds 129 Weapon and Spell Damage(5 items) When you kill an enemy you gain 5% movement speed for 30 seconds and become invisible for 3 seconds. The movement speed stacks up to 20 times.",
+      "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Макс. магия +1096(4 предмета) Сила оружия и заклинаний +129(5 предметов) При убийстве противника ваша скорость передвижения увеличивается на 5% в течение 30сек. и вы становитесь невидимы на 3сек. Эффект увеличения скорости передвижения может суммироваться до 20раз."
+    }
+  },
+  {
+    "id": "set.varens_legacy",
+    "type": "usual",
+    "farm_way": "craft",
+    "weight": "mixed",
+    "name": {
+      "en": "Varen's Legacy",
+      "ru": "Наследие Варена"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 1096 Maximum Stamina(4 items) Adds 4% Healing Taken(5 items) When you Block, your next direct damage area of effect attack used within 5 seconds deals an additional 3290 damage. This bonus does not work with channeled effects. This effect can occur once every 2 seconds.",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Макс. запас сил +1096(4 предмета) Получаемое лечение +4%(5 предметов) При блокировании вы увеличиваете урон своей следующей атаки с прямым уроном действующей по площади совершенной в течение 5сек. на 3290. Этот бонус не распространяется на эффекты требующие поддержания. Этот эффект может срабатывать не чаще чем раз в 2сек."
+    }
+  },
+  {
+    "id": "set.drakes_rush",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Drake's Rush",
+      "ru": "Натиск Змея"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 1096 Maximum Stamina(4 items) Adds 1096 Maximum Stamina(5 items) When you Bash an enemy, you and up to 3 group members within 15 meters of you gain Major Heroism for 12 seconds, granting you 3 Ultimate every 1.5 seconds. This effect can occur once every 18 seconds.",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Макс. запас сил +1096(4 предмета) Макс. запас сил +1096(5 предметов) При нанесении противнику прерывающего удара вы и 3других члена вашей группы в радиусе 15метров от вас на 12сек. получаете эффект Великий героизм восстанавливающий 3очк. суперспособности раз в 1,5сек. Этот эффект может срабатывать не чаще чем раз в 18сек."
+    }
+  },
+  {
+    "id": "set.encratiss_behemoth",
+    "type": "monster",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Encratis's Behemoth",
+      "ru": "Чудовище Энкратиса"
+    },
+    "bonuses": {
+      "en": "(1 item) Adds 1096 Maximum Magicka(2 items) Dealing Flame Damage to an enemy grants you Behemoth's Aura for 12 seconds that reaches up to 12 meters. You and up to 11 group members in the aura reduce Flame Damage taken by 5%. Enemies in the aura increase their Flame Damage taken by 5%. This effect can occur once every 15 seconds.",
+      "ru": "(1 предмет) Макс. магия +1096(2 предмета) При нанесении противнику огненного урона вы на 12сек. получаете эффект Аура чудовища действующий в радиусе 12метров. Вы и еще 11 членов вашей группы находящиеся в области действия ауры получаете на 5% меньше огненного урона а находящиеся в области действия противники— на 5% больше. Этот эффект может срабатывать не чаще чем раз в 15сек."
+    }
+  },
+  {
+    "id": "set.kinrass_wrath",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Kinras's Wrath",
+      "ru": "Гнев Кинраса"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 657 Critical Chance(4 items) Adds 129 Weapon and Spell Damage(5 items) Dealing damage with a Light or Heavy Attack grants you a stack of Burning Heart for 5 seconds, up to 5 stacks. While you have 5 stacks, you generate an aura of wrath, granting you Major Berserk , increasing your damage done by 10%. While you have an aura of wrath, group members within 12 meters of you gain Minor Berserk , increasing their damage done by 5%.",
+      "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Шанс крит. удара +657(4 предмета) Сила оружия и заклинаний +129(5 предметов) При нанесении урона обычной или силовой атакой вы на5сек. получаете заряд эффекта Пылающее сердце (всего можно накопить до 5зарядов). По накоплении 5зарядов вас окутывает аура гнева и вы получаете эффект Великая ярость увеличивающий наносимый вами урон на10%. Пока аура гнева активна члены группы в радиусе 12метров получают эффект Малая ярость увеличивающий наносимый ими урон на5%."
+    }
+  },
+  {
+    "id": "set.true_sworn_fury",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "True-Sworn Fury",
+      "ru": "Ярость Истинной Клятвы"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 657 Critical Chance(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 1096 Maximum Magicka(5 items) Adds 708 Critical Chance and increases your Critical Damage by 4%. While in combat, this bonus doubles when you are under 75% Health and quadruples when you are under 50% Health.",
+      "ru": "(2 предмета) Шанс крит. удара +657(3 предмета) Сила оружия и заклинаний +129(4 предмета) Макс. магия +1096(5 предметов) Показатель критического удара увеличивается на 708 а критический урон— на 4%. Если в бою у вас остается менее 75% здоровья эти значения увеличиваются в2раза а если менее 50% здоровья— в4раза."
+    }
+  },
+  {
+    "id": "set.aurorans_thunder",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "light",
+    "name": {
+      "en": "Auroran's Thunder",
+      "ru": "Гром аврорианца"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1206 Maximum Health(3 items) Adds 129 Weapon and Spell Damage(4 items) Adds 1487 Offensive Penetration(5 items) Dealing direct damage to a target within 10 meters of you summons a cone of lightning from your chest for 5 seconds, dealing 397 Shock Damage every 1 second to enemies in the cone. This effect can occur every 10 seconds and scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(2 предмета) Макс. здоровье +1206(3 предмета) Сила оружия и заклинаний +129(4 предмета) Пробивание +1487(5 предметов) Ко397да вы наносите прямой урон цели в радиусе 10м от вас из вашей груди вырывается молния которая наносит всем врагам в конусе перед вами 456ед. электрического урона раз в 1сек. в течение 5сек. Этот эффект может срабатывать не чаще чем раз в 10сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.frozen_watcher",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "heavy",
+    "name": {
+      "en": "Frozen Watcher",
+      "ru": "Морозный страж"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 1096 Maximum Stamina(3 items) Adds 1206 Maximum Health(4 items) Adds 1096 Maximum Stamina(5 items) Summon a blizzard around you while you are Bracing, inflicting 496 Frost Damage every 1 second to enemies within 6 meters. This effect scales off your Max Health and has a 15% chance of inflicting the Chilled status effect.",
+      "ru": "(2 предмета) Макс. запас сил +1096(3 предмета) Макс. здоровье +1206(4 предмета) Макс. запас сил +1096(5 предметов) Находясь 496 защитной стойке вы призываете метель которая разв1сек. наносит противникам в радиусе 6метров от вас 539ед. морозного урона . Сила этого эффекта зависит от вашего максимального запаса здоровья. Метель с 15%-й вероятностью накладывает эффект состояния Обморожение."
+    }
+  },
+  {
+    "id": "set.scavenging_demise",
+    "type": "usual",
+    "farm_way": "farm",
+    "weight": "medium",
+    "name": {
+      "en": "Scavenging Demise",
+      "ru": "Беспощадный Пожиратель"
+    },
+    "bonuses": {
+      "en": "(2 items) Adds 129 Weapon and Spell Damage(3 items) Adds 657 Critical Chance(4 items) Adds 657 Critical Chance(5 items) When you deal Critical Poison Damage to an enemy, summon the Scavenging Maw which attacks your enemy after 2 seconds. The Scavenging Maw deals 2587 Poison Damage and inflicts Minor Vulnerability for 15 seconds, increasing their damage taken by 5%. This effect can occur every 10 seconds and scales off the higher of your Weapon or Spell Damage.",
+      "ru": "(2 предмета) Сила оружия и заклинаний +129(3 предмета) Шанс крит. удара +657(4 предмета) Шанс крит. удара +657(5 предметов) При нанесении критическо2587о ядовитого урона вы призываете Пожирателя Мертвечины который атакует противника спустя 2сек. Пожиратель наносит 2975ед. ядовитого урона и на 15сек. накладывает на цель эффект Малая уязвимость увеличивающий получаемый ею урон на 5%. Этот эффект может срабатывать не чаще чем раз в 10сек. а его сила зависит от вашей силы оружия или заклинаний (учитывается характеристика с более высоким значением)."
+    }
+  },
+  {
+    "id": "set.symphony_of_blades",
+    "type": "monster",
+    "farm_way": "farm",
+    "weight": "mixed",
+    "name": {
+      "en": "Symphony of Blades",
+      "ru": "Симфония Клинков"
+    },
+    "bonuses": {
+      "en": "(1 item) Adds 4% Healing Done(2 items) When you heal a group member who is under 50% of their primary resource, grant them Meridia's Favor, which restores 570 Magicka or Stamina every 1 second for 6 seconds. This effect can occur every 18 seconds per target. This effect cannot target yourself, and the resource returned is based off the target's highest maximum resource.",
+      "ru": "(1 предмет) Исходящее лечение +4%(2 предмета) Исцеляя члена группы уровень основного ресурса которого ниже 50% вы накладываете на него эффект Покровительство Меридии восстанавливающий 570ед. магии или запаса сил раз в1сек. в течение 6сек. Этот эффект может срабатывать на одной цели не чаще чем раз в18сек. Эффект нельзя накладывать на себя а восстанавливаемый ресурс зависит от того максимальный запас какой из характеристик цели больше."
+    }
   }
 ]

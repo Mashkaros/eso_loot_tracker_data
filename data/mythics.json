@@ -358,5 +358,17 @@
       "en": "(1 item) Increases your movement speed by 15% while in combat. Increases your movement speed by 45% while out of combat.",
       "ru": "(1 предмет) Ваша скорость передвижения увеличивается на 15% в бою и на 45%— вне боя."
     }
+  },
+  {
+    "id": "myth.mad_gods_dancing_shoes",
+    "slot": "feet",
+    "name": {
+      "en": "Mad God's Dancing Shoes",
+      "ru": "Танцевальные туфли Безумного Бога"
+    },
+    "bonuses": {
+      "en": "(1 item) While in combat, roll dodging creates a random effect. This effect can occur once every 3 seconds. Effects: -Create a cheese wheel under an enemy within 15 meters that deals 1250 Magic damage to enemies in 3 meters after 1 second. -Deal 1000 Physical damage to enemies facing you after 1.5 seconds. -Deal 1395 Magic damage to the nearest enemy. -Gain Major Expedition for 4.5 seconds. -Restore 1172 Stamina. -Reduce the cost of your next non-Ultimate ability by 14%. -Gain 7 Ultimate.",
+      "ru": "(1 предмет) При использовании в бою ку1250ырка вы получаете случайный эффект. Это может происходить не чаще чем раз 1000сек. Эффекты: — Вы создаете под но1395ами у противника в радиусе 15м головку сыра. Спустя 1сек. сыр наносит 1437ед. магического урона противникам в радиусе 3метров. — Спустя 1,5сек. вы наносите противникам стоящим к вам лицом, 1150ед. физического урона. — Вы наносите 1604ед. магического урона ближайшему противнику. — Вы на4,5сек. получаете эффект Великое ускорение. — Вы восстанавливаете 1172ед. запаса сил. — Стоимость применения вашей следующей обычной способности уменьшается на14%. — Вы получаете 7очк. суперспособности."
+    }
   }
 ]

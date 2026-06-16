@@ -1690,5 +1690,93 @@
   {
     "set_id": "set.bloodspawn",
     "source_id": "src.undaunted_maj"
+  },
+  {
+    "set_id": "set.flanking_strategist",
+    "source_id": "src.gold_coast"
+  },
+  {
+    "set_id": "set.hide_of_morihaus",
+    "source_id": "src.gold_coast"
+  },
+  {
+    "set_id": "set.sithis_touch",
+    "source_id": "src.gold_coast"
+  },
+  {
+    "set_id": "set.kvatch_gladiator",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.pelinals_wrath",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.varens_legacy",
+    "source_id": "src.crafting_station"
+  },
+  {
+    "set_id": "set.drakes_rush",
+    "source_id": "src.black_drake_villa.normal"
+  },
+  {
+    "set_id": "set.drakes_rush",
+    "source_id": "src.black_drake_villa.vet"
+  },
+  {
+    "set_id": "set.kinrass_wrath",
+    "source_id": "src.black_drake_villa.normal"
+  },
+  {
+    "set_id": "set.kinrass_wrath",
+    "source_id": "src.black_drake_villa.vet"
+  },
+  {
+    "set_id": "set.true_sworn_fury",
+    "source_id": "src.black_drake_villa.normal"
+  },
+  {
+    "set_id": "set.true_sworn_fury",
+    "source_id": "src.black_drake_villa.vet"
+  },
+  {
+    "set_id": "set.encratiss_behemoth",
+    "source_id": "src.black_drake_villa.vet"
+  },
+  {
+    "set_id": "set.encratiss_behemoth",
+    "source_id": "src.undaunted_urgarlag"
+  },
+  {
+    "set_id": "set.aurorans_thunder",
+    "source_id": "src.depths_of_malatar.normal"
+  },
+  {
+    "set_id": "set.aurorans_thunder",
+    "source_id": "src.depths_of_malatar.vet"
+  },
+  {
+    "set_id": "set.frozen_watcher",
+    "source_id": "src.depths_of_malatar.normal"
+  },
+  {
+    "set_id": "set.frozen_watcher",
+    "source_id": "src.depths_of_malatar.vet"
+  },
+  {
+    "set_id": "set.scavenging_demise",
+    "source_id": "src.depths_of_malatar.normal"
+  },
+  {
+    "set_id": "set.scavenging_demise",
+    "source_id": "src.depths_of_malatar.vet"
+  },
+  {
+    "set_id": "set.symphony_of_blades",
+    "source_id": "src.depths_of_malatar.vet"
+  },
+  {
+    "set_id": "set.symphony_of_blades",
+    "source_id": "src.undaunted_urgarlag"
   }
 ]

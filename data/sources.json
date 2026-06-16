@@ -702,5 +702,45 @@
       "en": "Spindleclutch II Vet",
       "ru": "Логово Мёртвой Хватки II Ветеранское"
     }
+  },
+  {
+    "id": "src.gold_coast",
+    "type": "overland",
+    "name": {
+      "en": "Gold Coast ",
+      "ru": "Золотой берег"
+    }
+  },
+  {
+    "id": "src.black_drake_villa.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Black Drake Villa Normal",
+      "ru": "Вилла Черного Змея Обычное"
+    }
+  },
+  {
+    "id": "src.black_drake_villa.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Black Drake Villa Vet",
+      "ru": "Вилла Черного Змея Ветеранское"
+    }
+  },
+  {
+    "id": "src.depths_of_malatar.normal",
+    "type": "dungeon",
+    "name": {
+      "en": "Depths of Malatar Normal",
+      "ru": "Глубины Малатара Обычное"
+    }
+  },
+  {
+    "id": "src.depths_of_malatar.vet",
+    "type": "dungeon",
+    "name": {
+      "en": "Depths of Malatar Vet",
+      "ru": "Глубины Малатара Ветеранское"
+    }
   }
 ]
